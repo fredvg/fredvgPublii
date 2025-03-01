@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fredvg.github.io/fredvgPublii/sitemap.xml

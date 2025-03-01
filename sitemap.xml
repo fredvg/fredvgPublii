@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://fredvg.github.io/fredvgPublii/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://fredvg.github.io/fredvgPublii/</loc>
+</url>
+<url>
+<loc>https://fredvg.github.io/fredvgPublii/default-post-template.html</loc>
+<lastmod>2025-02-25T22:48:27-05:00</lastmod>
+</url>
+<url>
+<loc>https://fredvg.github.io/fredvgPublii/red-lion-inn.html</loc>
+<lastmod>2025-02-26T15:08:44-05:00</lastmod>
+</url>
+<url>
+<loc>https://fredvg.github.io/fredvgPublii/resolution-1.html</loc>
+<lastmod>2025-02-25T22:33:17-05:00</lastmod>
+</url>
+<url>
+<loc>https://fredvg.github.io/fredvgPublii/the-eight-mountains.html</loc>
+<lastmod>2025-02-26T15:14:47-05:00</lastmod>
+</url>
+<url>
+<loc>https://fredvg.github.io/fredvgPublii/thinking-with-type.html</loc>
+<lastmod>2025-02-26T15:12:45-05:00</lastmod>
+</url>
+<url>
+<loc>https://fredvg.github.io/fredvgPublii/winter-running.html</loc>
+<lastmod>2025-02-25T22:06:15-05:00</lastmod>
+<image:image>
+<image:loc>https://fredvg.github.io/fredvgPublii/media/posts/3/2024-12-25-13.19.33-crop-2.jpeg</image:loc>
+<image:title><![CDATA[A snow-covered forest road on a sunny day.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://fredvg.github.io/fredvgPublii/work.html</loc>
+<lastmod>2025-02-25T22:49:48-05:00</lastmod>
+</url>
+</urlset>
