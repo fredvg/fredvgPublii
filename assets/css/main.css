@@ -1185,12 +1185,13 @@ textarea {
   margin-right: auto; */
   padding-left: var(--page-margin);
   padding-right: var(--page-margin);
+  padding-bottom: calc(var(--baseline) * 2 + 4vw);
 }
 .wrapper.feed {
   border-left: 1px solid var(--dark);
   border-right: 1px solid var(--dark);
   border-bottom: 1px solid var(--dark);
-  padding-bottom: var(--page-margin);
+  padding-bottom: calc(var(--baseline) * 4 + 4vw);
   margin: 0;
   width: 100%;
 }
@@ -2074,6 +2075,9 @@ textarea {
   max-width: 48rem;
   margin: 0 auto;
   text-align: center;
+}
+.footer .wrapper {
+  padding: calc(var(--baseline) * 2 + 1vw) 0;
 }
 .footer--glued {
   border: none;

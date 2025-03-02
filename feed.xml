@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Frederik Van Geloven</title>
-    <link href="https://fredvg.github.io/fredvgPublii/feed.xml" rel="self" />
-    <link href="https://fredvg.github.io/fredvgPublii" />
+    <title>Fred VG&#x27;s Feed</title>
+    <link href="https://fredvg.com/feed.xml" rel="self" />
+    <link href="https://fredvg.com" />
     <updated>2025-02-26T15:14:47-05:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
-    <id>https://fredvg.github.io/fredvgPublii</id>
+    <id>https://fredvg.com</id>
 
     <entry>
         <title>The eight mountains</title>
         <author>
             <name>Frederik Van Geloven</name>
         </author>
-        <link href="https://fredvg.github.io/fredvgPublii/the-eight-mountains.html"/>
-        <id>https://fredvg.github.io/fredvgPublii/the-eight-mountains.html</id>
+        <link href="https://fredvg.com/the-eight-mountains.html"/>
+        <id>https://fredvg.com/the-eight-mountains.html</id>
             <category term="Personal"/>
 
         <updated>2025-02-26T15:14:47-05:00</updated>
@@ -38,8 +38,8 @@
         <author>
             <name>Frederik Van Geloven</name>
         </author>
-        <link href="https://fredvg.github.io/fredvgPublii/thinking-with-type.html"/>
-        <id>https://fredvg.github.io/fredvgPublii/thinking-with-type.html</id>
+        <link href="https://fredvg.com/thinking-with-type.html"/>
+        <id>https://fredvg.com/thinking-with-type.html</id>
             <category term="Work"/>
 
         <updated>2025-02-25T21:08:54-05:00</updated>
@@ -62,8 +62,8 @@
         <author>
             <name>Frederik Van Geloven</name>
         </author>
-        <link href="https://fredvg.github.io/fredvgPublii/red-lion-inn.html"/>
-        <id>https://fredvg.github.io/fredvgPublii/red-lion-inn.html</id>
+        <link href="https://fredvg.com/red-lion-inn.html"/>
+        <id>https://fredvg.com/red-lion-inn.html</id>
             <category term="Personal"/>
 
         <updated>2025-01-16T16:05:00-05:00</updated>
@@ -89,8 +89,8 @@
         <author>
             <name>Frederik Van Geloven</name>
         </author>
-        <link href="https://fredvg.github.io/fredvgPublii/winter-running.html"/>
-        <id>https://fredvg.github.io/fredvgPublii/winter-running.html</id>
+        <link href="https://fredvg.com/winter-running.html"/>
+        <id>https://fredvg.com/winter-running.html</id>
             <category term="Personal"/>
 
         <updated>2025-01-11T11:09:40-05:00</updated>
@@ -102,7 +102,7 @@
         <content type="html">
             <![CDATA[
                 <p>Snowy runs are awesome. It was snowing during my morning run today and there was about an inch or two of fresh snow on the ground. I ran through neighborhoods, forest, and farm roads and it was beautiful. I don't bring my phone when I run, so the picture below is from a different day. It just illustrates nicely why I like running in snow.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://fredvg.github.io/fredvgPublii/media/posts/3/2024-12-25-13.19.33-crop-2.jpeg" alt="A snow-covered forest road on a sunny day." width="800" height="704" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://fredvg.github.io/fredvgPublii/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-xs.jpeg 640w ,https://fredvg.github.io/fredvgPublii/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-sm.jpeg 768w ,https://fredvg.github.io/fredvgPublii/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-md.jpeg 1024w ,https://fredvg.github.io/fredvgPublii/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-lg.jpeg 1366w ,https://fredvg.github.io/fredvgPublii/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-xl.jpeg 1600w ,https://fredvg.github.io/fredvgPublii/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-2xl.jpeg 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://fredvg.com/media/posts/3/2024-12-25-13.19.33-crop-2.jpeg" alt="A snow-covered forest road on a sunny day." width="800" height="704" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-xs.jpeg 640w ,https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-sm.jpeg 768w ,https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-md.jpeg 1024w ,https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-lg.jpeg 1366w ,https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-xl.jpeg 1600w ,https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-2xl.jpeg 1920w"></figure>
 <p>The <a href="https://youtu.be/EevTIUCJco4?si=BhiNwEoqZIBLOIaq">"Church of the long run"</a> video by Tracksmith tells the story of winter running in an amazing way. It's one of my favorite YouTube videos and marketing pieces ever.</p>
             ]]>
         </content>
@@ -112,8 +112,8 @@
         <author>
             <name>Frederik Van Geloven</name>
         </author>
-        <link href="https://fredvg.github.io/fredvgPublii/default-post-template.html"/>
-        <id>https://fredvg.github.io/fredvgPublii/default-post-template.html</id>
+        <link href="https://fredvg.com/default-post-template.html"/>
+        <id>https://fredvg.com/default-post-template.html</id>
             <category term="Work"/>
 
         <updated>2024-12-20T15:53:47-05:00</updated>
@@ -141,8 +141,8 @@
         <author>
             <name>Frederik Van Geloven</name>
         </author>
-        <link href="https://fredvg.github.io/fredvgPublii/work.html"/>
-        <id>https://fredvg.github.io/fredvgPublii/work.html</id>
+        <link href="https://fredvg.com/work.html"/>
+        <id>https://fredvg.com/work.html</id>
             <category term="Work"/>
 
         <updated>2024-12-19T22:10:00-05:00</updated>
@@ -165,8 +165,8 @@
         <author>
             <name>Frederik Van Geloven</name>
         </author>
-        <link href="https://fredvg.github.io/fredvgPublii/resolution-1.html"/>
-        <id>https://fredvg.github.io/fredvgPublii/resolution-1.html</id>
+        <link href="https://fredvg.com/resolution-1.html"/>
+        <id>https://fredvg.com/resolution-1.html</id>
             <category term="Personal"/>
 
         <updated>2024-12-19T18:14:54-05:00</updated>
