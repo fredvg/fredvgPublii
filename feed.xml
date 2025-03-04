@@ -3,31 +3,31 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2025-03-04T12:19:56-05:00</updated>
+    <updated>2025-03-04T13:46:13-05:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
     <entry>
-        <title>Kottke.org</title>
+        <title>Playground</title>
         <author>
             <name>Frederik Van Geloven</name>
         </author>
-        <link href="https://fredvg.com/kottkeorg.html"/>
-        <id>https://fredvg.com/kottkeorg.html</id>
+        <link href="https://fredvg.com/playground.html"/>
+        <id>https://fredvg.com/playground.html</id>
             <category term="Personal"/>
 
-        <updated>2025-03-04T12:10:21-05:00</updated>
+        <updated>2025-03-04T13:45:25-05:00</updated>
             <summary>
                 <![CDATA[
-                    <p><a href="https://kottke.org/25/02/a-programming-note-1"></a><a href="https://kottke.org/25/02/wind-it-back">Kottke.org</a> is one of the best and longest running indieweb websites out there. If that wasn't enough reason to feature it here, they have recently pivoted to posting almost exclusively about the ongoing coup. ✊</p>
+                    <p><a href="https://www.richardpowers.net/playground/">Richard Powers — Playground</a></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://kottke.org/25/02/a-programming-note-1"></a><a href="https://kottke.org/25/02/wind-it-back">Kottke.org</a> is one of the best and longest running indieweb websites out there. If that wasn't enough reason to feature it here, they have recently pivoted to posting almost exclusively about the ongoing coup. ✊</p>
+                <p><a href="https://www.richardpowers.net/playground/">Richard Powers — Playground</a></p>
 
 <p> </p>
             ]]>
@@ -52,6 +52,30 @@
         <content type="html">
             <![CDATA[
                 <p><a href="https://papress.com/products/thinking-with-type-3-edition">Thinking with Type — Ellen Lupton</a></p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Kottke.org</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/kottkeorg.html"/>
+        <id>https://fredvg.com/kottkeorg.html</id>
+            <category term="Personal"/>
+
+        <updated>2025-02-14T12:10:00-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><a href="https://kottke.org/25/02/a-programming-note-1"></a><a href="https://kottke.org/25/02/wind-it-back">Kottke.org</a> is one of the best and longest running indieweb websites out there. If that wasn't enough reason to feature it here, they have recently pivoted to posting almost exclusively about the ongoing coup. ✊</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://kottke.org/25/02/a-programming-note-1"></a><a href="https://kottke.org/25/02/wind-it-back">Kottke.org</a> is one of the best and longest running indieweb websites out there. If that wasn't enough reason to feature it here, they have recently pivoted to posting almost exclusively about the ongoing coup. ✊</p>
 
 <p> </p>
             ]]>

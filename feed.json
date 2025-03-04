@@ -10,19 +10,19 @@
     },
     "items": [
         {
-            "id": "https://fredvg.com/kottkeorg.html",
-            "url": "https://fredvg.com/kottkeorg.html",
-            "title": "Kottke.org",
-            "summary": "<p><a href=\"https://kottke.org/25/02/a-programming-note-1\"></a><a href=\"https://kottke.org/25/02/wind-it-back\">Kottke.org</a> is one of the best and longest running indieweb websites out there. If that wasn't enough reason to feature it here, they have recently pivoted to posting almost exclusively about the ongoing coup. ✊</p>\n",
-            "content_html": "<p><a href=\"https://kottke.org/25/02/a-programming-note-1\"></a><a href=\"https://kottke.org/25/02/wind-it-back\">Kottke.org</a> is one of the best and longest running indieweb websites out there. If that wasn't enough reason to feature it here, they have recently pivoted to posting almost exclusively about the ongoing coup. ✊</p>\n\n<p> </p>",
+            "id": "https://fredvg.com/playground.html",
+            "url": "https://fredvg.com/playground.html",
+            "title": "Playground",
+            "summary": "<p><a href=\"https://www.richardpowers.net/playground/\">Richard Powers — Playground</a></p>\n",
+            "content_html": "<p><a href=\"https://www.richardpowers.net/playground/\">Richard Powers — Playground</a></p>\n\n<p> </p>",
             "author": {
                 "name": "Frederik Van Geloven"
             },
             "tags": [
                    "Personal"
             ],
-            "date_published": "2025-03-04T12:10:21-05:00",
-            "date_modified": "2025-03-04T12:19:56-05:00"
+            "date_published": "2025-03-04T13:45:25-05:00",
+            "date_modified": "2025-03-04T13:45:25-05:00"
         },
         {
             "id": "https://fredvg.com/thinking-with-type.html",
@@ -38,6 +38,21 @@
             ],
             "date_published": "2025-02-25T21:08:54-05:00",
             "date_modified": "2025-02-26T15:12:45-05:00"
+        },
+        {
+            "id": "https://fredvg.com/kottkeorg.html",
+            "url": "https://fredvg.com/kottkeorg.html",
+            "title": "Kottke.org",
+            "summary": "<p><a href=\"https://kottke.org/25/02/a-programming-note-1\"></a><a href=\"https://kottke.org/25/02/wind-it-back\">Kottke.org</a> is one of the best and longest running indieweb websites out there. If that wasn't enough reason to feature it here, they have recently pivoted to posting almost exclusively about the ongoing coup. ✊</p>\n",
+            "content_html": "<p><a href=\"https://kottke.org/25/02/a-programming-note-1\"></a><a href=\"https://kottke.org/25/02/wind-it-back\">Kottke.org</a> is one of the best and longest running indieweb websites out there. If that wasn't enough reason to feature it here, they have recently pivoted to posting almost exclusively about the ongoing coup. ✊</p>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Personal"
+            ],
+            "date_published": "2025-02-14T12:10:00-05:00",
+            "date_modified": "2025-03-04T13:46:13-05:00"
         },
         {
             "id": "https://fredvg.com/the-eight-mountains.html",
