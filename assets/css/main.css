@@ -1592,6 +1592,10 @@ textarea {
   margin-top: 0;
   color: var(--text-color);
 }
+.post__cat img {
+  height: 20px;
+  background-color: var(--light);
+}
 @media all and (min-width: 37.5em) {
   .content__bio {
     align-items: center;

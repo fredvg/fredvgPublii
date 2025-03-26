@@ -3,12 +3,60 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2025-03-05T18:04:39-05:00</updated>
+    <updated>2025-03-25T20:18:07-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>Owls in Towels</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/owls-in-towels.html"/>
+        <id>https://fredvg.com/owls-in-towels.html</id>
+            <category term="Personal"/>
+
+        <updated>2025-03-24T13:07:38-04:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>As a health communicator and a user experience designer, I fully endorse this. <a href="https://owlsintowels.org/">Owls in towels</a> is a great website.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>As a health communicator and a user experience designer, I fully endorse this. <a href="https://owlsintowels.org/">Owls in towels</a> is a great website.</p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Slow Productivity</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/slow-productivity.html"/>
+        <id>https://fredvg.com/slow-productivity.html</id>
+            <category term="Work"/>
+
+        <updated>2025-03-09T10:50:00-04:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><a href="https://calnewport.com/my-new-book-slow-productivity/">Cal Newport — Slow Productivity</a></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://calnewport.com/my-new-book-slow-productivity/">Cal Newport — Slow Productivity</a></p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Healthy People LHI Infographics</title>
         <author>
@@ -207,51 +255,6 @@
 <p>So to put my money where my mouth is. Or rather, to spend my time where my people are, my resolution for 2025 is to keep this website updated and to publish whatever I feel like sharing here.</p>
 <p>I also plan to ressurect the idea of a <em>blogroll</em>, and share other indiewebsites I like. More on that soon.</p>
 <p>For now, thanks for reading! Let me know if you have your own website you'd like me to check out.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Work</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/work.html"/>
-        <id>https://fredvg.com/work.html</id>
-            <category term="Work"/>
-
-        <updated>2024-12-19T22:10:00-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>I'm a user experience design strategist, I make digital products easier — and more fun — to use. I work at <a class="external" href="https://communicatehealth.com">CommunicateHealth</a>. We like plain language and straightforward company names.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I'm a user experience design strategist, I make digital products easier — and more fun — to use. I work at <a class="external" href="https://communicatehealth.com">CommunicateHealth</a>. We like plain language and straightforward company names.</p>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Resolution #1</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/resolution-1.html"/>
-        <id>https://fredvg.com/resolution-1.html</id>
-            <category term="Personal"/>
-
-        <updated>2024-12-19T18:14:54-05:00</updated>
-            <summary>
-                <![CDATA[
-                    I don't post here often enough, but I'm trying to do better.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I don't post here often enough, but I'm trying to do better.</p>
             ]]>
         </content>
     </entry>
