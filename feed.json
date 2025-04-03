@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/nyc-transit-map.html",
+            "url": "https://fredvg.com/nyc-transit-map.html",
+            "title": "NYC transit map",
+            "summary": "<p>I'll always be a bit nostalgic for the NYC subway map I used when I lived there. But as a fan of Massimo Vignelli, I love that <a href=\"https://www.nytimes.com/2025/04/02/nyregion/nyc-new-subway-map.html\" title=\"New NYC Transit Map\">the new design</a> is reminiscent of the 1972 Unimark map.</p>\n",
+            "content_html": "<p>I'll always be a bit nostalgic for the NYC subway map I used when I lived there. But as a fan of Massimo Vignelli, I love that <a href=\"https://www.nytimes.com/2025/04/02/nyregion/nyc-new-subway-map.html\" title=\"New NYC Transit Map\">the new design</a> is reminiscent of the 1972 Unimark map.</p>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Personal"
+            ],
+            "date_published": "2025-04-03T16:21:46-04:00",
+            "date_modified": "2025-04-03T16:22:43-04:00"
+        },
+        {
             "id": "https://fredvg.com/owls-in-towels.html",
             "url": "https://fredvg.com/owls-in-towels.html",
             "title": "Owls in Towels",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2025-01-11T11:09:40-05:00",
             "date_modified": "2025-02-25T22:06:15-05:00"
-        },
-        {
-            "id": "https://fredvg.com/default-post-template.html",
-            "url": "https://fredvg.com/default-post-template.html",
-            "title": "Return to the indieweb",
-            "summary": "Not that anyone cares, but I'm back on the indieweb. Who, what, why?! Yes, all good questions. In my — admittedly personal — definition, the indieweb is the equivalent of mom-and-pop shops for the web. In other words, instead of publishing to large social media&hellip;",
-            "content_html": "<p>Not that anyone cares, but I'm back on the <a href=\"https://indieweb.org/\">indieweb</a>. Who, what, why?! Yes, all good questions.</p>\n<p>In my — admittedly personal — definition, the indieweb is the equivalent of mom-and-pop shops for the web. In other words, instead of publishing to large social media platforms, or maintaining a web presence through a proprietary system like Squarespace, I'm taking ownership of my personal website.</p>\n<p>As a <em>web-professional</em> I've had a personal website for the last 25 years. Over the years, my website has lived in a variety of places (URLs) and has been created in a variety of platforms. The last few years though, it has mostly been a very basic (hand-rolled) one-page website.</p>\n<p>Also in recent years, I've stopped publishing to social media. Unhappy with how Meta was (is) run, I deleted my Facebook account years ago. This was an entirely futile and even hypocritical move. No one cares whether I have a Facebook account or not. I quit Twitter when Musk bought it. At the time, I switched to Mastodon, but I never really used it.</p>\n<p>Other platforms I have accounts for — some of which I've even posted to — are YouTube, Substack, Pinterest, and Tumblr (owned by WordPress). Most of these have had their share of controversy. And even when they are not actively trying to make the world a worse place, they are still for profit — mostly advertising-driven — businesses. Which means they'll try to keep me scrolling for as long as possible while they try to sell me things or ideas I don't want or need.</p>\n<p>I much prefer to spend time online outside of the control of algorithms. I'm one of the few people who still relies heavily on RSS, and very much appreciate when people take the time to maintain an <em>indieweb</em> online presence.</p>\n<p>So to put my money where my mouth is. Or rather, to spend my time where my people are, my resolution for 2025 is to keep this website updated and to publish whatever I feel like sharing here.</p>\n<p>I also plan to ressurect the idea of a <em>blogroll</em>, and share other indiewebsites I like. More on that soon.</p>\n<p>For now, thanks for reading! Let me know if you have your own website you'd like me to check out.</p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Work"
-            ],
-            "date_published": "2024-12-20T15:53:47-05:00",
-            "date_modified": "2025-02-25T22:48:27-05:00"
         }
     ]
 }
