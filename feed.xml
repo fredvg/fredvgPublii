@@ -3,12 +3,36 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2025-04-03T16:22:43-04:00</updated>
+    <updated>2025-04-22T07:41:31-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>Bite-sized book review: Slow Productivity</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/bite-sized-book-review-slow-productivity.html"/>
+        <id>https://fredvg.com/bite-sized-book-review-slow-productivity.html</id>
+            <category term="Personal"/>
+
+        <updated>2025-04-22T07:40:57-04:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><strong>Bite-sized book review:</strong> <a href="https://calnewport.com/my-new-book-slow-productivity/">Cal Newport — Slow Productivity</a> | A promising premise. But ultimately disappointing. At least it was short and entertaining.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Bite-sized book review:</strong> <a href="https://calnewport.com/my-new-book-slow-productivity/">Cal Newport — Slow Productivity</a> | A promising premise. But ultimately disappointing. At least it was short and entertaining.</p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>NYC transit map</title>
         <author>
@@ -227,29 +251,6 @@
 <p>My want for a kind of old-timey ambiance is what led me to stay at the <a href="https://www.redlioninn.com/history">Red Lion Inn</a> for 2 nights in the dead of New England winter.</p>
 <p>The Red Lion Inn is old. As in, 250+ years old. If you are looking for a blingy kind of luxury, this place is not it. It's got history, character, and cosiness in abandon. But it's not fancy. It's not a grand hotel. Think Great Northern Hotel from Twin Peaks, but older and maybe a bit more treadbare. I gotta say though, it's really <em>gezellig</em> to sit here by the fire in the lobby, and write this post while listening to classical music and the comings and goings of other guests.</p>
 <p>PS: As I was writing this post and thinking of my favorite show of all time (Twin Peaks), I found out that David Lynch has passed away. Thanks for all the great works of art you left us with, Mr. Lynch.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Winter running</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/winter-running.html"/>
-        <id>https://fredvg.com/winter-running.html</id>
-            <category term="Personal"/>
-
-        <updated>2025-01-11T11:09:40-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Snowy runs are awesome. It was snowing during my morning run today and there was about an inch or two of fresh snow on the ground. I ran through neighborhoods, forest, and farm roads and it was beautiful. I don't bring my phone when I&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Snowy runs are awesome. It was snowing during my morning run today and there was about an inch or two of fresh snow on the ground. I ran through neighborhoods, forest, and farm roads and it was beautiful. I don't bring my phone when I run, so the picture below is from a different day. It just illustrates nicely why I like running in snow.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://fredvg.com/media/posts/3/2024-12-25-13.19.33-crop-2.jpeg" alt="A snow-covered forest road on a sunny day." width="800" height="704" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-xs.jpeg 640w ,https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-sm.jpeg 768w ,https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-md.jpeg 1024w ,https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-lg.jpeg 1366w ,https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-xl.jpeg 1600w ,https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-2xl.jpeg 1920w"></figure>
-<p>The <a href="https://youtu.be/EevTIUCJco4?si=BhiNwEoqZIBLOIaq">"Church of the long run"</a> video by Tracksmith tells the story of winter running in an amazing way. It's one of my favorite YouTube videos and marketing pieces ever.</p>
             ]]>
         </content>
     </entry>

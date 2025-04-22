@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/bite-sized-book-review-slow-productivity.html",
+            "url": "https://fredvg.com/bite-sized-book-review-slow-productivity.html",
+            "title": "Bite-sized book review: Slow Productivity",
+            "summary": "<p><strong>Bite-sized book review:</strong> <a href=\"https://calnewport.com/my-new-book-slow-productivity/\">Cal Newport — Slow Productivity</a> | A promising premise. But ultimately disappointing. At least it was short and entertaining.</p>\n",
+            "content_html": "<p><strong>Bite-sized book review:</strong> <a href=\"https://calnewport.com/my-new-book-slow-productivity/\">Cal Newport — Slow Productivity</a> | A promising premise. But ultimately disappointing. At least it was short and entertaining.</p>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Personal"
+            ],
+            "date_published": "2025-04-22T07:40:57-04:00",
+            "date_modified": "2025-04-22T07:41:31-04:00"
+        },
+        {
             "id": "https://fredvg.com/nyc-transit-map.html",
             "url": "https://fredvg.com/nyc-transit-map.html",
             "title": "NYC transit map",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2025-01-16T16:05:00-05:00",
             "date_modified": "2025-02-26T15:08:44-05:00"
-        },
-        {
-            "id": "https://fredvg.com/winter-running.html",
-            "url": "https://fredvg.com/winter-running.html",
-            "title": "Winter running",
-            "summary": "Snowy runs are awesome. It was snowing during my morning run today and there was about an inch or two of fresh snow on the ground. I ran through neighborhoods, forest, and farm roads and it was beautiful. I don't bring my phone when I&hellip;",
-            "content_html": "<p>Snowy runs are awesome. It was snowing during my morning run today and there was about an inch or two of fresh snow on the ground. I ran through neighborhoods, forest, and farm roads and it was beautiful. I don't bring my phone when I run, so the picture below is from a different day. It just illustrates nicely why I like running in snow.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://fredvg.com/media/posts/3/2024-12-25-13.19.33-crop-2.jpeg\" alt=\"A snow-covered forest road on a sunny day.\" width=\"800\" height=\"704\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-xs.jpeg 640w ,https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-sm.jpeg 768w ,https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-md.jpeg 1024w ,https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-lg.jpeg 1366w ,https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-xl.jpeg 1600w ,https://fredvg.com/media/posts/3/responsive/2024-12-25-13.19.33-crop-2-2xl.jpeg 1920w\"></figure>\n<p>The <a href=\"https://youtu.be/EevTIUCJco4?si=BhiNwEoqZIBLOIaq\">\"Church of the long run\"</a> video by Tracksmith tells the story of winter running in an amazing way. It's one of my favorite YouTube videos and marketing pieces ever.</p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Personal"
-            ],
-            "date_published": "2025-01-11T11:09:40-05:00",
-            "date_modified": "2025-02-25T22:06:15-05:00"
         }
     ]
 }
