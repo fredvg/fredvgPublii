@@ -3,12 +3,36 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2025-04-22T07:41:31-04:00</updated>
+    <updated>2025-05-07T17:31:25-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>UX writing tip: link text</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/ux-writing-tip-link-text.html"/>
+        <id>https://fredvg.com/ux-writing-tip-link-text.html</id>
+            <category term="Work"/>
+
+        <updated>2025-05-07T17:31:25-04:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>I just posted a free (!) <a href="https://www.linkedin.com/posts/fredvg_heres-a-quick-tip-i-almost-didnt-share-activity-7325990021771980803-csg9?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAACERWUsBPK8RpvmUBitzlnFGnjETdcxlZ_U">UX writing tip to LinkedIn</a>. You never know, you might find it helpful.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I just posted a free (!) <a href="https://www.linkedin.com/posts/fredvg_heres-a-quick-tip-i-almost-didnt-share-activity-7325990021771980803-csg9?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAACERWUsBPK8RpvmUBitzlnFGnjETdcxlZ_U">UX writing tip to LinkedIn</a>. You never know, you might find it helpful.</p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bite-sized book review: Slow Productivity</title>
         <author>
@@ -224,33 +248,6 @@
                 <p><a href="https://www.debezigebij.nl/boek/de-acht-bergen/">De acht bergen — Paolo Cognetti</a></p>
 
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Red Lion Inn</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/red-lion-inn.html"/>
-        <id>https://fredvg.com/red-lion-inn.html</id>
-            <category term="Personal"/>
-
-        <updated>2025-01-16T16:05:00-05:00</updated>
-            <summary>
-                <![CDATA[
-                    I consider myself a modernist. My sense of aesthetic leans clean and simple. Think Bauhaus, Swiss Design, and maybe a hint of Scandinavian or Japanese minimalism. At the same time, I'm a sucker for "gezelligheid". That's the Dutch word for cosiness or "hygge" if you&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I consider myself a modernist. My sense of aesthetic leans clean and simple. Think Bauhaus, Swiss Design, and maybe a hint of Scandinavian or Japanese minimalism.</p>
-<p>At the same time, I'm a sucker for "<a href="https://en.wikipedia.org/wiki/Gezelligheid">gezelligheid</a>". That's the Dutch word for cosiness or "<a href="https://en.wikipedia.org/wiki/Hygge">hygge</a>" if you will. I have fond memories of playing with my LEGO in the living room, while <a href="https://youtu.be/284y4oDmvJw?si=hfneiTBFGUkvA_5t">Countdown</a> is on the TV and my mom is preparing dinner in the kitchen.</p>
-<p>Now, as a grown-up, I love sitting by the fire with a book, a glass of scotch, and a jazz record playing in the background. A cliché, I know, but good old <em>gezelligheid is </em>inevitably nostalgic and a bit cliché.</p>
-<p>Newness, innovation, and forward-thinking don't jive well with coziness. At least not by my definition.</p>
-<p>My want for a kind of old-timey ambiance is what led me to stay at the <a href="https://www.redlioninn.com/history">Red Lion Inn</a> for 2 nights in the dead of New England winter.</p>
-<p>The Red Lion Inn is old. As in, 250+ years old. If you are looking for a blingy kind of luxury, this place is not it. It's got history, character, and cosiness in abandon. But it's not fancy. It's not a grand hotel. Think Great Northern Hotel from Twin Peaks, but older and maybe a bit more treadbare. I gotta say though, it's really <em>gezellig</em> to sit here by the fire in the lobby, and write this post while listening to classical music and the comings and goings of other guests.</p>
-<p>PS: As I was writing this post and thinking of my favorite show of all time (Twin Peaks), I found out that David Lynch has passed away. Thanks for all the great works of art you left us with, Mr. Lynch.</p>
             ]]>
         </content>
     </entry>
