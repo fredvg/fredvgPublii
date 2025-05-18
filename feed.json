@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/dataviz-information-is-beautiful.html",
+            "url": "https://fredvg.com/dataviz-information-is-beautiful.html",
+            "title": "Dataviz: Information is Beautiful",
+            "summary": "<p>I love fun, creative, data visualization. Information is Beatiful is a source of endless inspiration. <a href=\"https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/\">This interactive visualization of how true \"based on a true story\" films actually are</a>, is a great example.</p>\n",
+            "content_html": "<p>I love fun, creative, data visualization. Information is Beatiful is a source of endless inspiration. <a href=\"https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/\">This interactive visualization of how true \"based on a true story\" films actually are</a>, is a great example.</p>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Work"
+            ],
+            "date_published": "2025-05-18T17:42:51-04:00",
+            "date_modified": "2025-05-18T17:42:51-04:00"
+        },
+        {
             "id": "https://fredvg.com/ux-writing-tip-link-text.html",
             "url": "https://fredvg.com/ux-writing-tip-link-text.html",
             "title": "UX writing tip: link text",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2025-02-14T12:10:00-05:00",
             "date_modified": "2025-03-04T13:46:13-05:00"
-        },
-        {
-            "id": "https://fredvg.com/the-eight-mountains.html",
-            "url": "https://fredvg.com/the-eight-mountains.html",
-            "title": "The eight mountains",
-            "summary": "<p><a href=\"https://www.debezigebij.nl/boek/de-acht-bergen/\">De acht bergen — Paolo Cognetti</a></p>\n",
-            "content_html": "<p><a href=\"https://www.debezigebij.nl/boek/de-acht-bergen/\">De acht bergen — Paolo Cognetti</a></p>\n\n<p> </p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Personal"
-            ],
-            "date_published": "2025-01-26T15:14:00-05:00",
-            "date_modified": "2025-03-25T20:18:07-04:00"
         }
     ]
 }
