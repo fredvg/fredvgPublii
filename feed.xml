@@ -3,12 +3,36 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2025-05-19T08:25:00-04:00</updated>
+    <updated>2025-06-08T10:22:42-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>ClearMark Award: Show Me for Emergencies</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/clearmark-award-show-me-for-emergencies.html"/>
+        <id>https://fredvg.com/clearmark-award-show-me-for-emergencies.html</id>
+            <category term="Work"/>
+
+        <updated>2025-06-08T10:22:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>I don't usually get too excited about <a href="https://www.linkedin.com/posts/communicatehealth-inc%2E_healthcommunication-healthcomm-healthequity-activity-7331730250856341506-e7CX?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAACERWUsBPK8RpvmUBitzlnFGnjETdcxlZ_U">winning industry awards</a>. Making digital products better isn't — and shouldn't be — a competition. That said, the Show Me for Emergencies app (<a href="https://play.google.com/store/apps/details?id=gov.ma.dph.showme&amp;hl=en_US&amp;pli=1">Android</a>, <a href="https://apps.apple.com/us/app/show-me-for-emergencies/id840012297">iOS</a>) deserves all the recognition and promotion it can get. It was an honor and a pleasure to be a part of the team bringing this to life.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I don't usually get too excited about <a href="https://www.linkedin.com/posts/communicatehealth-inc%2E_healthcommunication-healthcomm-healthequity-activity-7331730250856341506-e7CX?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAACERWUsBPK8RpvmUBitzlnFGnjETdcxlZ_U">winning industry awards</a>. Making digital products better isn't — and shouldn't be — a competition. That said, the Show Me for Emergencies app (<a href="https://play.google.com/store/apps/details?id=gov.ma.dph.showme&amp;hl=en_US&amp;pli=1">Android</a>, <a href="https://apps.apple.com/us/app/show-me-for-emergencies/id840012297">iOS</a>) deserves all the recognition and promotion it can get. It was an honor and a pleasure to be a part of the team bringing this to life.</p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Dataviz: Information is Beautiful</title>
         <author>
@@ -222,30 +246,6 @@
         <content type="html">
             <![CDATA[
                 <p><a href="https://papress.com/products/thinking-with-type-3-edition">Thinking with Type — Ellen Lupton</a></p>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Kottke.org</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/kottkeorg.html"/>
-        <id>https://fredvg.com/kottkeorg.html</id>
-            <category term="Personal"/>
-
-        <updated>2025-02-14T12:10:00-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><a href="https://kottke.org/25/02/a-programming-note-1"></a><a href="https://kottke.org/25/02/wind-it-back">Kottke.org</a> is one of the best and longest running indieweb websites out there. If that wasn't enough reason to feature it here, they have recently pivoted to posting almost exclusively about the ongoing coup. ✊</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://kottke.org/25/02/a-programming-note-1"></a><a href="https://kottke.org/25/02/wind-it-back">Kottke.org</a> is one of the best and longest running indieweb websites out there. If that wasn't enough reason to feature it here, they have recently pivoted to posting almost exclusively about the ongoing coup. ✊</p>
 
 <p> </p>
             ]]>
