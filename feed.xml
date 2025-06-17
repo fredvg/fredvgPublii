@@ -3,12 +3,60 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2025-06-08T10:22:42-04:00</updated>
+    <updated>2025-06-17T17:13:46-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>Craig Mod — Things Become Other Things</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/craig-mod-things-become-other-things.html"/>
+        <id>https://fredvg.com/craig-mod-things-become-other-things.html</id>
+            <category term="Personal"/>
+
+        <updated>2025-06-17T17:13:46-04:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Does listening to the audiobook count as "reading"? I listened to Craig Mod reading <a href="https://craigmod.com/books/things_become_other_things/">Things Become Other Things</a> during 2 yardwork sessions. While doing yardwork is meditative in a different way than walking is, it still felt perfectly appropriate. </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Does listening to the audiobook count as "reading"? I listened to Craig Mod reading <a href="https://craigmod.com/books/things_become_other_things/">Things Become Other Things</a> during 2 yardwork sessions. While doing yardwork is meditative in a different way than walking is, it still felt perfectly appropriate. </p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Vignelli Canon</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/the-vignelli-canon.html"/>
+        <id>https://fredvg.com/the-vignelli-canon.html</id>
+            <category term="Work"/>
+
+        <updated>2025-06-10T15:08:00-04:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>I recently reread <a href="https://www.rit.edu/vignellicenter/sites/rit.edu.vignellicenter/files/documents/The%20Vignelli%20Canon.pdf">The Vignelli Canon</a>, still as great and inspiring as ever.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I recently reread <a href="https://www.rit.edu/vignellicenter/sites/rit.edu.vignellicenter/files/documents/The%20Vignelli%20Canon.pdf">The Vignelli Canon</a>, still as great and inspiring as ever.</p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>ClearMark Award: Show Me for Emergencies</title>
         <author>
@@ -198,54 +246,6 @@
             <![CDATA[
                 <p>Together with our client ODPHP, we recently launched dynamic and interactive <a href="https://odphp.health.gov/healthypeople/objectives-and-data/leading-health-indicators/leading-health-indicators-infographics">infographics for Healthy People 2030 Leading Health Indicators</a>.</p>
 <p>This was a fun data visualization challenge. I'm so lucky to work with a great team of people who help me execute my (sometimes hare-brained) ideas.</p>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Playground</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/playground.html"/>
-        <id>https://fredvg.com/playground.html</id>
-            <category term="Personal"/>
-
-        <updated>2025-03-04T13:45:25-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><a href="https://www.richardpowers.net/playground/">Richard Powers — Playground</a></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://www.richardpowers.net/playground/">Richard Powers — Playground</a></p>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Thinking with type</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/thinking-with-type.html"/>
-        <id>https://fredvg.com/thinking-with-type.html</id>
-            <category term="Work"/>
-
-        <updated>2025-02-25T21:08:54-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><a href="https://papress.com/products/thinking-with-type-3-edition">Thinking with Type — Ellen Lupton</a></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://papress.com/products/thinking-with-type-3-edition">Thinking with Type — Ellen Lupton</a></p>
 
 <p> </p>
             ]]>

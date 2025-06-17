@@ -10,6 +10,36 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/craig-mod-things-become-other-things.html",
+            "url": "https://fredvg.com/craig-mod-things-become-other-things.html",
+            "title": "Craig Mod — Things Become Other Things",
+            "summary": "<p>Does listening to the audiobook count as \"reading\"? I listened to Craig Mod reading <a href=\"https://craigmod.com/books/things_become_other_things/\">Things Become Other Things</a> during 2 yardwork sessions. While doing yardwork is meditative in a different way than walking is, it still felt perfectly appropriate. </p>\n",
+            "content_html": "<p>Does listening to the audiobook count as \"reading\"? I listened to Craig Mod reading <a href=\"https://craigmod.com/books/things_become_other_things/\">Things Become Other Things</a> during 2 yardwork sessions. While doing yardwork is meditative in a different way than walking is, it still felt perfectly appropriate. </p>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Personal"
+            ],
+            "date_published": "2025-06-17T17:13:46-04:00",
+            "date_modified": "2025-06-17T17:13:46-04:00"
+        },
+        {
+            "id": "https://fredvg.com/the-vignelli-canon.html",
+            "url": "https://fredvg.com/the-vignelli-canon.html",
+            "title": "The Vignelli Canon",
+            "summary": "<p>I recently reread <a href=\"https://www.rit.edu/vignellicenter/sites/rit.edu.vignellicenter/files/documents/The%20Vignelli%20Canon.pdf\">The Vignelli Canon</a>, still as great and inspiring as ever.</p>\n",
+            "content_html": "<p>I recently reread <a href=\"https://www.rit.edu/vignellicenter/sites/rit.edu.vignellicenter/files/documents/The%20Vignelli%20Canon.pdf\">The Vignelli Canon</a>, still as great and inspiring as ever.</p>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Work"
+            ],
+            "date_published": "2025-06-10T15:08:00-04:00",
+            "date_modified": "2025-06-17T17:09:10-04:00"
+        },
+        {
             "id": "https://fredvg.com/clearmark-award-show-me-for-emergencies.html",
             "url": "https://fredvg.com/clearmark-award-show-me-for-emergencies.html",
             "title": "ClearMark Award: Show Me for Emergencies",
@@ -128,36 +158,6 @@
             ],
             "date_published": "2025-03-05T18:04:39-05:00",
             "date_modified": "2025-03-05T18:04:39-05:00"
-        },
-        {
-            "id": "https://fredvg.com/playground.html",
-            "url": "https://fredvg.com/playground.html",
-            "title": "Playground",
-            "summary": "<p><a href=\"https://www.richardpowers.net/playground/\">Richard Powers — Playground</a></p>\n",
-            "content_html": "<p><a href=\"https://www.richardpowers.net/playground/\">Richard Powers — Playground</a></p>\n\n<p> </p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Personal"
-            ],
-            "date_published": "2025-03-04T13:45:25-05:00",
-            "date_modified": "2025-03-04T13:45:25-05:00"
-        },
-        {
-            "id": "https://fredvg.com/thinking-with-type.html",
-            "url": "https://fredvg.com/thinking-with-type.html",
-            "title": "Thinking with type",
-            "summary": "<p><a href=\"https://papress.com/products/thinking-with-type-3-edition\">Thinking with Type — Ellen Lupton</a></p>\n",
-            "content_html": "<p><a href=\"https://papress.com/products/thinking-with-type-3-edition\">Thinking with Type — Ellen Lupton</a></p>\n\n<p> </p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Work"
-            ],
-            "date_published": "2025-02-25T21:08:54-05:00",
-            "date_modified": "2025-02-26T15:12:45-05:00"
         }
     ]
 }
