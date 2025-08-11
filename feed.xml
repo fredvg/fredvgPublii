@@ -3,7 +3,7 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2025-06-17T17:13:46-04:00</updated>
+    <updated>2025-08-07T23:12:41-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
@@ -16,18 +16,20 @@
         </author>
         <link href="https://fredvg.com/craig-mod-things-become-other-things.html"/>
         <id>https://fredvg.com/craig-mod-things-become-other-things.html</id>
-            <category term="Personal"/>
+            <category term="Reading"/>
 
         <updated>2025-06-17T17:13:46-04:00</updated>
             <summary>
                 <![CDATA[
-                    <p>Does listening to the audiobook count as "reading"? I listened to Craig Mod reading <a href="https://craigmod.com/books/things_become_other_things/">Things Become Other Things</a> during 2 yardwork sessions. While doing yardwork is meditative in a different way than walking is, it still felt perfectly appropriate. </p>
+                    <p>Does listening to an audiobook count as "reading"? I'm not sure it does. Either way, I listened to Craig Mod reading his (audio)book <a href="https://craigmod.com/books/things_become_other_things/">Things Become Other Things</a> while working in the yard. Craig made the opposite move from me, he emigrated from the US. I immigrated here instead. It felt perfectly appropriate to listen to Craig's story while tending to my little suburban piece of America.</p>
+<p>Go give it a listen, or read the actual book. I highly recommend it. If you listen to the audiobook, don't miss the photos, they're in the <em>extras</em>.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Does listening to the audiobook count as "reading"? I listened to Craig Mod reading <a href="https://craigmod.com/books/things_become_other_things/">Things Become Other Things</a> during 2 yardwork sessions. While doing yardwork is meditative in a different way than walking is, it still felt perfectly appropriate. </p>
+                <p>Does listening to an audiobook count as "reading"? I'm not sure it does. Either way, I listened to Craig Mod reading his (audio)book <a href="https://craigmod.com/books/things_become_other_things/">Things Become Other Things</a> while working in the yard. Craig made the opposite move from me, he emigrated from the US. I immigrated here instead. It felt perfectly appropriate to listen to Craig's story while tending to my little suburban piece of America.</p>
+<p>Go give it a listen, or read the actual book. I highly recommend it. If you listen to the audiobook, don't miss the photos, they're in the <em>extras</em>.</p>
 
 <p> </p>
             ]]>
@@ -40,7 +42,7 @@
         </author>
         <link href="https://fredvg.com/the-vignelli-canon.html"/>
         <id>https://fredvg.com/the-vignelli-canon.html</id>
-            <category term="Work"/>
+            <category term="Reading"/>
 
         <updated>2025-06-10T15:08:00-04:00</updated>
             <summary>
@@ -64,7 +66,8 @@
         </author>
         <link href="https://fredvg.com/clearmark-award-show-me-for-emergencies.html"/>
         <id>https://fredvg.com/clearmark-award-show-me-for-emergencies.html</id>
-            <category term="Work"/>
+            <category term="Portfolio"/>
+            <category term="Award"/>
 
         <updated>2025-06-08T10:22:42-04:00</updated>
             <summary>
@@ -88,7 +91,7 @@
         </author>
         <link href="https://fredvg.com/dataviz-information-is-beautiful.html"/>
         <id>https://fredvg.com/dataviz-information-is-beautiful.html</id>
-            <category term="Work"/>
+            <category term="Inspiration"/>
 
         <updated>2025-05-18T17:42:51-04:00</updated>
             <summary>
@@ -112,7 +115,7 @@
         </author>
         <link href="https://fredvg.com/ux-writing-tip-link-text.html"/>
         <id>https://fredvg.com/ux-writing-tip-link-text.html</id>
-            <category term="Work"/>
+            <category term="Notes"/>
 
         <updated>2025-05-07T17:31:25-04:00</updated>
             <summary>
@@ -136,7 +139,7 @@
         </author>
         <link href="https://fredvg.com/bite-sized-book-review-slow-productivity.html"/>
         <id>https://fredvg.com/bite-sized-book-review-slow-productivity.html</id>
-            <category term="Work"/>
+            <category term="Reading"/>
 
         <updated>2025-04-22T07:40:57-04:00</updated>
             <summary>
@@ -160,7 +163,7 @@
         </author>
         <link href="https://fredvg.com/nyc-transit-map.html"/>
         <id>https://fredvg.com/nyc-transit-map.html</id>
-            <category term="Personal"/>
+            <category term="Notes"/>
 
         <updated>2025-04-03T16:21:46-04:00</updated>
             <summary>
@@ -184,7 +187,7 @@
         </author>
         <link href="https://fredvg.com/owls-in-towels.html"/>
         <id>https://fredvg.com/owls-in-towels.html</id>
-            <category term="Personal"/>
+            <category term="Indieweb"/>
 
         <updated>2025-03-24T13:07:38-04:00</updated>
             <summary>
@@ -208,7 +211,7 @@
         </author>
         <link href="https://fredvg.com/slow-productivity.html"/>
         <id>https://fredvg.com/slow-productivity.html</id>
-            <category term="Work"/>
+            <category term="Reading"/>
 
         <updated>2025-03-09T10:50:00-04:00</updated>
             <summary>
@@ -232,7 +235,7 @@
         </author>
         <link href="https://fredvg.com/healthy-people-lhi-infographics.html"/>
         <id>https://fredvg.com/healthy-people-lhi-infographics.html</id>
-            <category term="Work"/>
+            <category term="Portfolio"/>
 
         <updated>2025-03-05T18:04:39-05:00</updated>
             <summary>

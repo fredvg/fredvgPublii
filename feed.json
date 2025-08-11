@@ -5,6 +5,7 @@
     "home_page_url": "https://fredvg.com",
     "feed_url": "https://fredvg.com/feed.json",
     "user_comment": "",
+    "icon": "https://fredvg.com/media/website/SVG-Logo.svg",
     "author": {
         "name": "Frederik Van Geloven"
     },
@@ -13,16 +14,16 @@
             "id": "https://fredvg.com/craig-mod-things-become-other-things.html",
             "url": "https://fredvg.com/craig-mod-things-become-other-things.html",
             "title": "Craig Mod — Things Become Other Things",
-            "summary": "<p>Does listening to the audiobook count as \"reading\"? I listened to Craig Mod reading <a href=\"https://craigmod.com/books/things_become_other_things/\">Things Become Other Things</a> during 2 yardwork sessions. While doing yardwork is meditative in a different way than walking is, it still felt perfectly appropriate. </p>\n",
-            "content_html": "<p>Does listening to the audiobook count as \"reading\"? I listened to Craig Mod reading <a href=\"https://craigmod.com/books/things_become_other_things/\">Things Become Other Things</a> during 2 yardwork sessions. While doing yardwork is meditative in a different way than walking is, it still felt perfectly appropriate. </p>\n\n<p> </p>",
+            "summary": "<p>Does listening to an audiobook count as \"reading\"? I'm not sure it does. Either way, I listened to Craig Mod reading his (audio)book <a href=\"https://craigmod.com/books/things_become_other_things/\">Things Become Other Things</a> while working in the yard. Craig made the opposite move from me, he emigrated from the US. I immigrated here instead. It felt perfectly appropriate to listen to Craig's story while tending to my little suburban piece of America.</p>\n<p>Go give it a listen, or read the actual book. I highly recommend it. If you listen to the audiobook, don't miss the photos, they're in the <em>extras</em>.</p>\n",
+            "content_html": "<p>Does listening to an audiobook count as \"reading\"? I'm not sure it does. Either way, I listened to Craig Mod reading his (audio)book <a href=\"https://craigmod.com/books/things_become_other_things/\">Things Become Other Things</a> while working in the yard. Craig made the opposite move from me, he emigrated from the US. I immigrated here instead. It felt perfectly appropriate to listen to Craig's story while tending to my little suburban piece of America.</p>\n<p>Go give it a listen, or read the actual book. I highly recommend it. If you listen to the audiobook, don't miss the photos, they're in the <em>extras</em>.</p>\n\n<p> </p>",
             "author": {
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Personal"
+                   "Reading"
             ],
             "date_published": "2025-06-17T17:13:46-04:00",
-            "date_modified": "2025-06-17T17:13:46-04:00"
+            "date_modified": "2025-08-07T23:12:41-04:00"
         },
         {
             "id": "https://fredvg.com/the-vignelli-canon.html",
@@ -34,10 +35,10 @@
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Work"
+                   "Reading"
             ],
             "date_published": "2025-06-10T15:08:00-04:00",
-            "date_modified": "2025-06-17T17:09:10-04:00"
+            "date_modified": "2025-08-07T17:14:17-04:00"
         },
         {
             "id": "https://fredvg.com/clearmark-award-show-me-for-emergencies.html",
@@ -49,10 +50,11 @@
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Work"
+                   "Portfolio",
+                   "Award"
             ],
             "date_published": "2025-06-08T10:22:42-04:00",
-            "date_modified": "2025-06-08T10:22:42-04:00"
+            "date_modified": "2025-08-07T17:14:57-04:00"
         },
         {
             "id": "https://fredvg.com/dataviz-information-is-beautiful.html",
@@ -64,10 +66,10 @@
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Work"
+                   "Inspiration"
             ],
             "date_published": "2025-05-18T17:42:51-04:00",
-            "date_modified": "2025-05-19T08:25:00-04:00"
+            "date_modified": "2025-08-07T22:45:12-04:00"
         },
         {
             "id": "https://fredvg.com/ux-writing-tip-link-text.html",
@@ -79,10 +81,10 @@
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Work"
+                   "Notes"
             ],
             "date_published": "2025-05-07T17:31:25-04:00",
-            "date_modified": "2025-05-07T17:31:25-04:00"
+            "date_modified": "2025-08-07T22:45:44-04:00"
         },
         {
             "id": "https://fredvg.com/bite-sized-book-review-slow-productivity.html",
@@ -94,10 +96,10 @@
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Work"
+                   "Reading"
             ],
             "date_published": "2025-04-22T07:40:57-04:00",
-            "date_modified": "2025-05-07T17:32:41-04:00"
+            "date_modified": "2025-08-07T22:46:29-04:00"
         },
         {
             "id": "https://fredvg.com/nyc-transit-map.html",
@@ -109,10 +111,10 @@
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Personal"
+                   "Notes"
             ],
             "date_published": "2025-04-03T16:21:46-04:00",
-            "date_modified": "2025-04-03T16:22:43-04:00"
+            "date_modified": "2025-08-07T22:46:56-04:00"
         },
         {
             "id": "https://fredvg.com/owls-in-towels.html",
@@ -124,10 +126,10 @@
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Personal"
+                   "Indieweb"
             ],
             "date_published": "2025-03-24T13:07:38-04:00",
-            "date_modified": "2025-03-25T20:17:57-04:00"
+            "date_modified": "2025-08-07T22:47:19-04:00"
         },
         {
             "id": "https://fredvg.com/slow-productivity.html",
@@ -139,10 +141,10 @@
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Work"
+                   "Reading"
             ],
             "date_published": "2025-03-09T10:50:00-04:00",
-            "date_modified": "2025-03-25T20:18:02-04:00"
+            "date_modified": "2025-08-07T22:47:45-04:00"
         },
         {
             "id": "https://fredvg.com/healthy-people-lhi-infographics.html",
@@ -154,10 +156,10 @@
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Work"
+                   "Portfolio"
             ],
             "date_published": "2025-03-05T18:04:39-05:00",
-            "date_modified": "2025-03-05T18:04:39-05:00"
+            "date_modified": "2025-08-07T22:48:39-04:00"
         }
     ]
 }
