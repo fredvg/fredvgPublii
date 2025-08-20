@@ -3,12 +3,38 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2025-08-13T22:09:35-04:00</updated>
+    <updated>2025-08-20T19:18:08-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>#OpenToWork</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/opentowork.html"/>
+        <id>https://fredvg.com/opentowork.html</id>
+            <category term="Portfolio"/>
+            <category term="Notes"/>
+
+        <updated>2025-08-20T17:53:48-04:00</updated>
+            <summary>
+                <![CDATA[
+                    The morning of November 6th 2024, I told my partner Laura: "This isn't just horrible news in general, it's probably going to cost me my job". Turns out that was true. So, as I prepare for what's next, I'm officially "open to work". As you&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The morning of November 6th 2024, I told my partner Laura: "This isn't just horrible news <em>in general</em>, it's probably going to cost me my job".</p>
+<p>Turns out <a href="https://www.linkedin.com/posts/stacyrobison_whenxanthi-scrimgeourand-i-started-communicatehealth-activity-7362135753415446528-FTnA">that was true</a>.</p>
+<p>So, as I prepare for what's next, I'm officially "open to work". As you — probably — know, since you are reading this on my personal website, I'm a digital product designer. My primary focus is user experience design and strategy. But my skills extend to UI design, UX writing, content strategy, and more.</p>
+<p class="whitespace-normal break-words">I'm drawn to companies and nonprofits using design and technology to combat misinformation, increase accessibility, promote equity, or any mission where thoughtful design can help create a more just and informed society.</p>
+<p>I lost the job I loved — working towards a mission I believe in — to anti-science and (what I believe to be) neo-fascism. I'm not about to give up the fight. If you are working towards making the internet a force for good in the world, <a href="https://www.linkedin.com/in/fredvg">please get in touch</a>. I'd love to chat about how we can help each other.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bite-sized book review: Playground</title>
         <author>
@@ -227,30 +253,6 @@
         <content type="html">
             <![CDATA[
                 <p>As a health communicator and a user experience designer, I fully endorse this. <a href="https://owlsintowels.org/">Owls in towels</a> is a great website.</p>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Slow Productivity</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/slow-productivity.html"/>
-        <id>https://fredvg.com/slow-productivity.html</id>
-            <category term="Reading"/>
-
-        <updated>2025-03-09T10:50:00-04:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><a href="https://calnewport.com/my-new-book-slow-productivity/">Cal Newport — Slow Productivity</a></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://calnewport.com/my-new-book-slow-productivity/">Cal Newport — Slow Productivity</a></p>
 
 <p> </p>
             ]]>

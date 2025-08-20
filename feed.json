@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/opentowork.html",
+            "url": "https://fredvg.com/opentowork.html",
+            "title": "#OpenToWork",
+            "summary": "The morning of November 6th 2024, I told my partner Laura: \"This isn't just horrible news in general, it's probably going to cost me my job\". Turns out that was true. So, as I prepare for what's next, I'm officially \"open to work\". As you&hellip;",
+            "content_html": "<p>The morning of November 6th 2024, I told my partner Laura: \"This isn't just horrible news <em>in general</em>, it's probably going to cost me my job\".</p>\n<p>Turns out <a href=\"https://www.linkedin.com/posts/stacyrobison_whenxanthi-scrimgeourand-i-started-communicatehealth-activity-7362135753415446528-FTnA\">that was true</a>.</p>\n<p>So, as I prepare for what's next, I'm officially \"open to work\". As you — probably — know, since you are reading this on my personal website, I'm a digital product designer. My primary focus is user experience design and strategy. But my skills extend to UI design, UX writing, content strategy, and more.</p>\n<p class=\"whitespace-normal break-words\">I'm drawn to companies and nonprofits using design and technology to combat misinformation, increase accessibility, promote equity, or any mission where thoughtful design can help create a more just and informed society.</p>\n<p>I lost the job I loved — working towards a mission I believe in — to anti-science and (what I believe to be) neo-fascism. I'm not about to give up the fight. If you are working towards making the internet a force for good in the world, <a href=\"https://www.linkedin.com/in/fredvg\">please get in touch</a>. I'd love to chat about how we can help each other.</p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Portfolio",
+                   "Notes"
+            ],
+            "date_published": "2025-08-20T17:53:48-04:00",
+            "date_modified": "2025-08-20T19:18:08-04:00"
+        },
+        {
             "id": "https://fredvg.com/bite-sized-book-review-playground.html",
             "url": "https://fredvg.com/bite-sized-book-review-playground.html",
             "title": "Bite-sized book review: Playground",
@@ -145,21 +161,6 @@
             ],
             "date_published": "2025-03-24T13:07:38-04:00",
             "date_modified": "2025-08-07T22:47:19-04:00"
-        },
-        {
-            "id": "https://fredvg.com/slow-productivity.html",
-            "url": "https://fredvg.com/slow-productivity.html",
-            "title": "Slow Productivity",
-            "summary": "<p><a href=\"https://calnewport.com/my-new-book-slow-productivity/\">Cal Newport — Slow Productivity</a></p>\n",
-            "content_html": "<p><a href=\"https://calnewport.com/my-new-book-slow-productivity/\">Cal Newport — Slow Productivity</a></p>\n\n<p> </p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Reading"
-            ],
-            "date_published": "2025-03-09T10:50:00-04:00",
-            "date_modified": "2025-08-07T22:47:45-04:00"
         }
     ]
 }
