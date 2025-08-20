@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/bite-sized-book-review-playground.html",
+            "url": "https://fredvg.com/bite-sized-book-review-playground.html",
+            "title": "Bite-sized book review: Playground",
+            "summary": "<p><strong>Bite-sized book review: </strong><a href=\"https://www.richardpowers.net/playground/\">Playground — Richard Powers</a></p>\n<p>I came close to not finishing this a few times. I didn't dislike it but never really got into it. The ending felt a bit gimmicky.</p>\n",
+            "content_html": "<p><strong>Bite-sized book review: </strong><a href=\"https://www.richardpowers.net/playground/\">Playground — Richard Powers</a></p>\n<p>I came close to not finishing this a few times. I didn't dislike it but never really got into it. The ending felt a bit gimmicky.</p>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Reading"
+            ],
+            "date_published": "2025-08-13T22:07:18-04:00",
+            "date_modified": "2025-08-13T22:09:20-04:00"
+        },
+        {
             "id": "https://fredvg.com/craig-mod-things-become-other-things.html",
             "url": "https://fredvg.com/craig-mod-things-become-other-things.html",
             "title": "Craig Mod — Things Become Other Things",
@@ -90,8 +105,8 @@
             "id": "https://fredvg.com/bite-sized-book-review-slow-productivity.html",
             "url": "https://fredvg.com/bite-sized-book-review-slow-productivity.html",
             "title": "Bite-sized book review: Slow Productivity",
-            "summary": "<p><strong>Bite-sized book review:</strong> <a href=\"https://calnewport.com/my-new-book-slow-productivity/\">Cal Newport — Slow Productivity</a> | A promising premise. But ultimately disappointing. At least it was short and entertaining.</p>\n",
-            "content_html": "<p><strong>Bite-sized book review:</strong> <a href=\"https://calnewport.com/my-new-book-slow-productivity/\">Cal Newport — Slow Productivity</a> | A promising premise. But ultimately disappointing. At least it was short and entertaining.</p>\n\n<p> </p>",
+            "summary": "<p><strong>Bite-sized book review:</strong> <a href=\"https://calnewport.com/my-new-book-slow-productivity/\">Cal Newport — Slow Productivity</a></p>\n<p>A promising premise. But ultimately disappointing. At least it was short and entertaining.</p>\n",
+            "content_html": "<p><strong>Bite-sized book review:</strong> <a href=\"https://calnewport.com/my-new-book-slow-productivity/\">Cal Newport — Slow Productivity</a></p>\n<p>A promising premise. But ultimately disappointing. At least it was short and entertaining.</p>\n\n<p> </p>",
             "author": {
                 "name": "Frederik Van Geloven"
             },
@@ -99,7 +114,7 @@
                    "Reading"
             ],
             "date_published": "2025-04-22T07:40:57-04:00",
-            "date_modified": "2025-08-07T22:46:29-04:00"
+            "date_modified": "2025-08-13T22:09:35-04:00"
         },
         {
             "id": "https://fredvg.com/nyc-transit-map.html",
@@ -145,21 +160,6 @@
             ],
             "date_published": "2025-03-09T10:50:00-04:00",
             "date_modified": "2025-08-07T22:47:45-04:00"
-        },
-        {
-            "id": "https://fredvg.com/healthy-people-lhi-infographics.html",
-            "url": "https://fredvg.com/healthy-people-lhi-infographics.html",
-            "title": "Healthy People LHI Infographics",
-            "summary": "<p>Together with our client ODPHP, we recently launched dynamic and interactive <a href=\"https://odphp.health.gov/healthypeople/objectives-and-data/leading-health-indicators/leading-health-indicators-infographics\">infographics for Healthy People 2030 Leading Health Indicators</a>.</p>\n<p>This was a fun data visualization challenge. I'm so lucky to work with a great team of people who help me execute my (sometimes hare-brained) ideas.</p>\n",
-            "content_html": "<p>Together with our client ODPHP, we recently launched dynamic and interactive <a href=\"https://odphp.health.gov/healthypeople/objectives-and-data/leading-health-indicators/leading-health-indicators-infographics\">infographics for Healthy People 2030 Leading Health Indicators</a>.</p>\n<p>This was a fun data visualization challenge. I'm so lucky to work with a great team of people who help me execute my (sometimes hare-brained) ideas.</p>\n\n<p> </p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Portfolio"
-            ],
-            "date_published": "2025-03-05T18:04:39-05:00",
-            "date_modified": "2025-08-07T22:48:39-04:00"
         }
     ]
 }
