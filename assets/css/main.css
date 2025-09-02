@@ -377,6 +377,10 @@ button {
   vertical-align: middle;
   will-change: transform;
 }
+.filter-button .btn {
+  width: 100%;
+  justify-content: center;
+}
 @media all and (max-width: 19.9375em) {
   .btn, [type=button],
   [type=submit],
