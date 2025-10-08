@@ -3,12 +3,60 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2025-09-18T15:37:36-04:00</updated>
+    <updated>2025-10-08T16:07:25-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>Update — #Open-To-Work</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/update-open-to-work.html"/>
+        <id>https://fredvg.com/update-open-to-work.html</id>
+            <category term="Portfolio"/>
+            <category term="Notes"/>
+
+        <updated>2025-10-08T15:40:00-04:00</updated>
+            <summary>
+                <![CDATA[
+                    An update to my #Open-To-Work post is in order. Turns out, we retained some of the contracts that we thought were ending. While the situation in public health communication and govtech design is still volatile, it looks like my tenure at CommunicateHealth can continue for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>An update to my <a href="https://fredvg.com/opentowork.html">#Open-To-Work</a> post is in order.</p>
+<p>Turns out, we retained some of the contracts that we thought were ending. While the situation in public health communication and govtech design is still volatile, it looks like my tenure at <a href="https://communicatehealth.com">CommunicateHealth</a> can continue for now.</p>
+<p>That said, my invitation to connect still stands. Whether you are hiring, or are navigating this crazy UX jobmarket, I'd <a href="https://www.linkedin.com/in/fredvg">love to connect</a> and chat about how we can help each other out.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Drishti Maurya&#x27;s Wardrobe Data Visualization</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/drishti-mauryas-wardrobe-data-visualization.html"/>
+        <id>https://fredvg.com/drishti-mauryas-wardrobe-data-visualization.html</id>
+            <category term="Inspiration"/>
+
+        <updated>2025-10-05T15:05:00-04:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>How cool is <a href="https://www.behance.net/gallery/229098685/Wardrobe-Data-Visualization#">this dataviz project</a>?!</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>How cool is <a href="https://www.behance.net/gallery/229098685/Wardrobe-Data-Visualization#">this dataviz project</a>?!</p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>#Open-To-Work</title>
         <author>
@@ -203,56 +251,6 @@
         <content type="html">
             <![CDATA[
                 <p>I just posted a free (!) <a href="https://www.linkedin.com/posts/fredvg_heres-a-quick-tip-i-almost-didnt-share-activity-7325990021771980803-csg9?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAACERWUsBPK8RpvmUBitzlnFGnjETdcxlZ_U">UX writing tip to LinkedIn</a>. You never know, you might find it helpful.</p>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Bite-sized book review: Slow Productivity</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/bite-sized-book-review-slow-productivity.html"/>
-        <id>https://fredvg.com/bite-sized-book-review-slow-productivity.html</id>
-            <category term="Read"/>
-
-        <updated>2025-04-22T07:40:57-04:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><strong>Bite-sized book review:</strong> <a href="https://calnewport.com/my-new-book-slow-productivity/">Cal Newport — Slow Productivity</a></p>
-<p>A promising premise. But ultimately disappointing. At least it was short and entertaining.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><strong>Bite-sized book review:</strong> <a href="https://calnewport.com/my-new-book-slow-productivity/">Cal Newport — Slow Productivity</a></p>
-<p>A promising premise. But ultimately disappointing. At least it was short and entertaining.</p>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>NYC transit map</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/nyc-transit-map.html"/>
-        <id>https://fredvg.com/nyc-transit-map.html</id>
-            <category term="Notes"/>
-
-        <updated>2025-04-03T16:21:46-04:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>I'll always be a bit nostalgic for the NYC subway map I used when I lived there. But as a fan of Massimo Vignelli, I love that <a href="https://www.nytimes.com/2025/04/02/nyregion/nyc-new-subway-map.html" title="New NYC Transit Map">the new design</a> is reminiscent of the 1972 Unimark map.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I'll always be a bit nostalgic for the NYC subway map I used when I lived there. But as a fan of Massimo Vignelli, I love that <a href="https://www.nytimes.com/2025/04/02/nyregion/nyc-new-subway-map.html" title="New NYC Transit Map">the new design</a> is reminiscent of the 1972 Unimark map.</p>
 
 <p> </p>
             ]]>
