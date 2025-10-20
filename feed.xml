@@ -3,12 +3,35 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2025-10-08T16:07:25-04:00</updated>
+    <updated>2025-10-17T09:01:51-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>Figma&#x27;s Color Contrast Checker</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/figmas-color-contrast-checker.html"/>
+        <id>https://fredvg.com/figmas-color-contrast-checker.html</id>
+            <category term="Notes"/>
+            <category term="Inspiration"/>
+
+        <updated>2025-10-17T09:01:51-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Figma's built-in color contrast checker is so helpful! I used to rely on a few different plugins to check color contrast. Some of those had features Figma is missing, but I love how integrated the Figma tool is. The line and dotted pattern to indicate&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Figma's built-in color contrast checker is so helpful! I used to rely on a few different plugins to check color contrast. Some of those had features Figma is missing, but I love how integrated the Figma tool is. The line and dotted pattern to indicate where the contrast falls below the standard you are checking for is such a great feature. Of course there's room for improvement. And Figma has a long way to go before they can claim to be front-runners when it comes to accessibility features. But this seemingly small feature, is a huge step in the right direction.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://fredvg.com/media/posts/29/Figma-Color-Contrast-Checker.png" alt="A screenshot of the Figma color picker tool with built-in contrast checker." width="1402" height="1014" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-xs.png 640w ,https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-sm.png 768w ,https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-md.png 1024w ,https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-lg.png 1366w ,https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-xl.png 1600w ,https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Update — #Open-To-Work</title>
         <author>
@@ -227,30 +250,6 @@
         <content type="html">
             <![CDATA[
                 <p>I love fun, creative, data visualization. Information is Beautiful is a source of endless inspiration. <a href="https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/">This interactive visualization of how true "based on a true story" films actually are</a>, is a great example.</p>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>UX writing tip: link text</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/ux-writing-tip-link-text.html"/>
-        <id>https://fredvg.com/ux-writing-tip-link-text.html</id>
-            <category term="Notes"/>
-
-        <updated>2025-05-07T17:31:25-04:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>I just posted a free (!) <a href="https://www.linkedin.com/posts/fredvg_heres-a-quick-tip-i-almost-didnt-share-activity-7325990021771980803-csg9?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAACERWUsBPK8RpvmUBitzlnFGnjETdcxlZ_U">UX writing tip to LinkedIn</a>. You never know, you might find it helpful.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I just posted a free (!) <a href="https://www.linkedin.com/posts/fredvg_heres-a-quick-tip-i-almost-didnt-share-activity-7325990021771980803-csg9?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAACERWUsBPK8RpvmUBitzlnFGnjETdcxlZ_U">UX writing tip to LinkedIn</a>. You never know, you might find it helpful.</p>
 
 <p> </p>
             ]]>

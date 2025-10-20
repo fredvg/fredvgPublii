@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/figmas-color-contrast-checker.html",
+            "url": "https://fredvg.com/figmas-color-contrast-checker.html",
+            "title": "Figma&#x27;s Color Contrast Checker",
+            "summary": "Figma's built-in color contrast checker is so helpful! I used to rely on a few different plugins to check color contrast. Some of those had features Figma is missing, but I love how integrated the Figma tool is. The line and dotted pattern to indicate&hellip;",
+            "content_html": "<p>Figma's built-in color contrast checker is so helpful! I used to rely on a few different plugins to check color contrast. Some of those had features Figma is missing, but I love how integrated the Figma tool is. The line and dotted pattern to indicate where the contrast falls below the standard you are checking for is such a great feature. Of course there's room for improvement. And Figma has a long way to go before they can claim to be front-runners when it comes to accessibility features. But this seemingly small feature, is a huge step in the right direction.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://fredvg.com/media/posts/29/Figma-Color-Contrast-Checker.png\" alt=\"A screenshot of the Figma color picker tool with built-in contrast checker.\" width=\"1402\" height=\"1014\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-xs.png 640w ,https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-sm.png 768w ,https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-md.png 1024w ,https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-lg.png 1366w ,https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-xl.png 1600w ,https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-2xl.png 1920w\"></figure>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Notes",
+                   "Inspiration"
+            ],
+            "date_published": "2025-10-17T09:01:51-04:00",
+            "date_modified": "2025-10-17T09:01:51-04:00"
+        },
+        {
             "id": "https://fredvg.com/update-open-to-work.html",
             "url": "https://fredvg.com/update-open-to-work.html",
             "title": "Update — #Open-To-Work",
@@ -147,21 +163,6 @@
             ],
             "date_published": "2025-05-18T17:42:51-04:00",
             "date_modified": "2025-08-07T22:45:12-04:00"
-        },
-        {
-            "id": "https://fredvg.com/ux-writing-tip-link-text.html",
-            "url": "https://fredvg.com/ux-writing-tip-link-text.html",
-            "title": "UX writing tip: link text",
-            "summary": "<p>I just posted a free (!) <a href=\"https://www.linkedin.com/posts/fredvg_heres-a-quick-tip-i-almost-didnt-share-activity-7325990021771980803-csg9?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAACERWUsBPK8RpvmUBitzlnFGnjETdcxlZ_U\">UX writing tip to LinkedIn</a>. You never know, you might find it helpful.</p>\n",
-            "content_html": "<p>I just posted a free (!) <a href=\"https://www.linkedin.com/posts/fredvg_heres-a-quick-tip-i-almost-didnt-share-activity-7325990021771980803-csg9?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAACERWUsBPK8RpvmUBitzlnFGnjETdcxlZ_U\">UX writing tip to LinkedIn</a>. You never know, you might find it helpful.</p>\n\n<p> </p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Notes"
-            ],
-            "date_published": "2025-05-07T17:31:25-04:00",
-            "date_modified": "2025-08-07T22:45:44-04:00"
         }
     ]
 }
