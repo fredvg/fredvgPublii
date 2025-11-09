@@ -3,12 +3,37 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2025-10-17T09:01:51-04:00</updated>
+    <updated>2025-11-09T16:17:00-05:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>Another update — #Open-To-Work</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/another-update-open-to-work.html"/>
+        <id>https://fredvg.com/another-update-open-to-work.html</id>
+            <category term="Notes"/>
+            <category term="About"/>
+
+        <updated>2025-11-09T16:14:36-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Looks like I'm no longer #open-to-work...<br><br><a href="https://luminacorps.com/news/merger-communicate-health/">Lumina Corps and CommunicateHealth Merge to Strengthen Health Communication Impact.</a></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Looks like I'm no longer #open-to-work...<br><br><a href="https://luminacorps.com/news/merger-communicate-health/">Lumina Corps and CommunicateHealth Merge to Strengthen Health Communication Impact.</a></p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Figma&#x27;s Color Contrast Checker</title>
         <author>
@@ -39,8 +64,8 @@
         </author>
         <link href="https://fredvg.com/update-open-to-work.html"/>
         <id>https://fredvg.com/update-open-to-work.html</id>
-            <category term="Portfolio"/>
             <category term="Notes"/>
+            <category term="About"/>
 
         <updated>2025-10-08T15:40:00-04:00</updated>
             <summary>
@@ -87,8 +112,8 @@
         </author>
         <link href="https://fredvg.com/opentowork.html"/>
         <id>https://fredvg.com/opentowork.html</id>
-            <category term="Portfolio"/>
             <category term="Notes"/>
+            <category term="About"/>
 
         <updated>2025-08-20T17:53:48-04:00</updated>
             <summary>
@@ -226,30 +251,6 @@
         <content type="html">
             <![CDATA[
                 <p>I don't usually get too excited about <a href="https://www.linkedin.com/posts/communicatehealth-inc%2E_healthcommunication-healthcomm-healthequity-activity-7331730250856341506-e7CX?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAACERWUsBPK8RpvmUBitzlnFGnjETdcxlZ_U">winning industry awards</a>. Making digital products better isn't — and shouldn't be — a competition. That said, the Show Me for Emergencies app (<a href="https://play.google.com/store/apps/details?id=gov.ma.dph.showme&amp;hl=en_US&amp;pli=1">Android</a>, <a href="https://apps.apple.com/us/app/show-me-for-emergencies/id840012297">iOS</a>) deserves all the recognition and promotion it can get. It was an honor and a pleasure to be a part of the team bringing this to life.</p>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Dataviz: Information is Beautiful</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/dataviz-information-is-beautiful.html"/>
-        <id>https://fredvg.com/dataviz-information-is-beautiful.html</id>
-            <category term="Inspiration"/>
-
-        <updated>2025-05-18T17:42:51-04:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>I love fun, creative, data visualization. Information is Beautiful is a source of endless inspiration. <a href="https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/">This interactive visualization of how true "based on a true story" films actually are</a>, is a great example.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I love fun, creative, data visualization. Information is Beautiful is a source of endless inspiration. <a href="https://informationisbeautiful.net/visualizations/based-on-a-true-true-story/">This interactive visualization of how true "based on a true story" films actually are</a>, is a great example.</p>
 
 <p> </p>
             ]]>
