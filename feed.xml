@@ -3,12 +3,42 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2025-12-23T19:36:45-05:00</updated>
+    <updated>2026-01-19T16:06:50-05:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>Taste</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/taste.html"/>
+        <id>https://fredvg.com/taste.html</id>
+            <category term="Inspiration"/>
+
+        <updated>2026-01-19T16:06:50-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <blockquote>
+<p><span class="">This is taste. The relentless, almost painful ability to know what should exist, what shouldn't, and where quality matters.</span></p>
+</blockquote>
+<p><a href="https://www.linkedin.com/pulse/taste-sarah-guo-u9qcf">Taste — Sarah Guo</a></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p><span class="">This is taste. The relentless, almost painful ability to know what should exist, what shouldn't, and where quality matters.</span></p>
+</blockquote>
+<p><a href="https://www.linkedin.com/pulse/taste-sarah-guo-u9qcf">Taste — Sarah Guo</a></p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Grady Hendrix — My Best Friend&#x27;s Exorcism</title>
         <author>
@@ -234,32 +264,6 @@
         <content type="html">
             <![CDATA[
                 <p><a href="https://www.oceanvuong.com/">Ocean Vuong — The Emperor of Gladness</a></p>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Bite-sized book review: Playground</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/bite-sized-book-review-playground.html"/>
-        <id>https://fredvg.com/bite-sized-book-review-playground.html</id>
-            <category term="Read"/>
-
-        <updated>2025-08-13T22:07:18-04:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><strong>Bite-sized book review: </strong><a href="https://www.richardpowers.net/playground/">Playground — Richard Powers</a></p>
-<p>I came close to not finishing this a few times. I didn't dislike it but never really got into it. The ending felt a bit gimmicky.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><strong>Bite-sized book review: </strong><a href="https://www.richardpowers.net/playground/">Playground — Richard Powers</a></p>
-<p>I came close to not finishing this a few times. I didn't dislike it but never really got into it. The ending felt a bit gimmicky.</p>
 
 <p> </p>
             ]]>

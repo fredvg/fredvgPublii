@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/taste.html",
+            "url": "https://fredvg.com/taste.html",
+            "title": "Taste",
+            "summary": "<blockquote>\n<p><span class=\"\">This is taste. The relentless, almost painful ability to know what should exist, what shouldn't, and where quality matters.</span></p>\n</blockquote>\n<p><a href=\"https://www.linkedin.com/pulse/taste-sarah-guo-u9qcf\">Taste — Sarah Guo</a></p>\n",
+            "content_html": "<blockquote>\n<p><span class=\"\">This is taste. The relentless, almost painful ability to know what should exist, what shouldn't, and where quality matters.</span></p>\n</blockquote>\n<p><a href=\"https://www.linkedin.com/pulse/taste-sarah-guo-u9qcf\">Taste — Sarah Guo</a></p>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Inspiration"
+            ],
+            "date_published": "2026-01-19T16:06:50-05:00",
+            "date_modified": "2026-01-19T16:06:50-05:00"
+        },
+        {
             "id": "https://fredvg.com/grady-hendrix-my-best-friends-exorcism.html",
             "url": "https://fredvg.com/grady-hendrix-my-best-friends-exorcism.html",
             "title": "Grady Hendrix — My Best Friend&#x27;s Exorcism",
@@ -150,21 +165,6 @@
             ],
             "date_published": "2025-08-18T15:37:00-04:00",
             "date_modified": "2025-12-23T19:27:55-05:00"
-        },
-        {
-            "id": "https://fredvg.com/bite-sized-book-review-playground.html",
-            "url": "https://fredvg.com/bite-sized-book-review-playground.html",
-            "title": "Bite-sized book review: Playground",
-            "summary": "<p><strong>Bite-sized book review: </strong><a href=\"https://www.richardpowers.net/playground/\">Playground — Richard Powers</a></p>\n<p>I came close to not finishing this a few times. I didn't dislike it but never really got into it. The ending felt a bit gimmicky.</p>\n",
-            "content_html": "<p><strong>Bite-sized book review: </strong><a href=\"https://www.richardpowers.net/playground/\">Playground — Richard Powers</a></p>\n<p>I came close to not finishing this a few times. I didn't dislike it but never really got into it. The ending felt a bit gimmicky.</p>\n\n<p> </p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Read"
-            ],
-            "date_published": "2025-08-13T22:07:18-04:00",
-            "date_modified": "2025-09-18T14:57:58-04:00"
         }
     ]
 }
