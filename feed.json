@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/bruce-springsteen.html",
+            "url": "https://fredvg.com/bruce-springsteen.html",
+            "title": "This Machine Kills Fascists",
+            "summary": "<p><a href=\"https://youtu.be/wWKSoxG1K7w?si=omeIuoGwD-T4ln73\">Bruce Springsteen — Streets of Minneapolis</a></p>\n<p>Woody Guthrie would be proud. We need more of this. Every single American needs to speak up and take a stand. When we look back, \"I didn't know\" or \"I didn't want to make things political\" won't be an acceptable excuse. You <em>do</em> know, and <em>everything</em> is political.</p>\n",
+            "content_html": "<p><a href=\"https://youtu.be/wWKSoxG1K7w?si=omeIuoGwD-T4ln73\">Bruce Springsteen — Streets of Minneapolis</a></p>\n<p>Woody Guthrie would be proud. We need more of this. Every single American needs to speak up and take a stand. When we look back, \"I didn't know\" or \"I didn't want to make things political\" won't be an acceptable excuse. You <em>do</em> know, and <em>everything</em> is political.</p>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Notes",
+                   "About"
+            ],
+            "date_published": "2026-01-28T18:56:22-05:00",
+            "date_modified": "2026-01-28T19:01:59-05:00"
+        },
+        {
             "id": "https://fredvg.com/taste.html",
             "url": "https://fredvg.com/taste.html",
             "title": "Taste",
@@ -150,21 +166,6 @@
             ],
             "date_published": "2025-08-20T17:53:48-04:00",
             "date_modified": "2025-11-09T16:17:00-05:00"
-        },
-        {
-            "id": "https://fredvg.com/ocean-vuong-the-emperor-of-gladness.html",
-            "url": "https://fredvg.com/ocean-vuong-the-emperor-of-gladness.html",
-            "title": "Ocean Vuong — The Emperor of Gladness",
-            "summary": "<p><a href=\"https://www.oceanvuong.com/\">Ocean Vuong — The Emperor of Gladness</a></p>\n",
-            "content_html": "<p><a href=\"https://www.oceanvuong.com/\">Ocean Vuong — The Emperor of Gladness</a></p>\n\n<p> </p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Read"
-            ],
-            "date_published": "2025-08-18T15:37:00-04:00",
-            "date_modified": "2025-12-23T19:27:55-05:00"
         }
     ]
 }
