@@ -3,12 +3,37 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-01-28T21:54:55-05:00</updated>
+    <updated>2026-03-05T10:57:46-05:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>Another update — #Open-To-Work</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/another-update-open-to-work-2.html"/>
+        <id>https://fredvg.com/another-update-open-to-work-2.html</id>
+            <category term="Open-To-Work"/>
+            <category term="About"/>
+
+        <updated>2026-03-05T10:46:57-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    OK, I promise I'll stop posting these #open-to-work updates. On January 1st, CommunicateHealth — the company I worked for since late 2017 — merged with Lumina Corps. This was not supposed to be a big change. My job title, list of responsibilities, clients, and projects&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>OK, I promise I'll stop posting these <a href="https://fredvg.com/tags/open-to-work/">#open-to-work updates</a>.</p>
+<p>On January 1st, CommunicateHealth — the company I worked for since late 2017 — merged with Lumina Corps. This was not supposed to be a big change. My job title, list of responsibilities, clients, and projects all stayed the same. But it quickly became clear that Lumina Corps and I were not a good fit. So, in early March we parted ways.</p>
+<p>Right now, I'm taking a bit of a breather to regroup and make sure whatever I pursue next is a good fit for my interests, talents, and experience.</p>
+<p>If you think you might have an opportunity that matches, please <a href="https://www.linkedin.com/in/fredvg">find me on LinkedIn</a>, I'd love to discuss!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>This Machine Kills Fascists</title>
         <author>
@@ -20,7 +45,7 @@
             <category term="About"/>
 
         <updated>2026-01-28T18:56:22-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     <p><a href="https://youtu.be/wWKSoxG1K7w?si=omeIuoGwD-T4ln73">Bruce Springsteen — Streets of Minneapolis</a></p>
 <p>Woody Guthrie would be proud. We need more of this. Every single American* needs to speak up and take a stand. When we look back, "I didn't know" or "I didn't want to make things political" won't be an acceptable excuse. You <em>do</em> know, and at some point <em>everything becomes political</em>.</p>
@@ -48,7 +73,7 @@
             <category term="Inspiration"/>
 
         <updated>2026-01-19T16:06:50-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     <blockquote>
 <p><span class="">This is taste. The relentless, almost painful ability to know what should exist, what shouldn't, and where quality matters.</span></p>
@@ -79,7 +104,7 @@
             <category term="AI-assist"/>
 
         <updated>2026-01-09T15:06:00-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Another dream job I sometimes daydream about: Experience Designer at Tracksmith. If you don't know Tracksmith, they're a New England running brand with an aesthetic that's a bit vintage, a bit classical, but with a modern, minimalist edge. Think wool singlets and split shorts that&hellip;
                 ]]>
@@ -104,7 +129,7 @@
             <category term="Read"/>
 
         <updated>2025-12-23T19:36:45-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     <p><a href="https://www.gradyhendrix.com/#/my-best-friends-exorcism/">Grady Hendrix — My Best Friend's Exorcism</a></p>
 
@@ -128,7 +153,7 @@
             <category term="Notes"/>
 
         <updated>2025-12-12T08:25:00-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     I’ll be honest with you, I don’t love the idea of artificial intelligence. There are many things about it I don’t like. Even the basic premise, that this technology is intelligent doesn’t match my definition of the term. Real intelligence requires more than connecting a&hellip;
                 ]]>
@@ -155,12 +180,11 @@
         </author>
         <link href="https://fredvg.com/dream-job-park-hill-orchard-farmer.html"/>
         <id>https://fredvg.com/dream-job-park-hill-orchard-farmer.html</id>
-            <category term="Work"/>
             <category term="Dream job"/>
             <category term="AI-assist"/>
 
         <updated>2025-11-14T17:30:24-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     With all the volatility that's been going on at work, I've been thinking about dream jobs lately. Not the ambitious, climb-the-ladder kind. The other kind — jobs that sound genuinely pleasant to do day-to-day, even if they might never happen. First up: farmer at Park&hellip;
                 ]]>
@@ -185,11 +209,11 @@
         </author>
         <link href="https://fredvg.com/another-update-open-to-work.html"/>
         <id>https://fredvg.com/another-update-open-to-work.html</id>
-            <category term="Notes"/>
+            <category term="Open-To-Work"/>
             <category term="About"/>
 
         <updated>2025-11-09T16:14:36-05:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     <p>Looks like I'm no longer #open-to-work...<br><br><a href="https://luminacorps.com/news/merger-communicate-health/">Lumina Corps and CommunicateHealth Merge to Strengthen Health Communication Impact.</a></p>
 
@@ -214,7 +238,7 @@
             <category term="Inspiration"/>
 
         <updated>2025-10-17T09:01:51-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Figma's built-in color contrast checker is so helpful! I used to rely on a few different plugins to check color contrast. Some of those had features Figma is missing, but I love how integrated the Figma tool is. The line and dotted pattern to indicate&hellip;
                 ]]>
@@ -233,11 +257,11 @@
         </author>
         <link href="https://fredvg.com/update-open-to-work.html"/>
         <id>https://fredvg.com/update-open-to-work.html</id>
-            <category term="Notes"/>
+            <category term="Open-To-Work"/>
             <category term="About"/>
 
         <updated>2025-10-08T15:40:00-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     An update to my #Open-To-Work post is in order. Turns out, we retained some of the contracts that we thought were ending. While the situation in public health communication and govtech design is still volatile, it looks like my tenure at CommunicateHealth can continue for&hellip;
                 ]]>
@@ -247,30 +271,6 @@
                 <p>An update to my <a href="https://fredvg.com/opentowork.html">#Open-To-Work</a> post is in order.</p>
 <p>Turns out, we retained some of the contracts that we thought were ending. While the situation in public health communication and govtech design is still volatile, it looks like my tenure at <a href="https://communicatehealth.com">CommunicateHealth</a> can continue for now.</p>
 <p>That said, my invitation to connect still stands. Whether you are hiring, or are navigating this crazy UX jobmarket, I'd <a href="https://www.linkedin.com/in/fredvg">love to connect</a> and chat about how we can help each other out.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Drishti Maurya&#x27;s Wardrobe Data Visualization</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/drishti-mauryas-wardrobe-data-visualization.html"/>
-        <id>https://fredvg.com/drishti-mauryas-wardrobe-data-visualization.html</id>
-            <category term="Inspiration"/>
-
-        <updated>2025-10-05T15:05:00-04:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>How cool is <a href="https://www.behance.net/gallery/229098685/Wardrobe-Data-Visualization#">this dataviz project</a>?!</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>How cool is <a href="https://www.behance.net/gallery/229098685/Wardrobe-Data-Visualization#">this dataviz project</a>?!</p>
-
-<p> </p>
             ]]>
         </content>
     </entry>

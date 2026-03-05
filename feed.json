@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/another-update-open-to-work-2.html",
+            "url": "https://fredvg.com/another-update-open-to-work-2.html",
+            "title": "Another update — #Open-To-Work",
+            "summary": "OK, I promise I'll stop posting these #open-to-work updates. On January 1st, CommunicateHealth — the company I worked for since late 2017 — merged with Lumina Corps. This was not supposed to be a big change. My job title, list of responsibilities, clients, and projects&hellip;",
+            "content_html": "<p>OK, I promise I'll stop posting these <a href=\"https://fredvg.com/tags/open-to-work/\">#open-to-work updates</a>.</p>\n<p>On January 1st, CommunicateHealth — the company I worked for since late 2017 — merged with Lumina Corps. This was not supposed to be a big change. My job title, list of responsibilities, clients, and projects all stayed the same. But it quickly became clear that Lumina Corps and I were not a good fit. So, in early March we parted ways.</p>\n<p>Right now, I'm taking a bit of a breather to regroup and make sure whatever I pursue next is a good fit for my interests, talents, and experience.</p>\n<p>If you think you might have an opportunity that matches, please <a href=\"https://www.linkedin.com/in/fredvg\">find me on LinkedIn</a>, I'd love to discuss!</p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Open-To-Work",
+                   "About"
+            ],
+            "date_published": "2026-03-05T10:46:57-05:00",
+            "date_modified": "2026-03-05T10:57:46-05:00"
+        },
+        {
             "id": "https://fredvg.com/bruce-springsteen.html",
             "url": "https://fredvg.com/bruce-springsteen.html",
             "title": "This Machine Kills Fascists",
@@ -97,12 +113,11 @@
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Work",
                    "Dream job",
                    "AI-assist"
             ],
             "date_published": "2025-11-14T17:30:24-05:00",
-            "date_modified": "2025-12-12T08:45:10-05:00"
+            "date_modified": "2026-03-05T10:48:50-05:00"
         },
         {
             "id": "https://fredvg.com/another-update-open-to-work.html",
@@ -114,11 +129,11 @@
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Notes",
+                   "Open-To-Work",
                    "About"
             ],
             "date_published": "2025-11-09T16:14:36-05:00",
-            "date_modified": "2025-11-09T16:16:06-05:00"
+            "date_modified": "2026-03-05T10:48:13-05:00"
         },
         {
             "id": "https://fredvg.com/figmas-color-contrast-checker.html",
@@ -146,26 +161,11 @@
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Notes",
+                   "Open-To-Work",
                    "About"
             ],
             "date_published": "2025-10-08T15:40:00-04:00",
-            "date_modified": "2025-11-09T16:16:16-05:00"
-        },
-        {
-            "id": "https://fredvg.com/drishti-mauryas-wardrobe-data-visualization.html",
-            "url": "https://fredvg.com/drishti-mauryas-wardrobe-data-visualization.html",
-            "title": "Drishti Maurya&#x27;s Wardrobe Data Visualization",
-            "summary": "<p>How cool is <a href=\"https://www.behance.net/gallery/229098685/Wardrobe-Data-Visualization#\">this dataviz project</a>?!</p>\n",
-            "content_html": "<p>How cool is <a href=\"https://www.behance.net/gallery/229098685/Wardrobe-Data-Visualization#\">this dataviz project</a>?!</p>\n\n<p> </p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Inspiration"
-            ],
-            "date_published": "2025-10-05T15:05:00-04:00",
-            "date_modified": "2025-10-08T16:07:25-04:00"
+            "date_modified": "2026-03-05T10:49:13-05:00"
         }
     ]
 }
