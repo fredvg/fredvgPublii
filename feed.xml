@@ -3,7 +3,7 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-03-05T11:05:02-05:00</updated>
+    <updated>2026-03-25T19:50:06-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
@@ -22,15 +22,39 @@
         <updated>2026-03-05T10:46:57-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    OK, I promise I'll stop posting these #open-to-work updates. On January 1st, CommunicateHealth — the company I worked for since late 2017 — merged with Lumina Corps. This was not supposed to be a big change. My job title, list of responsibilities, clients, and projects&hellip;
+                    OK, I promise I'll stop posting these #open-to-work updates (soon). On January 1st, CommunicateHealth — the company I worked for since late 2017 — merged with Lumina Corps. This was not supposed to be a big change. My job title, list of responsibilities, clients, and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>OK, I promise I'll stop posting these <a href="https://fredvg.com/tags/open-to-work/">#open-to-work updates</a>.</p>
-<p>On January 1st, CommunicateHealth — the company I worked for since late 2017 — merged with Lumina Corps. This was not supposed to be a big change. My job title, list of responsibilities, clients, and projects all stayed the same. But it quickly became clear that Lumina Corps and I were not a good fit. So, in early March we parted ways.</p>
-<p>Right now, I'm taking a bit of a breather to regroup and make sure whatever I pursue next is a good fit for my interests, talents, and experience.</p>
+                <p>OK, I promise I'll stop posting these <a href="https://fredvg.com/tags/open-to-work/">#open-to-work updates</a> (soon).</p>
+<p>On January 1st, CommunicateHealth — the company I worked for since late 2017 — merged with Lumina Corps. This was not supposed to be a big change. My job title, list of responsibilities, clients, and projects all stayed the same. Unfortunately, it quickly became clear that Lumina Corps and I were not a good fit. So, in early March we parted ways.</p>
+<p>Right now, I'm taking a bit of time to make sure whatever I pursue next is a good fit for my interests, talents, and experience.</p>
 <p>If you think you might have an opportunity that matches, please <a href="https://www.linkedin.com/in/fredvg">find me on LinkedIn</a>, I'd love to discuss!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>A Wrinkle in Time - The Graphic Novel</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/a-wrinkle-in-time-the-graphic-novel.html"/>
+        <id>https://fredvg.com/a-wrinkle-in-time-the-graphic-novel.html</id>
+            <category term="Currently reading"/>
+
+        <updated>2026-02-05T19:48:00-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p><a href="https://us.macmillan.com/books/9781250056948/awrinkleintimethegraphicnovel/">Hope Larson — Wrinkle in Time - The Graphic Novel</a></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://us.macmillan.com/books/9781250056948/awrinkleintimethegraphicnovel/">Hope Larson — Wrinkle in Time - The Graphic Novel</a></p>
+
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -228,49 +252,34 @@
         </content>
     </entry>
     <entry>
-        <title>Figma&#x27;s Color Contrast Checker</title>
+        <title>Office of Disease Prevention and Health Promotion</title>
         <author>
             <name>Frederik Van Geloven</name>
         </author>
-        <link href="https://fredvg.com/figmas-color-contrast-checker.html"/>
-        <id>https://fredvg.com/figmas-color-contrast-checker.html</id>
-            <category term="Notes"/>
-            <category term="Inspiration"/>
+        <link href="https://fredvg.com/office-of-disease-prevention.html"/>
+        <id>https://fredvg.com/office-of-disease-prevention.html</id>
+            <category term="Portfolio"/>
+            <category term="Case Study"/>
 
-        <updated>2025-10-17T09:01:51-04:00</updated>
+        <updated>2025-10-24T14:07:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Figma's built-in color contrast checker is so helpful! I used to rely on a few different plugins to check color contrast. Some of those had features Figma is missing, but I love how integrated the Figma tool is. The line and dotted pattern to indicate&hellip;
+                    The challenge The Office of Disease Prevention and Health Promotion (ODPHP) has an online presence that spans several websites. These websites are very diverse in purpose and they serve a wide range of people. At the same time, it's important that there is continuity when&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Figma's built-in color contrast checker is so helpful! I used to rely on a few different plugins to check color contrast. Some of those had features Figma is missing, but I love how integrated the Figma tool is. The line and dotted pattern to indicate where the contrast falls below the standard you are checking for is such a great feature. Of course there's room for improvement. And Figma has a long way to go before they can claim to be front-runners when it comes to accessibility features. But this seemingly small feature, is a huge step in the right direction.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://fredvg.com/media/posts/29/Figma-Color-Contrast-Checker.png" alt="A screenshot of the Figma color picker tool with built-in contrast checker." width="1402" height="1014" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-xs.png 640w ,https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-sm.png 768w ,https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-md.png 1024w ,https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-lg.png 1366w ,https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-xl.png 1600w ,https://fredvg.com/media/posts/29/responsive/Figma-Color-Contrast-Checker-2xl.png 1920w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Update — #Open-To-Work</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/update-open-to-work.html"/>
-        <id>https://fredvg.com/update-open-to-work.html</id>
-            <category term="Open-To-Work"/>
-            <category term="About"/>
-
-        <updated>2025-10-08T15:40:00-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    An update to my #Open-To-Work post is in order. Turns out, we retained some of the contracts that we thought were ending. While the situation in public health communication and govtech design is still volatile, it looks like my tenure at CommunicateHealth can continue for&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>An update to my <a href="https://fredvg.com/opentowork.html">#Open-To-Work</a> post is in order.</p>
-<p>Turns out, we retained some of the contracts that we thought were ending. While the situation in public health communication and govtech design is still volatile, it looks like my tenure at <a href="https://communicatehealth.com">CommunicateHealth</a> can continue for now.</p>
-<p>That said, my invitation to connect still stands. Whether you are hiring, or are navigating this crazy UX jobmarket, I'd <a href="https://www.linkedin.com/in/fredvg">love to connect</a> and chat about how we can help each other out.</p>
+                <h2>The challenge</h2>
+<p>The Office of Disease Prevention and Health Promotion (ODPHP) has an online presence that spans several websites. These websites are very diverse in purpose and they serve a wide range of people. At the same time, it's important that there is continuity when it comes to the user experience and visual identity.</p>
+<h2>What we did</h2>
+<p>I served as the UX lead and strategist on all the ODPHP properties we managed. This means I was involved in end-to-end design and development. This work included research, UX strategy, roadmap planning, UX/UI/Ix design, Information Architecture, UX writing, prototyping, and more.</p>
+<p>We designed and developed design systems and Drupal CMS environments for each of the websites while maintaining consistency and coherence across all of ODPHP.</p>
+<h2>Why it matters</h2>
+<p>We were able to increase adoption, retention, and engagement across the board. As we did this, we also improved usability and accessibility. Over the years, we served millions of people, ranging from consumer audiences to highly specialized public health professionals. Healthy People 2030, just one of the websites, serves nearly 3 million people annually, more than double its predecessor.</p>
+<p>Metrics are important, and it's nice to see the work validated this way. But the numbers only tell part of the story. The real story is told by our audiences. We consistently hear, through usability testing and direct feedback, how much easier the ODPHP websites make people's jobs compared to similar tools or previous versions.</p>
+<blockquote>
+<p><strong>"[This infographic] is really helpful because it clearly puts into words what I could cite instead of having to take the extra time to think 'how do I say this?' — it provides some language for me." </strong>— Usability Research Participant</p>
+</blockquote>
             ]]>
         </content>
     </entry>
