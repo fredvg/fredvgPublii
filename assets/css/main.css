@@ -2368,7 +2368,7 @@ textarea {
   .left-column .logo:hover img,
   .left-column .logo:hover svg,
   .left-column .logo:hover .logo__svg {
-    color: var(--white);
+    color: var(--left-text);
   }
 
   .left-column .logo svg path {
