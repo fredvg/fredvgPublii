@@ -675,8 +675,8 @@ textarea {
   order: 1;
   border: none;
 }
-.logo > img {
-  height: var(--navbar-height);
+.logo > svg {
+  height: calc(var(--navbar-height) * 0.8);
   -o-object-fit: contain;
      object-fit: contain;
   padding: calc(var(--baseline) * 2) 0;
@@ -2297,6 +2297,9 @@ textarea {
     background-color: var(--left-bg);
   }
   
+  .logo > svg {
+    height: calc(var(--navbar-height) * 1.2);
+  }
   .main-column {
     grid-column: 2;
     grid-row: 1;
@@ -2427,7 +2430,13 @@ textarea {
   .main-column {
     width: 100%;
   }
-  
+  .hero__content, .hero__content h1, .hero__content H1 > em {
+    color: var(--text-color);
+  }
+  .hero__content a {
+    color: var(--link-color);
+    border-bottom: 1px solid var(--link-color);
+  }
   .right-margin {
     display: none;
   }
