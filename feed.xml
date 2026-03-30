@@ -3,12 +3,36 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-03-27T12:02:11-04:00</updated>
+    <updated>2026-03-30T11:02:27-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>Diana Secker Tesdell — New York Stories</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/diana-secker.html"/>
+        <id>https://fredvg.com/diana-secker.html</id>
+            <category term="Currently reading"/>
+
+        <updated>2026-03-30T10:59:21-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p><a href="https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/">Diana Secker Tesdell — New York Stories</a></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/">Diana Secker Tesdell — New York Stories</a></p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>One more update — #Open-To-Work</title>
         <author>
@@ -41,7 +65,7 @@
         </author>
         <link href="https://fredvg.com/a-wrinkle-in-time-the-graphic-novel.html"/>
         <id>https://fredvg.com/a-wrinkle-in-time-the-graphic-novel.html</id>
-            <category term="Currently reading"/>
+            <category term="Read"/>
 
         <updated>2026-02-05T19:48:00-05:00</updated>
             <summary type="html">
@@ -73,7 +97,7 @@
                 <![CDATA[
                     <p><a href="https://youtu.be/wWKSoxG1K7w?si=omeIuoGwD-T4ln73">Bruce Springsteen — Streets of Minneapolis</a></p>
 <p>Woody Guthrie would be proud. We need more of this. Every single American* needs to speak up and take a stand. When we look back, "I didn't know" or "I didn't want to make things political" won't be an acceptable excuse. You <em>do</em> know, and at some point <em>everything becomes political</em>.</p>
-<p>*Non-Americans can and should too: <a href="https://youtu.be/IKOW2ZikGW8?si=-I3oFUitCvtnW1yN">Billy Bragg — City of Heroes</a>  </p>
+<p>*Non-Americans can (and should) protest too: <a href="https://youtu.be/IKOW2ZikGW8?si=-I3oFUitCvtnW1yN">Billy Bragg — City of Heroes</a>  </p>
 
                 ]]>
             </summary>
@@ -81,7 +105,7 @@
             <![CDATA[
                 <p><a href="https://youtu.be/wWKSoxG1K7w?si=omeIuoGwD-T4ln73">Bruce Springsteen — Streets of Minneapolis</a></p>
 <p>Woody Guthrie would be proud. We need more of this. Every single American* needs to speak up and take a stand. When we look back, "I didn't know" or "I didn't want to make things political" won't be an acceptable excuse. You <em>do</em> know, and at some point <em>everything becomes political</em>.</p>
-<p>*Non-Americans can and should too: <a href="https://youtu.be/IKOW2ZikGW8?si=-I3oFUitCvtnW1yN">Billy Bragg — City of Heroes</a>  </p>
+<p>*Non-Americans can (and should) protest too: <a href="https://youtu.be/IKOW2ZikGW8?si=-I3oFUitCvtnW1yN">Billy Bragg — City of Heroes</a>  </p>
 
 <p> </p>
             ]]>
@@ -114,6 +138,47 @@
 <p><a href="https://www.linkedin.com/pulse/taste-sarah-guo-u9qcf">Taste — Sarah Guo</a></p>
 
 <p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Healthy People 2030: Data Display</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/healthy-people-2030-data-display.html"/>
+        <id>https://fredvg.com/healthy-people-2030-data-display.html</id>
+            <category term="UI + IxD"/>
+            <category term="Portfolio"/>
+            <category term="Dataviz"/>
+            <category term="Case Study"/>
+
+        <updated>2026-01-15T11:43:00-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    The challenge With over 500 objectives and tens of thousands of associated data points, the UI and interaction design of Healthy People 2030's data display was a big, fun challenge. Not only are the data complex and broad in scope, but the audiences are diverse&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>The challenge</h2>
+<div class="cs-content">
+<p>With over 500 objectives and tens of thousands of associated data points, the UI and interaction design of Healthy People 2030's data display was a big, fun challenge. Not only are the data complex and broad in scope, but the audiences are diverse too. The data visualizations needed to be user-friendly and work with a wide variety of devices and technologies.</p>
+</div>
+<div class="cs-divider"> </div>
+<h2 class="cs-label">What we did</h2>
+<div class="cs-content">
+<p>Working in close collaboration with our clients at The Office of Disease Prevention and Health Promotion (ODPHP) and The National Center for Health Statistics (NCHS), I created a fully integrated data visualization tool that allows visualizations to be customized and filtered based on specific user needs. The data can be explored from a variety of perspectives and in multiple formats: charts, tables, and maps.</p>
+<p>The visualizations integrate with each of the 500+ objectives in a way that makes it intuitive to start from a high level and drill down to increasing detail. Because understanding disparities is a high priority, we built a user-friendly way to find and interpret disparities data.</p>
+</div>
+<div class="cs-divider"> </div>
+<h2 class="cs-label">Why it matters</h2>
+<div class="cs-content">
+<p>Compared to Healthy People 2020, we provided additional functionality while also improving discoverability and ease of use. This makes the vast amount of data more usable and more useful. The new data display interface has greatly increased adoption and engagement.</p>
+<blockquote>
+<p>[What makes it easy to use health data?] "Being able to visualize that data, and perhaps sometimes give people the ability to choose how they want to see it or how they want to slice and dice and manipulate it." — Usability Research Participant</p>
+</blockquote>
+</div>
             ]]>
         </content>
     </entry>
@@ -223,63 +288,6 @@
 <p class="font-claude-response-body whitespace-normal break-words">Unfortunately, most dreams end with rude awakenings. I'm pretty sure they can't pay me what I'd need to provide for the family and maintain our current lifestyle. Health insurance and benefits are likely off the table. And that's not even considering the fact that they'd need to understand the value of having someone help with their marketing and branding. Most small farms see that work as a luxury, not a necessity.</p>
 <p class="font-claude-response-body whitespace-normal break-words">I said it was a dream job, didn't I? But it's fun to dream about a job where the work is split between physical, creative, and digital. Where you're outside most of the day. Where the product is something people actually want and can touch, not another app or service they need to stare at a screen for.</p>
 <p class="font-claude-response-body whitespace-normal break-words">Maybe I'll start a series of these. Dream jobs I'll never have but like thinking about anyway.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Another update — #Open-To-Work</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/another-update-open-to-work.html"/>
-        <id>https://fredvg.com/another-update-open-to-work.html</id>
-            <category term="Open-To-Work"/>
-            <category term="About"/>
-
-        <updated>2025-11-09T16:14:36-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p>Looks like I'm no longer #open-to-work...<br><br><a href="https://luminacorps.com/news/merger-communicate-health/">Lumina Corps and CommunicateHealth Merge to Strengthen Health Communication Impact.</a></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Looks like I'm no longer #open-to-work...<br><br><a href="https://luminacorps.com/news/merger-communicate-health/">Lumina Corps and CommunicateHealth Merge to Strengthen Health Communication Impact.</a></p>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Office of Disease Prevention and Health Promotion</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/office-of-disease-prevention.html"/>
-        <id>https://fredvg.com/office-of-disease-prevention.html</id>
-            <category term="Portfolio"/>
-            <category term="Case Study"/>
-
-        <updated>2025-10-24T14:07:00-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    The challenge The Office of Disease Prevention and Health Promotion (ODPHP) has an online presence that spans several websites. These websites are very diverse in purpose and they serve a wide range of people. At the same time, it's important that there is continuity when&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2>The challenge</h2>
-<p>The Office of Disease Prevention and Health Promotion (ODPHP) has an online presence that spans several websites. These websites are very diverse in purpose and they serve a wide range of people. At the same time, it's important that there is continuity when it comes to the user experience and visual identity.</p>
-<h2>What we did</h2>
-<p>I served as the UX lead and strategist on all the ODPHP properties we managed. This means I was involved in end-to-end design and development. This work included research, UX strategy, roadmap planning, UX/UI/Ix design, Information Architecture, UX writing, prototyping, and more.</p>
-<p>We designed and developed design systems and Drupal CMS environments for each of the websites while maintaining consistency and coherence across all of ODPHP.</p>
-<h2>Why it matters</h2>
-<p>We were able to increase adoption, retention, and engagement across the board. As we did this, we also improved usability and accessibility. Over the years, we served millions of people, ranging from consumer audiences to highly specialized public health professionals. Healthy People 2030, just one of the websites, serves nearly 3 million people annually, more than double its predecessor.</p>
-<p>Metrics are important, and it's nice to see the work validated this way. But the numbers only tell part of the story. The real story is told by our audiences. We consistently hear, through usability testing and direct feedback, how much easier the ODPHP websites make people's jobs compared to similar tools or previous versions.</p>
-<blockquote>
-<p><strong>"[This infographic] is really helpful because it clearly puts into words what I could cite instead of having to take the extra time to think 'how do I say this?' — it provides some language for me." </strong>— Usability Research Participant</p>
-</blockquote>
             ]]>
         </content>
     </entry>

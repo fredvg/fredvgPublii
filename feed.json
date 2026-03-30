@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/diana-secker.html",
+            "url": "https://fredvg.com/diana-secker.html",
+            "title": "Diana Secker Tesdell — New York Stories",
+            "summary": "<p><a href=\"https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/\">Diana Secker Tesdell — New York Stories</a></p>\n",
+            "content_html": "<p><a href=\"https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/\">Diana Secker Tesdell — New York Stories</a></p>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Currently reading"
+            ],
+            "date_published": "2026-03-30T10:59:21-04:00",
+            "date_modified": "2026-03-30T11:00:11-04:00"
+        },
+        {
             "id": "https://fredvg.com/another-update-open-to-work-2.html",
             "url": "https://fredvg.com/another-update-open-to-work-2.html",
             "title": "One more update — #Open-To-Work",
@@ -36,17 +51,17 @@
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Currently reading"
+                   "Read"
             ],
             "date_published": "2026-02-05T19:48:00-05:00",
-            "date_modified": "2026-03-25T19:50:06-04:00"
+            "date_modified": "2026-03-30T10:56:51-04:00"
         },
         {
             "id": "https://fredvg.com/bruce-springsteen.html",
             "url": "https://fredvg.com/bruce-springsteen.html",
             "title": "This Machine Kills Fascists",
-            "summary": "<p><a href=\"https://youtu.be/wWKSoxG1K7w?si=omeIuoGwD-T4ln73\">Bruce Springsteen — Streets of Minneapolis</a></p>\n<p>Woody Guthrie would be proud. We need more of this. Every single American* needs to speak up and take a stand. When we look back, \"I didn't know\" or \"I didn't want to make things political\" won't be an acceptable excuse. You <em>do</em> know, and at some point <em>everything becomes political</em>.</p>\n<p>*Non-Americans can and should too: <a href=\"https://youtu.be/IKOW2ZikGW8?si=-I3oFUitCvtnW1yN\">Billy Bragg — City of Heroes</a>  </p>\n",
-            "content_html": "<p><a href=\"https://youtu.be/wWKSoxG1K7w?si=omeIuoGwD-T4ln73\">Bruce Springsteen — Streets of Minneapolis</a></p>\n<p>Woody Guthrie would be proud. We need more of this. Every single American* needs to speak up and take a stand. When we look back, \"I didn't know\" or \"I didn't want to make things political\" won't be an acceptable excuse. You <em>do</em> know, and at some point <em>everything becomes political</em>.</p>\n<p>*Non-Americans can and should too: <a href=\"https://youtu.be/IKOW2ZikGW8?si=-I3oFUitCvtnW1yN\">Billy Bragg — City of Heroes</a>  </p>\n\n<p> </p>",
+            "summary": "<p><a href=\"https://youtu.be/wWKSoxG1K7w?si=omeIuoGwD-T4ln73\">Bruce Springsteen — Streets of Minneapolis</a></p>\n<p>Woody Guthrie would be proud. We need more of this. Every single American* needs to speak up and take a stand. When we look back, \"I didn't know\" or \"I didn't want to make things political\" won't be an acceptable excuse. You <em>do</em> know, and at some point <em>everything becomes political</em>.</p>\n<p>*Non-Americans can (and should) protest too: <a href=\"https://youtu.be/IKOW2ZikGW8?si=-I3oFUitCvtnW1yN\">Billy Bragg — City of Heroes</a>  </p>\n",
+            "content_html": "<p><a href=\"https://youtu.be/wWKSoxG1K7w?si=omeIuoGwD-T4ln73\">Bruce Springsteen — Streets of Minneapolis</a></p>\n<p>Woody Guthrie would be proud. We need more of this. Every single American* needs to speak up and take a stand. When we look back, \"I didn't know\" or \"I didn't want to make things political\" won't be an acceptable excuse. You <em>do</em> know, and at some point <em>everything becomes political</em>.</p>\n<p>*Non-Americans can (and should) protest too: <a href=\"https://youtu.be/IKOW2ZikGW8?si=-I3oFUitCvtnW1yN\">Billy Bragg — City of Heroes</a>  </p>\n\n<p> </p>",
             "author": {
                 "name": "Frederik Van Geloven"
             },
@@ -55,7 +70,7 @@
                    "About"
             ],
             "date_published": "2026-01-28T18:56:22-05:00",
-            "date_modified": "2026-01-28T21:54:55-05:00"
+            "date_modified": "2026-03-30T11:02:27-04:00"
         },
         {
             "id": "https://fredvg.com/taste.html",
@@ -71,6 +86,24 @@
             ],
             "date_published": "2026-01-19T16:06:50-05:00",
             "date_modified": "2026-01-19T16:06:50-05:00"
+        },
+        {
+            "id": "https://fredvg.com/healthy-people-2030-data-display.html",
+            "url": "https://fredvg.com/healthy-people-2030-data-display.html",
+            "title": "Healthy People 2030: Data Display",
+            "summary": "The challenge With over 500 objectives and tens of thousands of associated data points, the UI and interaction design of Healthy People 2030's data display was a big, fun challenge. Not only are the data complex and broad in scope, but the audiences are diverse&hellip;",
+            "content_html": "<h2>The challenge</h2>\n<div class=\"cs-content\">\n<p>With over 500 objectives and tens of thousands of associated data points, the UI and interaction design of Healthy People 2030's data display was a big, fun challenge. Not only are the data complex and broad in scope, but the audiences are diverse too. The data visualizations needed to be user-friendly and work with a wide variety of devices and technologies.</p>\n</div>\n<div class=\"cs-divider\"> </div>\n<h2 class=\"cs-label\">What we did</h2>\n<div class=\"cs-content\">\n<p>Working in close collaboration with our clients at The Office of Disease Prevention and Health Promotion (ODPHP) and The National Center for Health Statistics (NCHS), I created a fully integrated data visualization tool that allows visualizations to be customized and filtered based on specific user needs. The data can be explored from a variety of perspectives and in multiple formats: charts, tables, and maps.</p>\n<p>The visualizations integrate with each of the 500+ objectives in a way that makes it intuitive to start from a high level and drill down to increasing detail. Because understanding disparities is a high priority, we built a user-friendly way to find and interpret disparities data.</p>\n</div>\n<div class=\"cs-divider\"> </div>\n<h2 class=\"cs-label\">Why it matters</h2>\n<div class=\"cs-content\">\n<p>Compared to Healthy People 2020, we provided additional functionality while also improving discoverability and ease of use. This makes the vast amount of data more usable and more useful. The new data display interface has greatly increased adoption and engagement.</p>\n<blockquote>\n<p>[What makes it easy to use health data?] \"Being able to visualize that data, and perhaps sometimes give people the ability to choose how they want to see it or how they want to slice and dice and manipulate it.\" — Usability Research Participant</p>\n</blockquote>\n</div>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "UI + IxD",
+                   "Portfolio",
+                   "Dataviz",
+                   "Case Study"
+            ],
+            "date_published": "2026-01-15T11:43:00-05:00",
+            "date_modified": "2026-03-30T10:53:10-04:00"
         },
         {
             "id": "https://fredvg.com/dream-job-experience-design-at-tracksmith.html",
@@ -133,38 +166,6 @@
             ],
             "date_published": "2025-11-14T17:30:24-05:00",
             "date_modified": "2026-03-05T10:48:50-05:00"
-        },
-        {
-            "id": "https://fredvg.com/another-update-open-to-work.html",
-            "url": "https://fredvg.com/another-update-open-to-work.html",
-            "title": "Another update — #Open-To-Work",
-            "summary": "<p>Looks like I'm no longer #open-to-work...<br><br><a href=\"https://luminacorps.com/news/merger-communicate-health/\">Lumina Corps and CommunicateHealth Merge to Strengthen Health Communication Impact.</a></p>\n",
-            "content_html": "<p>Looks like I'm no longer #open-to-work...<br><br><a href=\"https://luminacorps.com/news/merger-communicate-health/\">Lumina Corps and CommunicateHealth Merge to Strengthen Health Communication Impact.</a></p>\n\n<p> </p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Open-To-Work",
-                   "About"
-            ],
-            "date_published": "2025-11-09T16:14:36-05:00",
-            "date_modified": "2026-03-05T10:48:13-05:00"
-        },
-        {
-            "id": "https://fredvg.com/office-of-disease-prevention.html",
-            "url": "https://fredvg.com/office-of-disease-prevention.html",
-            "title": "Office of Disease Prevention and Health Promotion",
-            "summary": "The challenge The Office of Disease Prevention and Health Promotion (ODPHP) has an online presence that spans several websites. These websites are very diverse in purpose and they serve a wide range of people. At the same time, it's important that there is continuity when&hellip;",
-            "content_html": "<h2>The challenge</h2>\n<p>The Office of Disease Prevention and Health Promotion (ODPHP) has an online presence that spans several websites. These websites are very diverse in purpose and they serve a wide range of people. At the same time, it's important that there is continuity when it comes to the user experience and visual identity.</p>\n<h2>What we did</h2>\n<p>I served as the UX lead and strategist on all the ODPHP properties we managed. This means I was involved in end-to-end design and development. This work included research, UX strategy, roadmap planning, UX/UI/Ix design, Information Architecture, UX writing, prototyping, and more.</p>\n<p>We designed and developed design systems and Drupal CMS environments for each of the websites while maintaining consistency and coherence across all of ODPHP.</p>\n<h2>Why it matters</h2>\n<p>We were able to increase adoption, retention, and engagement across the board. As we did this, we also improved usability and accessibility. Over the years, we served millions of people, ranging from consumer audiences to highly specialized public health professionals. Healthy People 2030, just one of the websites, serves nearly 3 million people annually, more than double its predecessor.</p>\n<p>Metrics are important, and it's nice to see the work validated this way. But the numbers only tell part of the story. The real story is told by our audiences. We consistently hear, through usability testing and direct feedback, how much easier the ODPHP websites make people's jobs compared to similar tools or previous versions.</p>\n<blockquote>\n<p><strong>\"[This infographic] is really helpful because it clearly puts into words what I could cite instead of having to take the extra time to think 'how do I say this?' — it provides some language for me.\" </strong>— Usability Research Participant</p>\n</blockquote>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Portfolio",
-                   "Case Study"
-            ],
-            "date_published": "2025-10-24T14:07:00-04:00",
-            "date_modified": "2026-03-17T14:38:47-04:00"
         }
     ]
 }
