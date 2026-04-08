@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/uk-us-jazz-dataviz.html",
+            "url": "https://fredvg.com/uk-us-jazz-dataviz.html",
+            "title": "UK - US Jazz Dataviz",
+            "summary": "My brother-in-law and I are always sharing music recommendations and we both love jazz. A few years ago, I created a print for him. The print features a data visualization to show connections and collaborations between a bunch of musicians. I — somewhat randomly —&hellip;",
+            "content_html": "<p>My brother-in-law and I are always sharing music recommendations and we both love jazz. A few years ago, I created a print for him.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://fredvg.com/media/posts/48/gallery/UK-US-Jazz-2.png\" data-size=\"3764x2908\"><img loading=\"lazy\" src=\"https://fredvg.com/media/posts/48/gallery/UK-US-Jazz-2-thumbnail.png\" alt=\"A data visualization that shows a bunch of musicians with their primary instruments and how they are all connected and have collaborated.\" width=\"720\" height=\"556\"></a></figure>\n</div></div>\n<p>The print features a data visualization to show connections and collaborations between a bunch of musicians. I — somewhat randomly — picked 2 musicians to start from. On the UK side, I picked Shabaka Hutchins. And on the US side I started from Robert Glasper (we had recently seen him perform at the Blue Note in NYC). </p>\n<p>A few of the connections are bands, but most are individual musicians. For each musician an icon illustrates their primary instrument.</p>\n<p>This was just a fun side-project that allowed me to think creatively about data visualization.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://fredvg.com/media/posts/48/gallery/UK-US-Jazz.png\" data-size=\"3764x2908\"> </a></figure>\n</div></div>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Portfolio",
+                   "Dataviz"
+            ],
+            "date_published": "2026-04-08T11:20:46-04:00",
+            "date_modified": "2026-04-08T11:25:19-04:00"
+        },
+        {
             "id": "https://fredvg.com/diana-secker.html",
             "url": "https://fredvg.com/diana-secker.html",
             "title": "Diana Secker Tesdell — New York Stories",
@@ -151,23 +167,6 @@
             ],
             "date_published": "2025-12-23T19:36:45-05:00",
             "date_modified": "2025-12-23T19:36:45-05:00"
-        },
-        {
-            "id": "https://fredvg.com/cdc-contraceptive-decision-making-app.html",
-            "url": "https://fredvg.com/cdc-contraceptive-decision-making-app.html",
-            "title": "CDC: Contraceptive Decision Making App",
-            "summary": "The challenge The CDC Contraceptive Decision Making app helps providers explain options and walk through the decision-making process for a variety of contraceptive methods. The science behind these choices as well as the multitude of parameters makes the information that needs to be communicated both&hellip;",
-            "content_html": "<h2 class=\"p1\">The challenge</h2>\n<p class=\"p1\">The CDC Contraceptive Decision Making app helps providers explain options and walk through the decision-making process for a variety of contraceptive methods. The science behind these choices as well as the multitude of parameters makes the information that needs to be communicated both complex and technical in nature.</p>\n<h2 class=\"p1\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://fredvg.com/media/posts/46/CDC-AppStore-1.jpg\" alt=\"App store preview of the CDC Contraceptive Decision Making app\" width=\"1200\" height=\"543\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://fredvg.com/media/posts/46/responsive/CDC-AppStore-1-xs.jpg 640w ,https://fredvg.com/media/posts/46/responsive/CDC-AppStore-1-sm.jpg 768w ,https://fredvg.com/media/posts/46/responsive/CDC-AppStore-1-md.jpg 1024w ,https://fredvg.com/media/posts/46/responsive/CDC-AppStore-1-lg.jpg 1366w ,https://fredvg.com/media/posts/46/responsive/CDC-AppStore-1-xl.jpg 1600w ,https://fredvg.com/media/posts/46/responsive/CDC-AppStore-1-2xl.jpg 1920w\"></figure>What we did</h2>\n<p class=\"p1\">We conceptualized a multi-faceted and modular system to break the components up into smaller interconnected pieces of information. A combination of logic, taxonomies, and UI/IxD features make it so the app supports a variety of situations, mental models, and preferences.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://fredvg.com/media/posts/46/CDC-IA.jpg\" alt=\"Information architecture and content types for the CDC Contraceptive Decision Making app\" width=\"1200\" height=\"747\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://fredvg.com/media/posts/46/responsive/CDC-IA-xs.jpg 640w ,https://fredvg.com/media/posts/46/responsive/CDC-IA-sm.jpg 768w ,https://fredvg.com/media/posts/46/responsive/CDC-IA-md.jpg 1024w ,https://fredvg.com/media/posts/46/responsive/CDC-IA-lg.jpg 1366w ,https://fredvg.com/media/posts/46/responsive/CDC-IA-xl.jpg 1600w ,https://fredvg.com/media/posts/46/responsive/CDC-IA-2xl.jpg 1920w\"></figure>\n<h2 class=\"p1\">Why it matters</h2>\n<p class=\"p1\">Decisions about contraceptive are both highly individualized and personal. As providers discuss the options it’s key that the tool is highly flexible to account for this. The logic, taxonomies and overall content strategy support a conversational flow thathelps humanize the provider-patient interactions.</p>\n<p>Full disclosure: the finalization and launch of the newly designed app is on hold because the team that was responsible for it was dismanteled during the 2025 DOGE purge.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://fredvg.com/media/posts/46/CDC_Wireflow.png\" alt=\"Wireflow for the CDC Contraceptive Decision Making app\" width=\"1200\" height=\"862\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://fredvg.com/media/posts/46/responsive/CDC_Wireflow-xs.png 640w ,https://fredvg.com/media/posts/46/responsive/CDC_Wireflow-sm.png 768w ,https://fredvg.com/media/posts/46/responsive/CDC_Wireflow-md.png 1024w ,https://fredvg.com/media/posts/46/responsive/CDC_Wireflow-lg.png 1366w ,https://fredvg.com/media/posts/46/responsive/CDC_Wireflow-xl.png 1600w ,https://fredvg.com/media/posts/46/responsive/CDC_Wireflow-2xl.png 1920w\"></figure>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Portfolio",
-                   "IA + Content Strategy",
-                   "Case Study"
-            ],
-            "date_published": "2025-12-19T16:58:00-05:00",
-            "date_modified": "2026-03-31T17:33:04-04:00"
         }
     ]
 }
