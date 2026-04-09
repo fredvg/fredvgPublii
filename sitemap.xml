@@ -129,6 +129,22 @@
 <lastmod>2026-03-30T10:53:28-04:00</lastmod>
 </url>
 <url>
+<loc>https://fredvg.com/national-eye-institute-interactive-eye-graphic.html</loc>
+<lastmod>2026-04-09T17:09:25-04:00</lastmod>
+<image:image>
+<image:loc>https://fredvg.com/media/posts/49/NEI-InteractiveEyeGraphic.png</image:loc>
+<image:title><![CDATA[A screenshot of the interactive eye graphic. An anatomic drawing of the eye is showing a cross-section of a quarter turned eyeball. All the parts are labeled. The graphic can be manipulated to change the angle, highlight different parts, see descriptions, and change the severity of the disease that's illustrated, in this case cataract.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fredvg.com/media/posts/49/NEI-EyeGraphic-Wireframes.png</image:loc>
+<image:title><![CDATA[Wireframes for an interactive eye graphic. 16 different states are shown. The eye is oriented differently in some. There are different parts highlighted and described. And, various stages of disease severity are shown.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fredvg.com/media/posts/49/NEI-InteractiveEyeGraphic-2.png</image:loc>
+<image:title><![CDATA[The NEI interactive eye graphic, showing an anatomic drawing of the eye. The eyeball is seen from the side, the lens is highlighted which triggers a description. A severe cataracts is shown and the description of the lens includes how cataracts affects it.]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://fredvg.com/nyc-transit-map.html</loc>
 <lastmod>2025-08-07T22:46:56-04:00</lastmod>
 </url>
