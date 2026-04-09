@@ -3,7 +3,7 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-04-08T11:25:19-04:00</updated>
+    <updated>2026-04-09T17:32:44-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
@@ -34,9 +34,6 @@
 <p>The print features a data visualization to show connections and collaborations between a bunch of musicians. I — somewhat randomly — picked 2 musicians to start from. On the UK side, I picked Shabaka Hutchins. And on the US side I started from Robert Glasper (we had recently seen him perform at the Blue Note in NYC). </p>
 <p>A few of the connections are bands, but most are individual musicians. For each musician an icon illustrates their primary instrument.</p>
 <p>This was just a fun side-project that allowed me to think creatively about data visualization.</p>
-<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://fredvg.com/media/posts/48/gallery/UK-US-Jazz.png" data-size="3764x2908"> </a></figure>
-</div></div>
             ]]>
         </content>
     </entry>
