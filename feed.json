@@ -26,6 +26,21 @@
             "date_modified": "2026-04-16T16:10:56-04:00"
         },
         {
+            "id": "https://fredvg.com/mvps-the-good-the-bad-and-the-ugly.html",
+            "url": "https://fredvg.com/mvps-the-good-the-bad-and-the-ugly.html",
+            "title": "MVPs. The good, the bad, and the ugly.",
+            "summary": "Some digital product design deliverables get a bad rap. Often the criticism is valid though. Take personas for example. They're often biased, disconnected from reality, not well-researched, just UX theater, etc. But, when done — and used — right, personas can be a valuable tool*.",
+            "content_html": "<p>Some digital product design deliverables get a bad rap. Often the criticism is valid though.</p>\n<p>Take personas for example. They're often biased, disconnected from reality, not well-researched, just UX theater, etc. But, when done — and used — right, personas can be a valuable tool*.  Please don't get me started on NPS (Net Promotor Score) though. As a UX professional, that number is meaningless to me.  <br><br>Let's take a look at MVPs (Minimum Viable Products, not <em>Most Valuable Players</em>). I have a love-hate relationship with MVPs. At times, they can be a great way to test a concept, get client buy-in, or scale the project to the budget**. Too often though, I see an MVP become the final product. Once you have something that actually works and looks good — even if it's by definition <em>minimally viable </em>— there's a risk you'll keep it as-is.</p>\n<p>The better we do our job as digital product designers and engineers, the stronger the MVP will be. However good it is — it might even be <em>good enough</em> — it's not as fully-featured or good as it can be<em>. </em>And that's where we get into trouble. Good enough often means the user isn't getting the experience they deserve. Features might be stripped out, corners might be cut, and findings from research might be pushed out to be dealt with later.</p>\n<p>As I said, I still see the value in creating Minimal Viable Products. But over the years, I've spent too much time, energy, and persuasive power on convincing stakeholders to keep going and take the MVP from Minimum Viable Product to <strong>Most Valuable Product</strong>.<br><br>* In the many years I've been doing this, I've seen (and helped create) great personas. But I've also seen them misused, under-used, or just straight-up forgotten about.</p>\n<p>** I know, the budget shouldn't drive what we create. But we live in the real world, and it's far from perfect out here.</p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Notes"
+            ],
+            "date_published": "2026-04-14T11:22:00-04:00",
+            "date_modified": "2026-05-05T12:00:12-04:00"
+        },
+        {
             "id": "https://fredvg.com/uk-us-jazz-dataviz.html",
             "url": "https://fredvg.com/uk-us-jazz-dataviz.html",
             "title": "UK - US Jazz Dataviz",
@@ -151,22 +166,6 @@
             ],
             "date_published": "2026-01-15T11:43:00-05:00",
             "date_modified": "2026-03-30T10:53:10-04:00"
-        },
-        {
-            "id": "https://fredvg.com/dream-job-experience-design-at-tracksmith.html",
-            "url": "https://fredvg.com/dream-job-experience-design-at-tracksmith.html",
-            "title": "Dream job: Experience Design at Tracksmith",
-            "summary": "A job I sometimes daydream about as I'm logging miles on my runs is Experience Designer at Tracksmith. If you don't know Tracksmith, they're a New England running brand with an aesthetic that's a bit vintage, a bit classical, but with a modern, minimalist edge.",
-            "content_html": "<p class=\"font-claude-response-body whitespace-normal break-words\">A job I sometimes daydream about as I'm logging miles on my runs is Experience Designer at Tracksmith.</p>\n<p class=\"font-claude-response-body whitespace-normal break-words\">If you don't know <a href=\"https://www.tracksmith.com/\">Tracksmith</a>, they're a New England running brand with an aesthetic that's a bit vintage, a bit classical, but with a modern, minimalist edge. Think wool singlets and split shorts that wouldn't look out of place in a 1970s marathon, but designed for today. They're based in Boston, about two hours from me.</p>\n<p class=\"font-claude-response-body whitespace-normal break-words\">The job would split three ways. Half my time on UX/UI/interaction design — they already do excellent work here, so I'd be taking things from excellent to extraordinary. A quarter of my time on service design and marketing strategy, looking at their processes and experiences across online shopping, in-store sales, their flagship locations, and the many events they organize. The final quarter would be logistics — helping at photo shoots, events, interfacing with their running club members, the kind of jobs that always need a helping hand.</p>\n<p class=\"font-claude-response-body whitespace-normal break-words\">Why this appeals to me: They're a super cool brand that feels perfectly aligned with my personal aesthetic and values. Quintessentially New England. I've been running three days a week for the past few years, and I've come to see it as a mindfulness practice. Some of Tracksmith's marketing leans into that idea — their <a href=\"https://www.tracksmith.com/journal/article/church-of-the-long-run-film\">Church of the Long Run</a> video captures running as meditation beautifully. And finally, there's something inspiring about working on a project that's already pretty great. As an experience designer and strategist, I can't imagine a better head start.</p>\n<p class=\"font-claude-response-body whitespace-normal break-words\">To keep my feet on the ground, I always end these <a href=\"https://fredvg.com/tags/dream-job/\">dream job posts</a> with \"why it might never happen\": Since they're already doing great work in this space, they might not need me. And if they do need me in Boston or at events, I'm looking at a two-hour-plus commute. I wouldn't be able to go into the office more than a couple times a month, which might not be enough. Still, they seem like a smart bunch, so they might be able to work with me on these hurdles (no pun intended).</p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Dream job",
-                   "AI-assist"
-            ],
-            "date_published": "2026-01-09T15:06:00-05:00",
-            "date_modified": "2026-04-03T13:49:49-04:00"
         }
     ]
 }
