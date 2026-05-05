@@ -3,12 +3,36 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-04-09T17:32:44-04:00</updated>
+    <updated>2026-04-16T16:12:15-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>Dilla Time — Dan Charnas</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/dilla-time-dan-charnas.html"/>
+        <id>https://fredvg.com/dilla-time-dan-charnas.html</id>
+            <category term="Currently reading"/>
+
+        <updated>2026-04-16T16:10:56-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p><a href="https://dillati.me">Dilla Time — Dan Charnas</a></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://dillati.me">Dilla Time — Dan Charnas</a></p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>UK - US Jazz Dataviz</title>
         <author>
@@ -38,7 +62,7 @@
         </content>
     </entry>
     <entry>
-        <title>Diana Secker Tesdell — New York Stories</title>
+        <title>New York Stories — Diana Secker Tesdell</title>
         <author>
             <name>Frederik Van Geloven</name>
         </author>
@@ -49,13 +73,13 @@
         <updated>2026-03-30T10:59:21-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    <p><a href="https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/">Diana Secker Tesdell — New York Stories</a></p>
+                    <p><a href="https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/">New York Stories — Diana Secker Tesdell</a></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/">Diana Secker Tesdell — New York Stories</a></p>
+                <p><a href="https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/">New York Stories — Diana Secker Tesdell</a></p>
 
 <p> </p>
             ]]>
@@ -261,30 +285,6 @@
 <p class="font-claude-response-body whitespace-normal break-words">The job would split three ways. Half my time on UX/UI/interaction design — they already do excellent work here, so I'd be taking things from excellent to extraordinary. A quarter of my time on service design and marketing strategy, looking at their processes and experiences across online shopping, in-store sales, their flagship locations, and the many events they organize. The final quarter would be logistics — helping at photo shoots, events, interfacing with their running club members, the kind of jobs that always need a helping hand.</p>
 <p class="font-claude-response-body whitespace-normal break-words">Why this appeals to me: They're a super cool brand that feels perfectly aligned with my personal aesthetic and values. Quintessentially New England. I've been running three days a week for the past few years, and I've come to see it as a mindfulness practice. Some of Tracksmith's marketing leans into that idea — their <a href="https://www.tracksmith.com/journal/article/church-of-the-long-run-film">Church of the Long Run</a> video captures running as meditation beautifully. And finally, there's something inspiring about working on a project that's already pretty great. As an experience designer and strategist, I can't imagine a better head start.</p>
 <p class="font-claude-response-body whitespace-normal break-words">To keep my feet on the ground, I always end these <a href="https://fredvg.com/tags/dream-job/">dream job posts</a> with "why it might never happen": Since they're already doing great work in this space, they might not need me. And if they do need me in Boston or at events, I'm looking at a two-hour-plus commute. I wouldn't be able to go into the office more than a couple times a month, which might not be enough. Still, they seem like a smart bunch, so they might be able to work with me on these hurdles (no pun intended).</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Grady Hendrix — My Best Friend&#x27;s Exorcism</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/grady-hendrix-my-best-friends-exorcism.html"/>
-        <id>https://fredvg.com/grady-hendrix-my-best-friends-exorcism.html</id>
-            <category term="Read"/>
-
-        <updated>2025-12-23T19:36:45-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p><a href="https://www.gradyhendrix.com/#/my-best-friends-exorcism/">Grady Hendrix — My Best Friend's Exorcism</a></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://www.gradyhendrix.com/#/my-best-friends-exorcism/">Grady Hendrix — My Best Friend's Exorcism</a></p>
-
-<p> </p>
             ]]>
         </content>
     </entry>

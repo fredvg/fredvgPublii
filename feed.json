@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/dilla-time-dan-charnas.html",
+            "url": "https://fredvg.com/dilla-time-dan-charnas.html",
+            "title": "Dilla Time — Dan Charnas",
+            "summary": "<p><a href=\"https://dillati.me\">Dilla Time — Dan Charnas</a></p>\n",
+            "content_html": "<p><a href=\"https://dillati.me\">Dilla Time — Dan Charnas</a></p>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Currently reading"
+            ],
+            "date_published": "2026-04-16T16:10:56-04:00",
+            "date_modified": "2026-04-16T16:10:56-04:00"
+        },
+        {
             "id": "https://fredvg.com/uk-us-jazz-dataviz.html",
             "url": "https://fredvg.com/uk-us-jazz-dataviz.html",
             "title": "UK - US Jazz Dataviz",
@@ -29,9 +44,9 @@
         {
             "id": "https://fredvg.com/diana-secker.html",
             "url": "https://fredvg.com/diana-secker.html",
-            "title": "Diana Secker Tesdell — New York Stories",
-            "summary": "<p><a href=\"https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/\">Diana Secker Tesdell — New York Stories</a></p>\n",
-            "content_html": "<p><a href=\"https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/\">Diana Secker Tesdell — New York Stories</a></p>\n\n<p> </p>",
+            "title": "New York Stories — Diana Secker Tesdell",
+            "summary": "<p><a href=\"https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/\">New York Stories — Diana Secker Tesdell</a></p>\n",
+            "content_html": "<p><a href=\"https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/\">New York Stories — Diana Secker Tesdell</a></p>\n\n<p> </p>",
             "author": {
                 "name": "Frederik Van Geloven"
             },
@@ -39,7 +54,7 @@
                    "Currently reading"
             ],
             "date_published": "2026-03-30T10:59:21-04:00",
-            "date_modified": "2026-03-30T11:00:11-04:00"
+            "date_modified": "2026-04-16T16:12:15-04:00"
         },
         {
             "id": "https://fredvg.com/another-update-open-to-work-2.html",
@@ -152,21 +167,6 @@
             ],
             "date_published": "2026-01-09T15:06:00-05:00",
             "date_modified": "2026-04-03T13:49:49-04:00"
-        },
-        {
-            "id": "https://fredvg.com/grady-hendrix-my-best-friends-exorcism.html",
-            "url": "https://fredvg.com/grady-hendrix-my-best-friends-exorcism.html",
-            "title": "Grady Hendrix — My Best Friend&#x27;s Exorcism",
-            "summary": "<p><a href=\"https://www.gradyhendrix.com/#/my-best-friends-exorcism/\">Grady Hendrix — My Best Friend's Exorcism</a></p>\n",
-            "content_html": "<p><a href=\"https://www.gradyhendrix.com/#/my-best-friends-exorcism/\">Grady Hendrix — My Best Friend's Exorcism</a></p>\n\n<p> </p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Read"
-            ],
-            "date_published": "2025-12-23T19:36:45-05:00",
-            "date_modified": "2025-12-23T19:36:45-05:00"
         }
     ]
 }
