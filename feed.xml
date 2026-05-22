@@ -3,7 +3,7 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-05-05T12:00:12-04:00</updated>
+    <updated>2026-05-22T11:53:26-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
@@ -156,8 +156,10 @@
                 <h2>Training and mentoring</h2>
 <p class="p1">In my role as product design strategist and UX/UI designer, I was fortunate to mentor and train coworkers on my team. I strongly believe in the power of cross-functional knowledge sharing. As much as I enjoy teaching my peers about my areas of expertise, I also value the opportunity to learn from them.</p>
 <p class="p1">One of the examples of a thought leadership resource I’ ve created and provided for the team, is our library of UX/UI/IxD best practices. This library contains over 50 write-ups for UI elements, UX patterns, and IxD interactions. It includes best practices and accessibility guidelines as well as lessons learned from our projects.</p>
+<figure class="post__image"><img loading="lazy"  src="https://fredvg.com/media/posts/45/HealthyDesignLibrary.png" alt="A screenshot of the Accordions page in the Healthy Design Library of best practices for UX/UI/IxD." width="1200" height="804" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://fredvg.com/media/posts/45/responsive/HealthyDesignLibrary-xs.png 640w ,https://fredvg.com/media/posts/45/responsive/HealthyDesignLibrary-sm.png 768w ,https://fredvg.com/media/posts/45/responsive/HealthyDesignLibrary-md.png 1024w ,https://fredvg.com/media/posts/45/responsive/HealthyDesignLibrary-lg.png 1366w ,https://fredvg.com/media/posts/45/responsive/HealthyDesignLibrary-xl.png 1600w ,https://fredvg.com/media/posts/45/responsive/HealthyDesignLibrary-2xl.png 1920w"></figure>
 <h2 class="p2">Talks, presentations, and workshops</h2>
 <p class="p1">Over the years, I’ve been lucky to speak and present at a variety of design and healthcare conferences and events. I’ve presented on topics like “Designing for Accessibility ”, “Digital Health Literacy”, “Inclusive Design”, “Numeracy and Data Visualization”, and more. I’ve led design thinking workshops and have led online and in-person trainings.</p>
+<figure class="post__image"><img loading="lazy"  src="https://fredvg.com/media/posts/45/DesigningforA11Y.png" alt="A slide from the Design For Accessibility deck. The slide shows a few bullets that explain why accessibility needs to be built-in instead of bolt-on (as an after thought). The slide has 2 pictures, one shows a beautifully designed sink with sections for short and tall people. The other picture shows a sink with an ugly and hard-to-use foldout step stool beneath it." width="1080" height="613" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://fredvg.com/media/posts/45/responsive/DesigningforA11Y-xs.png 640w ,https://fredvg.com/media/posts/45/responsive/DesigningforA11Y-sm.png 768w ,https://fredvg.com/media/posts/45/responsive/DesigningforA11Y-md.png 1024w ,https://fredvg.com/media/posts/45/responsive/DesigningforA11Y-lg.png 1366w ,https://fredvg.com/media/posts/45/responsive/DesigningforA11Y-xl.png 1600w ,https://fredvg.com/media/posts/45/responsive/DesigningforA11Y-2xl.png 1920w"></figure>
 <h2 class="p2">Health Literacy Online</h2>
 <p class="p1">Health Literacy Online is about broadening access to user-friendly digital health information and services. This research-based guide discusses the why and how to create health websites and other digital tools for a range of audiences. When the time came to update and refresh the official <a href="https://odphp.health.gov/healthliteracyonline">Health Literacy Online</a> resource, I was responsible for most of the UX /UI guidelines.</p>
             ]]>
