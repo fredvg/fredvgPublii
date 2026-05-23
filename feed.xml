@@ -3,12 +3,37 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-05-22T11:53:26-04:00</updated>
+    <updated>2026-05-22T20:04:53-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>Playing around with Claude Design</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/posts/playing-around-with-claude-design.html"/>
+        <id>https://fredvg.com/posts/playing-around-with-claude-design.html</id>
+            <category term="UI + IxD"/>
+            <category term="Notes"/>
+
+        <updated>2026-05-22T20:03:16-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>Playing around with Claude Design and realizing it very much behaves like an intern. I can get draft-level output from it, but need to hold its hand. There's lots of editing and re-prompting that needs to happen, but it's definitely faster than an actual human. My 2 main concerns are: how much work would it be for a developer to take this from prototype to production-ready? And, would it ever contribute cool, valuable, or surprising ideas like a good intern would?</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Playing around with Claude Design and realizing it very much behaves like an intern. I can get draft-level output from it, but need to hold its hand. There's lots of editing and re-prompting that needs to happen, but it's definitely faster than an actual human. My 2 main concerns are: how much work would it be for a developer to take this from prototype to production-ready? And, would it ever contribute cool, valuable, or surprising ideas like a good intern would?</p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Dilla Time — Dan Charnas</title>
         <author>
@@ -245,47 +270,6 @@
 <p><a href="https://www.linkedin.com/pulse/taste-sarah-guo-u9qcf">Taste — Sarah Guo</a></p>
 
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Healthy People 2030: Data Display</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/posts/healthy-people-2030-data-display.html"/>
-        <id>https://fredvg.com/posts/healthy-people-2030-data-display.html</id>
-            <category term="UI + IxD"/>
-            <category term="Portfolio"/>
-            <category term="Dataviz"/>
-            <category term="Case Study"/>
-
-        <updated>2026-01-15T11:43:00-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    The challenge With over 500 objectives and tens of thousands of associated data points, the UI and interaction design of Healthy People 2030's data display was a big, fun challenge. Not only are the data complex and broad in scope, but the audiences are diverse&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2>The challenge</h2>
-<div class="cs-content">
-<p>With over 500 objectives and tens of thousands of associated data points, the UI and interaction design of Healthy People 2030's data display was a big, fun challenge. Not only are the data complex and broad in scope, but the audiences are diverse too. The data visualizations needed to be user-friendly and work with a wide variety of devices and technologies.</p>
-</div>
-<div class="cs-divider"> </div>
-<h2 class="cs-label">What we did</h2>
-<div class="cs-content">
-<p>Working in close collaboration with our clients at The Office of Disease Prevention and Health Promotion (ODPHP) and The National Center for Health Statistics (NCHS), I created a fully integrated data visualization tool that allows visualizations to be customized and filtered based on specific user needs. The data can be explored from a variety of perspectives and in multiple formats: charts, tables, and maps.</p>
-<p>The visualizations integrate with each of the 500+ objectives in a way that makes it intuitive to start from a high level and drill down to increasing detail. Because understanding disparities is a high priority, we built a user-friendly way to find and interpret disparities data.</p>
-</div>
-<div class="cs-divider"> </div>
-<h2 class="cs-label">Why it matters</h2>
-<div class="cs-content">
-<p>Compared to Healthy People 2020, we provided additional functionality while also improving discoverability and ease of use. This makes the vast amount of data more usable and more useful. The new data display interface has greatly increased adoption and engagement.</p>
-<blockquote>
-<p>[What makes it easy to use health data?] "Being able to visualize that data, and perhaps sometimes give people the ability to choose how they want to see it or how they want to slice and dice and manipulate it." — Usability Research Participant</p>
-</blockquote>
-</div>
             ]]>
         </content>
     </entry>

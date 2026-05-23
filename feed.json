@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/posts/playing-around-with-claude-design.html",
+            "url": "https://fredvg.com/posts/playing-around-with-claude-design.html",
+            "title": "Playing around with Claude Design",
+            "summary": "<p>Playing around with Claude Design and realizing it very much behaves like an intern. I can get draft-level output from it, but need to hold its hand. There's lots of editing and re-prompting that needs to happen, but it's definitely faster than an actual human. My 2 main concerns are: how much work would it be for a developer to take this from prototype to production-ready? And, would it ever contribute cool, valuable, or surprising ideas like a good intern would?</p>\n",
+            "content_html": "<p>Playing around with Claude Design and realizing it very much behaves like an intern. I can get draft-level output from it, but need to hold its hand. There's lots of editing and re-prompting that needs to happen, but it's definitely faster than an actual human. My 2 main concerns are: how much work would it be for a developer to take this from prototype to production-ready? And, would it ever contribute cool, valuable, or surprising ideas like a good intern would?</p>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "UI + IxD",
+                   "Notes"
+            ],
+            "date_published": "2026-05-22T20:03:16-04:00",
+            "date_modified": "2026-05-22T20:04:53-04:00"
+        },
+        {
             "id": "https://fredvg.com/posts/dilla-time-dan-charnas.html",
             "url": "https://fredvg.com/posts/dilla-time-dan-charnas.html",
             "title": "Dilla Time — Dan Charnas",
@@ -148,24 +164,6 @@
             ],
             "date_published": "2026-01-19T16:06:50-05:00",
             "date_modified": "2026-01-19T16:06:50-05:00"
-        },
-        {
-            "id": "https://fredvg.com/posts/healthy-people-2030-data-display.html",
-            "url": "https://fredvg.com/posts/healthy-people-2030-data-display.html",
-            "title": "Healthy People 2030: Data Display",
-            "summary": "The challenge With over 500 objectives and tens of thousands of associated data points, the UI and interaction design of Healthy People 2030's data display was a big, fun challenge. Not only are the data complex and broad in scope, but the audiences are diverse&hellip;",
-            "content_html": "<h2>The challenge</h2>\n<div class=\"cs-content\">\n<p>With over 500 objectives and tens of thousands of associated data points, the UI and interaction design of Healthy People 2030's data display was a big, fun challenge. Not only are the data complex and broad in scope, but the audiences are diverse too. The data visualizations needed to be user-friendly and work with a wide variety of devices and technologies.</p>\n</div>\n<div class=\"cs-divider\"> </div>\n<h2 class=\"cs-label\">What we did</h2>\n<div class=\"cs-content\">\n<p>Working in close collaboration with our clients at The Office of Disease Prevention and Health Promotion (ODPHP) and The National Center for Health Statistics (NCHS), I created a fully integrated data visualization tool that allows visualizations to be customized and filtered based on specific user needs. The data can be explored from a variety of perspectives and in multiple formats: charts, tables, and maps.</p>\n<p>The visualizations integrate with each of the 500+ objectives in a way that makes it intuitive to start from a high level and drill down to increasing detail. Because understanding disparities is a high priority, we built a user-friendly way to find and interpret disparities data.</p>\n</div>\n<div class=\"cs-divider\"> </div>\n<h2 class=\"cs-label\">Why it matters</h2>\n<div class=\"cs-content\">\n<p>Compared to Healthy People 2020, we provided additional functionality while also improving discoverability and ease of use. This makes the vast amount of data more usable and more useful. The new data display interface has greatly increased adoption and engagement.</p>\n<blockquote>\n<p>[What makes it easy to use health data?] \"Being able to visualize that data, and perhaps sometimes give people the ability to choose how they want to see it or how they want to slice and dice and manipulate it.\" — Usability Research Participant</p>\n</blockquote>\n</div>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "UI + IxD",
-                   "Portfolio",
-                   "Dataviz",
-                   "Case Study"
-            ],
-            "date_published": "2026-01-15T11:43:00-05:00",
-            "date_modified": "2026-03-30T10:53:10-04:00"
         }
     ]
 }
