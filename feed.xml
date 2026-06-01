@@ -3,12 +3,38 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-05-22T20:04:53-04:00</updated>
+    <updated>2026-06-01T13:59:55-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>Endtroducing... — DJ Shadow</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/posts/endtroducing-dj-shadow.html"/>
+        <id>https://fredvg.com/posts/endtroducing-dj-shadow.html</id>
+            <category term="Notes"/>
+
+        <updated>2026-06-01T13:57:24-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>30 years later, still a favorite.</p>
+<figure class="post__image"><img loading="lazy"  src="https://fredvg.com/media/posts/55/IMG_3959_1200.jpg" alt="A picture of a turntable playing DJ Shadow's Endtroducing... album. The record sleeve is sitting next to the record player." width="1200" height="900" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-xs.jpg 640w ,https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-sm.jpg 768w ,https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-md.jpg 1024w ,https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-lg.jpg 1366w ,https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-xl.jpg 1600w ,https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-2xl.jpg 1920w"></figure>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>30 years later, still a favorite.</p>
+<figure class="post__image"><img loading="lazy"  src="https://fredvg.com/media/posts/55/IMG_3959_1200.jpg" alt="A picture of a turntable playing DJ Shadow's Endtroducing... album. The record sleeve is sitting next to the record player." width="1200" height="900" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-xs.jpg 640w ,https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-sm.jpg 768w ,https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-md.jpg 1024w ,https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-lg.jpg 1366w ,https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-xl.jpg 1600w ,https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-2xl.jpg 1920w"></figure>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Playing around with Claude Design</title>
         <author>
@@ -238,36 +264,6 @@
                 <p><a href="https://youtu.be/wWKSoxG1K7w?si=omeIuoGwD-T4ln73">Bruce Springsteen — Streets of Minneapolis</a></p>
 <p>Woody Guthrie would be proud. We need more of this. Every single American* needs to speak up and take a stand. When we look back, "I didn't know" or "I didn't want to make things political" won't be an acceptable excuse. You <em>do</em> know, and at some point <em>everything becomes political</em>.</p>
 <p>*Non-Americans can (and should) protest too: <a href="https://youtu.be/IKOW2ZikGW8?si=-I3oFUitCvtnW1yN">Billy Bragg — City of Heroes</a>  </p>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Taste</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/posts/taste.html"/>
-        <id>https://fredvg.com/posts/taste.html</id>
-            <category term="Inspiration"/>
-
-        <updated>2026-01-19T16:06:50-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <blockquote>
-<p><span class="">This is taste. The relentless, almost painful ability to know what should exist, what shouldn't, and where quality matters.</span></p>
-</blockquote>
-<p><a href="https://www.linkedin.com/pulse/taste-sarah-guo-u9qcf">Taste — Sarah Guo</a></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <blockquote>
-<p><span class="">This is taste. The relentless, almost painful ability to know what should exist, what shouldn't, and where quality matters.</span></p>
-</blockquote>
-<p><a href="https://www.linkedin.com/pulse/taste-sarah-guo-u9qcf">Taste — Sarah Guo</a></p>
 
 <p> </p>
             ]]>
