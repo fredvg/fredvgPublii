@@ -16,9 +16,10 @@ const period = document.querySelector('.period');
 
 if (document.body.classList.contains('home-template')) {
   if (sessionStorage.getItem('fvg-hero-played')) {
-    document.body.classList.add('hero-instant');
+    // Return visit: content visible by default, just show the period
     if (period) period.classList.add('is-visible');
   } else {
+    // First visit: hero-animate already set in <head> if appropriate
     if (period) {
       setTimeout(() => {
         period.classList.add('is-visible');

@@ -128,10 +128,6 @@ button:focus-visible {
     animation: none !important;
     transition: none !important;
   }
-  .name-text,
-  .home-intro {
-    opacity: 1;
-  }
 }
 
 
@@ -171,6 +167,10 @@ body.home-template .home-hero {
   font-family: var(--heading-font);
   color: var(--text-color);
   white-space: nowrap;
+}
+
+/* Animate in on first visit — class added by JS */
+html.hero-animate .name-text {
   opacity: 0;
   animation: fadeIn 1s ease-out forwards;
 }
@@ -184,21 +184,18 @@ body.home-template .home-hero {
   color: var(--text-color);
 }
 
-/* Skip animation on return visits (fvg-hero-played is set in sessionStorage) */
-body.hero-instant .name-text,
-body.hero-instant .home-intro {
-  animation: none;
-  opacity: 1;
-}
-
-/* Intro text — fades in after the name animation */
+/* Intro text */
 .home-intro {
-  opacity: 0;
-  animation: fadeIn 0.8s ease-out 1.2s forwards;
   text-align: center;
   max-width: 36rem;
   margin-top: 2rem;
   padding: 0 2rem;
+}
+
+/* Animate in on first visit — class added by JS */
+html.hero-animate .home-intro {
+  opacity: 0;
+  animation: fadeIn 0.8s ease-out 1.2s forwards;
 }
 
 .home-intro p {
