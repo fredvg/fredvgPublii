@@ -234,14 +234,28 @@ html.hero-animate .home-intro {
 
 
 /* =============================================
-   Site logo text — fixed upper left, non-home pages
+   Site header — fixed bar with logo + menu toggle
    ============================================= */
 
-.site-logo-text {
+.site-header {
   position: fixed;
-  top: 1.5rem;
-  left: 1.5rem;
-  z-index: 50;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.25rem 0 1.5rem;
+  background: var(--page-bg);
+  z-index: 200;
+}
+
+body.home-template .site-header {
+  background: transparent;
+}
+
+.site-logo-text {
   font-family: var(--heading-font);
   font-weight: 600;
   font-variation-settings: "wght" 600;
@@ -268,10 +282,6 @@ body.home-template .site-logo-text {
    ============================================= */
 
 .menu-toggle {
-  position: fixed;
-  top: 1.25rem;
-  right: 1.25rem;
-  z-index: 200;
   background: none;
   border: none;
   cursor: pointer;
