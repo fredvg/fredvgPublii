@@ -60,6 +60,33 @@
       outline-offset: 3px;
     }
 
+    /* "Back to Resume" exit link — replaces the menu button, echoing the site's
+       open-menu look: uppercase heading-font label + a close symbol. Plain link,
+       no JS. */
+    .wizard-exit {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      font-family: var(--heading-font);
+      font-variation-settings: "wght" 400;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-size: 0.9rem;
+      line-height: 1;
+      color: var(--text-color);
+      border: none;
+      transition: color 0.2s ease;
+    }
+    .wizard-exit:hover,
+    .wizard-exit:focus-visible {
+      color: var(--link-color);
+      border: none;
+    }
+    .wizard-exit__x {
+      font-size: 1.4rem;
+      font-variation-settings: "wght" 400;
+    }
+
     .wizard-page__inner {
       max-width: var(--entry-width);
       margin: 0 auto;
@@ -383,24 +410,8 @@
   <!-- ===== Site header (mirrors partials/navbar.hbs) ===== -->
   <header class="site-header">
     <a href="https://fredvg.com/" class="site-logo-text">Fred VG.</a>
-    <button class="menu-toggle" aria-expanded="false" aria-controls="nav-drawer" aria-label="Toggle navigation menu">
-      <span class="menu-toggle__label">Menu</span>
-      <span class="menu-toggle__icon" aria-hidden="true">
-        <span class="menu-toggle__bar"></span>
-        <span class="menu-toggle__bar"></span>
-        <span class="menu-toggle__bar"></span>
-      </span>
-    </button>
+    <a href="/resume" class="wizard-exit">Back to Resume <span class="wizard-exit__x" aria-hidden="true">&times;</span></a>
   </header>
-
-  <nav class="nav-drawer" id="nav-drawer" aria-label="Main navigation" inert>
-    <!-- <a href="https://fredvg.com/" class="nav-drawer__link">Home</a> -->
-    <a href="https://fredvg.com/about/" class="nav-drawer__link">About</a>
-    <a href="https://www.linkedin.com/in/fredvg" class="nav-drawer__link extlink extlink-icon-1">LinkedIn</a>
-    <a href="resume.html" class="nav-drawer__link">Resume</a>
-    <a class="nav-drawer__link js-email">Contact</a>
-  </nav>
-  <div class="nav-drawer__overlay" aria-hidden="true"></div>
 
   <!-- ===== Wizard ===== -->
   <div class="wizard-page__inner">
@@ -923,32 +934,6 @@
       var emailUser = 'Fred.VG+Contact', emailDomain = 'gmail.com';
       document.querySelectorAll('.js-email').forEach(function (el) {
         el.setAttribute('href', 'mailto:' + emailUser + '@' + emailDomain);
-      });
-
-      /* ----- Menu drawer (mirrors transitions.js) ----- */
-      var toggle = document.querySelector('.menu-toggle');
-      var drawer = document.getElementById('nav-drawer');
-      var overlay = document.querySelector('.nav-drawer__overlay');
-
-      function setMenu(open) {
-        if (!toggle) return;
-        toggle.setAttribute('aria-expanded', String(open));
-        if (drawer) {
-          drawer.classList.toggle('is-open', open);
-          /* When closed, the off-screen drawer is removed from the tab order and
-             hidden from assistive tech so keyboard focus flows straight to the page. */
-          drawer.inert = !open;
-        }
-        if (overlay) overlay.classList.toggle('is-visible', open);
-      }
-      if (toggle) {
-        toggle.addEventListener('click', function () {
-          setMenu(toggle.getAttribute('aria-expanded') !== 'true');
-        });
-      }
-      if (overlay) overlay.addEventListener('click', function () { setMenu(false); });
-      document.addEventListener('keydown', function (e) {
-        if (e.key === 'Escape') setMenu(false);
       });
 
       /* ----- Wizard navigation ----- */
