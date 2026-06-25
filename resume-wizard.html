@@ -398,7 +398,7 @@
     <a href="https://fredvg.com/about/" class="nav-drawer__link">About</a>
     <a href="https://www.linkedin.com/in/fredvg" class="nav-drawer__link extlink extlink-icon-1">LinkedIn</a>
     <a href="resume.html" class="nav-drawer__link">Resume</a>
-    <a href="https://fredvg.com/contact/" class="nav-drawer__link">Contact</a>
+    <a class="nav-drawer__link js-email">Contact</a>
   </nav>
   <div class="nav-drawer__overlay" aria-hidden="true"></div>
 
@@ -849,7 +849,7 @@
               investment.
             </p>
             <p>
-              That said, if you want to bring this human-touch and level of thoughtfulness to a commercial product, I'd be happy to help. <a href="https://fredvg.com/contact">Send me a message</a>, I'd love to talk it through.
+              That said, if you want to bring this human-touch and level of thoughtfulness to a commercial product, I'd be happy to help. <a class="js-email">Send me a message</a>, I'd love to talk it through.
             </p>
           </div>
           <div class="wizard-more" data-more></div>
@@ -887,7 +887,7 @@
             </p>
           </div>
           <div class="wizard-cta-row">
-            <a class="wizard-cta" href="https://fredvg.com/contact/">Send a message&nbsp;&rarr;</a>
+            <a class="wizard-cta js-email">Send me an email&nbsp;&rarr;</a>
             <a class="wizard-cta wizard-cta--ghost" href="https://linkedin.com/in/fredvg">Find me on LinkedIn&nbsp;&rarr;</a>
           </div>
           <div class="wizard-more" data-more></div>
@@ -913,6 +913,16 @@
       /* ----- Footer year ----- */
       document.querySelectorAll('.js-year').forEach(function (el) {
         el.textContent = new Date().getFullYear();
+      });
+
+      /* ----- Email links -----
+         The address is assembled here from separate pieces and applied at runtime,
+         so the full `user@domain` string never appears in the page source — a light
+         deterrent against email-harvesting crawlers. Any <a class="js-email"> becomes
+         the mailto link. (The wizard requires JS anyway, so no no-JS fallback needed.) */
+      var emailUser = 'Fred.VG+Contact', emailDomain = 'gmail.com';
+      document.querySelectorAll('.js-email').forEach(function (el) {
+        el.setAttribute('href', 'mailto:' + emailUser + '@' + emailDomain);
       });
 
       /* ----- Menu drawer (mirrors transitions.js) ----- */
