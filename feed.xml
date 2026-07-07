@@ -3,12 +3,66 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-06-08T15:12:33-04:00</updated>
+    <updated>2026-07-07T19:20:36-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>Interactive Resume</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/posts/interactive-resume.html"/>
+        <id>https://fredvg.com/posts/interactive-resume.html</id>
+            <category term="UI + IxD"/>
+            <category term="Portfolio"/>
+            <category term="Open-To-Work"/>
+            <category term="About"/>
+
+        <updated>2026-07-07T19:15:20-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I created an interactive resume. It's a choose-your-own-adventure wizard where you can learn more about me. Here's the story of how it came to be. A few weeks back, I started to create an interactive resume. The first version was a sidescrolling game. The idea&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I created an <a href="https://fredvg.com/resume-wizard.html">interactive resume</a>. It's a choose-your-own-adventure wizard where you can learn more about me. Here's the story of how it came to be.</p>
+<p>A few weeks back, I started to create an interactive resume. The first version was a sidescrolling game. The idea was that you learn about me as you play. Halfway through the build process, I realized my idea wasn't the right solution for the problem.</p>
+<p>I wanted to make it easier — and more fun — for my audience to learn about me and digest the information that's otherwise locked in my resume or cover letter.</p>
+<p>The game was definitely more fun than reading boring facts about me. But as I iterated on the gameplay it became evident that there were a few flaws. My audience doesn't have much time and playing a game — even if it only takes a few minutes to complete — takes longer than scanning a resume. I also worried that the actual information could get lost as the main focus would be on playing the game. And finally, I'm not a game designer, I'm not even a gamer, so personality-wise it wasn't a great fit for a product that's all about getting to know me.</p>
+<p>I pivoted to a claymation style animation. That turned out to have it's own share of issues. You can <a href="https://fredvg.com/posts/a-successfully-abandoned-project.html">read more about those here</a>.</p>
+<p>Back to the drawing board I went. For now, I've settled on providing 3 versions of my resume. The first is a <a href="https://fredvg.com/html-resume.html">traditional text based resume</a>. The second is the interactive resume linked above (and below). And the third — still to be developed — will be an AI chatbot that can answer questions about me, my professional and personal history, and how we might work together.</p>
+<p>Feel free to <a href="https://fredvg.com/resume-wizard.html">play around with the wizard</a>. Any feedback is welcome — you can <a href="mailto:Fred.VG+Contact@gmail.com">email me</a>, or <a href="https://www.linkedin.com/in/fredvg">find me on LinkedIn</a> and message me there.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>North Woods — Daniel Mason</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/posts/north-woods-daniel-mason.html"/>
+        <id>https://fredvg.com/posts/north-woods-daniel-mason.html</id>
+            <category term="Read"/>
+
+        <updated>2026-06-25T19:17:00-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p><a href="https://www.penguinrandomhouse.com/books/726262/north-woods-by-daniel-mason/">North Woods — Daniel Mason</a></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://www.penguinrandomhouse.com/books/726262/north-woods-by-daniel-mason/">North Woods — Daniel Mason</a></p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A successfully abandoned project</title>
         <author>
@@ -223,60 +277,6 @@
 <p>On January 1st, CommunicateHealth — the company I worked for since late 2017 — merged with Lumina Corps. This was not supposed to be a big change. My job title, list of responsibilities, clients, and projects all stayed the same. Unfortunately, it quickly became clear that Lumina Corps and I were not a good fit. So, in early March we parted ways.</p>
 <p>Right now, I'm taking a bit of time to make sure whatever I pursue next is a good fit for my interests, talents, and experience.</p>
 <p>If you think you might have an opportunity that matches, please <a href="https://www.linkedin.com/in/fredvg">find me on LinkedIn</a>, I'd love to discuss!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Thought leadership: talks, trainings, and mentorship</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/posts/thought-leadership-talks-trainings-and-mentorship.html"/>
-        <id>https://fredvg.com/posts/thought-leadership-talks-trainings-and-mentorship.html</id>
-            <category term="Portfolio"/>
-            <category term="Case Study"/>
-
-        <updated>2026-02-10T16:55:00-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Training and mentoring In my role as product design strategist and UX/UI designer, I was fortunate to mentor and train coworkers on my team. I strongly believe in the power of cross-functional knowledge sharing. As much as I enjoy teaching my peers about my areas&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2>Training and mentoring</h2>
-<p class="p1">In my role as product design strategist and UX/UI designer, I was fortunate to mentor and train coworkers on my team. I strongly believe in the power of cross-functional knowledge sharing. As much as I enjoy teaching my peers about my areas of expertise, I also value the opportunity to learn from them.</p>
-<p class="p1">One of the examples of a thought leadership resource I’ ve created and provided for the team, is our library of UX/UI/IxD best practices. This library contains over 50 write-ups for UI elements, UX patterns, and IxD interactions. It includes best practices and accessibility guidelines as well as lessons learned from our projects.</p>
-<figure class="post__image"><img loading="lazy"  src="https://fredvg.com/media/posts/45/HealthyDesignLibrary.png" alt="A screenshot of the Accordions page in the Healthy Design Library of best practices for UX/UI/IxD." width="1200" height="804" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://fredvg.com/media/posts/45/responsive/HealthyDesignLibrary-xs.png 640w ,https://fredvg.com/media/posts/45/responsive/HealthyDesignLibrary-sm.png 768w ,https://fredvg.com/media/posts/45/responsive/HealthyDesignLibrary-md.png 1024w ,https://fredvg.com/media/posts/45/responsive/HealthyDesignLibrary-lg.png 1366w ,https://fredvg.com/media/posts/45/responsive/HealthyDesignLibrary-xl.png 1600w ,https://fredvg.com/media/posts/45/responsive/HealthyDesignLibrary-2xl.png 1920w"></figure>
-<h2 class="p2">Talks, presentations, and workshops</h2>
-<p class="p1">Over the years, I’ve been lucky to speak and present at a variety of design and healthcare conferences and events. I’ve presented on topics like “Designing for Accessibility ”, “Digital Health Literacy”, “Inclusive Design”, “Numeracy and Data Visualization”, and more. I’ve led design thinking workshops and have led online and in-person trainings.</p>
-<figure class="post__image"><img loading="lazy"  src="https://fredvg.com/media/posts/45/DesigningforA11Y.png" alt="A slide from the Design For Accessibility deck. The slide shows a few bullets that explain why accessibility needs to be built-in instead of bolt-on (as an after thought). The slide has 2 pictures, one shows a beautifully designed sink with sections for short and tall people. The other picture shows a sink with an ugly and hard-to-use foldout step stool beneath it." width="1080" height="613" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://fredvg.com/media/posts/45/responsive/DesigningforA11Y-xs.png 640w ,https://fredvg.com/media/posts/45/responsive/DesigningforA11Y-sm.png 768w ,https://fredvg.com/media/posts/45/responsive/DesigningforA11Y-md.png 1024w ,https://fredvg.com/media/posts/45/responsive/DesigningforA11Y-lg.png 1366w ,https://fredvg.com/media/posts/45/responsive/DesigningforA11Y-xl.png 1600w ,https://fredvg.com/media/posts/45/responsive/DesigningforA11Y-2xl.png 1920w"></figure>
-<h2 class="p2">Health Literacy Online</h2>
-<p class="p1">Health Literacy Online is about broadening access to user-friendly digital health information and services. This research-based guide discusses the why and how to create health websites and other digital tools for a range of audiences. When the time came to update and refresh the official <a href="https://odphp.health.gov/healthliteracyonline">Health Literacy Online</a> resource, I was responsible for most of the UX /UI guidelines.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>A Wrinkle in Time - The Graphic Novel</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/posts/a-wrinkle-in-time-the-graphic-novel.html"/>
-        <id>https://fredvg.com/posts/a-wrinkle-in-time-the-graphic-novel.html</id>
-            <category term="Read"/>
-
-        <updated>2026-02-05T19:48:00-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p><a href="https://us.macmillan.com/books/9781250056948/awrinkleintimethegraphicnovel/">Hope Larson — Wrinkle in Time - The Graphic Novel</a></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://us.macmillan.com/books/9781250056948/awrinkleintimethegraphicnovel/">Hope Larson — Wrinkle in Time - The Graphic Novel</a></p>
-
-<p> </p>
             ]]>
         </content>
     </entry>
