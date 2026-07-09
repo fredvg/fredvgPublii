@@ -253,6 +253,7 @@ html.hero-animate .home-intro {
 
 body.home-template .site-header {
   background: transparent;
+  justify-content: flex-end;
 }
 
 .site-logo-text {
