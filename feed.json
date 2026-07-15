@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/posts/ai-getting-worse.html",
+            "url": "https://fredvg.com/posts/ai-getting-worse.html",
+            "title": "AI getting worse?",
+            "summary": "Is it just me, or is AI already getting worse? For a while it felt like it was improving rapidly, but lately it seems to trip over itself as it overcomplicates things and tries to go about simple tasks in a roundabout way. ",
+            "content_html": "<p>Is it just me, or is AI already getting worse? For a while it felt like it was improving rapidly, but lately it seems to trip over itself as it overcomplicates things and tries to go about simple tasks in a roundabout way. </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Notes"
+            ],
+            "date_published": "2026-07-15T14:43:45-04:00",
+            "date_modified": "2026-07-15T14:44:43-04:00"
+        },
+        {
             "id": "https://fredvg.com/posts/interactive-resume.html",
             "url": "https://fredvg.com/posts/interactive-resume.html",
             "title": "Interactive Resume",
@@ -151,22 +166,6 @@
             ],
             "date_published": "2026-03-30T10:59:21-04:00",
             "date_modified": "2026-04-16T16:12:15-04:00"
-        },
-        {
-            "id": "https://fredvg.com/posts/another-update-open-to-work-2.html",
-            "url": "https://fredvg.com/posts/another-update-open-to-work-2.html",
-            "title": "One more update — #Open-To-Work",
-            "summary": "OK, I promise I'll stop posting these #open-to-work updates (soon). On January 1st, CommunicateHealth — the company I worked for since late 2017 — merged with Lumina Corps. This was not supposed to be a big change. My job title, list of responsibilities, clients, and&hellip;",
-            "content_html": "<p>OK, I promise I'll stop posting these <a href=\"https://fredvg.com/tags/open-to-work/\">#open-to-work updates</a> (soon).</p>\n<p>On January 1st, CommunicateHealth — the company I worked for since late 2017 — merged with Lumina Corps. This was not supposed to be a big change. My job title, list of responsibilities, clients, and projects all stayed the same. Unfortunately, it quickly became clear that Lumina Corps and I were not a good fit. So, in early March we parted ways.</p>\n<p>Right now, I'm taking a bit of time to make sure whatever I pursue next is a good fit for my interests, talents, and experience.</p>\n<p>If you think you might have an opportunity that matches, please <a href=\"https://www.linkedin.com/in/fredvg\">find me on LinkedIn</a>, I'd love to discuss!</p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Open-To-Work",
-                   "About"
-            ],
-            "date_published": "2026-03-05T10:46:57-05:00",
-            "date_modified": "2026-03-27T12:02:11-04:00"
         }
     ]
 }
