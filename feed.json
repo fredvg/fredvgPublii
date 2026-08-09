@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/posts/what-i-ate-in-one-year-stanley-tucci.html",
+            "url": "https://fredvg.com/posts/what-i-ate-in-one-year-stanley-tucci.html",
+            "title": "What I Ate in One Year — Stanley Tucci",
+            "summary": "<p><a href=\"https://www.simonandschuster.com/books/What-I-Ate-in-One-Year/Stanley-Tucci/9781668055687\">What I Ate in One Year — Stanley Tucci</a></p>\n",
+            "content_html": "<p><a href=\"https://www.simonandschuster.com/books/What-I-Ate-in-One-Year/Stanley-Tucci/9781668055687\">What I Ate in One Year — Stanley Tucci</a></p>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Currently reading"
+            ],
+            "date_published": "2026-07-24T11:09:00-04:00",
+            "date_modified": "2026-08-09T11:11:02-04:00"
+        },
+        {
             "id": "https://fredvg.com/posts/ai-getting-worse.html",
             "url": "https://fredvg.com/posts/ai-getting-worse.html",
             "title": "AI getting worse?",
@@ -151,21 +166,6 @@
             ],
             "date_published": "2026-04-08T11:20:46-04:00",
             "date_modified": "2026-04-09T17:32:44-04:00"
-        },
-        {
-            "id": "https://fredvg.com/posts/diana-secker.html",
-            "url": "https://fredvg.com/posts/diana-secker.html",
-            "title": "New York Stories — Diana Secker Tesdell",
-            "summary": "<p><a href=\"https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/\">New York Stories — Diana Secker Tesdell</a></p>\n",
-            "content_html": "<p><a href=\"https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/\">New York Stories — Diana Secker Tesdell</a></p>\n\n<p> </p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Currently reading"
-            ],
-            "date_published": "2026-03-30T10:59:21-04:00",
-            "date_modified": "2026-04-16T16:12:15-04:00"
         }
     ]
 }

@@ -3,12 +3,36 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-07-15T14:44:43-04:00</updated>
+    <updated>2026-08-09T11:11:02-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>What I Ate in One Year — Stanley Tucci</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/posts/what-i-ate-in-one-year-stanley-tucci.html"/>
+        <id>https://fredvg.com/posts/what-i-ate-in-one-year-stanley-tucci.html</id>
+            <category term="Currently reading"/>
+
+        <updated>2026-07-24T11:09:00-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p><a href="https://www.simonandschuster.com/books/What-I-Ate-in-One-Year/Stanley-Tucci/9781668055687">What I Ate in One Year — Stanley Tucci</a></p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://www.simonandschuster.com/books/What-I-Ate-in-One-Year/Stanley-Tucci/9781668055687">What I Ate in One Year — Stanley Tucci</a></p>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>AI getting worse?</title>
         <author>
@@ -249,30 +273,6 @@
 <p>The print features a data visualization to show connections and collaborations between a bunch of musicians. I — somewhat randomly — picked 2 musicians to start from. On the UK side, I picked Shabaka Hutchins. And on the US side I started from Robert Glasper (we had recently seen him perform at the Blue Note in NYC). </p>
 <p>A few of the connections are bands, but most are individual musicians. For each musician an icon illustrates their primary instrument.</p>
 <p>This was just a fun side-project that allowed me to think creatively about data visualization.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>New York Stories — Diana Secker Tesdell</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/posts/diana-secker.html"/>
-        <id>https://fredvg.com/posts/diana-secker.html</id>
-            <category term="Currently reading"/>
-
-        <updated>2026-03-30T10:59:21-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p><a href="https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/">New York Stories — Diana Secker Tesdell</a></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://www.penguinrandomhouse.com/books/207177/new-york-stories-by-edited-by-diana-secker-tesdell/">New York Stories — Diana Secker Tesdell</a></p>
-
-<p> </p>
             ]]>
         </content>
     </entry>
