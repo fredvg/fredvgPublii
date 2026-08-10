@@ -2489,3 +2489,25 @@ textarea {
   margin: 1rem 0;
   /* font-weight: bold; */
 }
+.time-widget{
+  max-width: var(--page-width);
+  margin:0 auto;
+  padding:.5rem;
+  text-align:center;
+}
+.time-widget p{
+  margin:0;
+  font-size:0.8239746086rem;
+  line-height:auto;
+  color:var(--text-color);
+  opacity:0;
+  animation:fade-in 1.4s ease forwards;
+}
+.time-widget .comfort{
+  display:block;
+  color:var(--text-color);
+}
+@keyframes fade-in{
+  from{opacity:0; transform:translateY(6px);}
+  to{opacity:1; transform:translateY(0);}
+}
