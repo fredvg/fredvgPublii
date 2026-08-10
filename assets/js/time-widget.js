@@ -11,28 +11,28 @@
 
   var COMFORT = {
     morning: [
-      "you are right where you need to be.",
-      "welcome, make yourself at home.",
-      "take your time, there's no rush today.",
-      "the day is yours to shape."
+      "You are right where you need to be.",
+      "Welcome, make yourself at home.",
+      "Take your time, there's no rush today.",
+      "The day is yours to shape."
     ],
     afternoon: [
-      "glad you stopped by.",
-      "settle in, stay a while.",
-      "you are right where you need to be.",
-      "no need to hurry through this."
+      "Glad you stopped by.",
+      "Settle in, stay a while.",
+      "You are right where you need to be.",
+      "No need to hurry through this."
     ],
     evening: [
-      "welcome, make yourself at home.",
-      "whatever it is, it's OK.",
-      "you are right where you need to be.",
-      "good to have you here."
+      "Welcome, make yourself at home.",
+      "Whatever it is, it's OK.",
+      "You are right where you need to be.",
+      "Good to have you here."
     ],
     night: [
-      "just a few hours left in the day.",
-      "welcome, make yourself at home.",
-      "you are right where you need to be.",
-      "whatever it is, it'll wait for you."
+      "Just a few hours left in the day.",
+      "Welcome, make yourself at home.",
+      "You are right where you need to be.",
+      "Whatever it is, it'll wait for you."
     ]
   };
 
