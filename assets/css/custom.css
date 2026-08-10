@@ -186,7 +186,7 @@ html.hero-animate .name-text {
 
 /* Intro text */
 .home-intro {
-  text-align: center;
+  text-align: left;
   max-width: 36rem;
   margin-top: 2rem;
   padding: 0 2rem;
