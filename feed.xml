@@ -3,7 +3,7 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-09-02T17:12:38-04:00</updated>
+    <updated>2026-09-02T17:16:54-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
@@ -30,12 +30,12 @@
         <content type="html">
             <![CDATA[
                 <p>A lot of what you see here can be traced back to an idea I had when I saw <em>someone</em>, do <em>something</em>, <em>somewhere</em> else. I guess that's the definition of being inspired.</p>
-<p>A while ago, I came across the personal website of Zoe Minikes. I pretty much love everything about it. The idea I ended up <em>remixing</em> is near the bottom of the page. A simple dynamically generated sentence in the footer: "It’s the <em>[late afternoon]</em> of the <em>[fifteenth]</em>, and the digital sky is smiling on you."</p>
+<p>A while ago, I came across the personal <a href="https://zoeminikes.com">website of Zoe Minikes</a>. I pretty much love everything about it. The idea I ended up <em>remixing</em> is near the bottom of the page. A simple dynamically generated sentence in the footer: "It’s the <em>[late afternoon]</em> of the <em>[fifteenth]</em>, and the digital sky is smiling on you."</p>
 <p>So fun! I decided to take this idea and run with it. My version has the exact time of day and date spelled out in lowercase text. Instead of the static second part of the sentence, I created a bank of sentences or statements that are somewhat related to the time of day.</p>
 <hr>
 <div id="time-widget" class="time-widget" aria-live="polite"></div>
 <hr>
-<p>When someone comes across it in the footer, I hope it creates as much delight for them as Zoe's version did for me.</p>
+<p>When someone comes across it in the footer, I hope it brings as much delight to them as Zoe's version did for me.</p>
 <p>This post is tagged with "AI-assist" because I did need some help coding the widget. 😊</p>
 <p>More updates inspired by my fellow digital designers to come soon!</p>
             ]]>
