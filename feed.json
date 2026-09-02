@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/posts/fun-with-footers.html",
+            "url": "https://fredvg.com/posts/fun-with-footers.html",
+            "title": "Fun with footers?",
+            "summary": "A lot of what you see here can be traced back to an idea I had when I saw someone, do something, somewhere else. I guess that's the definition of being inspired. A while ago, I came across the personal website of Zoe Minikes. I pretty much love&hellip;",
+            "content_html": "<p>A lot of what you see here can be traced back to an idea I had when I saw <em>someone</em>, do <em>something</em>, <em>somewhere</em> else. I guess that's the definition of being inspired.</p>\n<p>A while ago, I came across the personal website of Zoe Minikes. I pretty much love everything about it. The idea I ended up <em>remixing</em> is near the bottom of the page. A simple dynamically generated sentence in the footer: \"It’s the <em>[late afternoon]</em> of the <em>[fifteenth]</em>, and the digital sky is smiling on you.\"</p>\n<p>So fun! I decided to take this idea and run with it. My version has the exact time of day and date spelled out in lowercase text. Instead of the static second part of the sentence, I created a bank of sentences or statements that are somewhat related to the time of day.</p>\n<hr>\n<div id=\"time-widget\" class=\"time-widget\" aria-live=\"polite\"></div>\n<hr>\n<p>When someone comes across it in the footer, I hope it creates as much delight for them as Zoe's version did for me.</p>\n<p>This post is tagged with \"AI-assist\" because I did need some help coding the widget. 😊</p>\n<p>More updates inspired by my fellow digital designers to come soon!</p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "UI + IxD",
+                   "Inspiration",
+                   "IA + Content Strategy",
+                   "AI-assist"
+            ],
+            "date_published": "2026-08-17T16:25:00-04:00",
+            "date_modified": "2026-09-02T17:12:38-04:00"
+        },
+        {
             "id": "https://fredvg.com/posts/what-i-ate-in-one-year-stanley-tucci.html",
             "url": "https://fredvg.com/posts/what-i-ate-in-one-year-stanley-tucci.html",
             "title": "What I Ate in One Year — Stanley Tucci",
@@ -131,10 +149,10 @@
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Currently reading"
+                   "Read"
             ],
             "date_published": "2026-04-16T16:10:56-04:00",
-            "date_modified": "2026-04-16T16:10:56-04:00"
+            "date_modified": "2026-09-01T17:32:55-04:00"
         },
         {
             "id": "https://fredvg.com/posts/mvps-the-good-the-bad-and-the-ugly.html",
@@ -150,22 +168,6 @@
             ],
             "date_published": "2026-04-14T11:22:00-04:00",
             "date_modified": "2026-05-05T12:00:12-04:00"
-        },
-        {
-            "id": "https://fredvg.com/posts/uk-us-jazz-dataviz.html",
-            "url": "https://fredvg.com/posts/uk-us-jazz-dataviz.html",
-            "title": "UK - US Jazz Dataviz",
-            "summary": "My brother-in-law and I are always sharing music recommendations and we both love jazz. A few years ago, I created a print for him. The print features a data visualization to show connections and collaborations between a bunch of musicians. I — somewhat randomly —&hellip;",
-            "content_html": "<p>My brother-in-law and I are always sharing music recommendations and we both love jazz. A few years ago, I created a print for him.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://fredvg.com/media/posts/48/gallery/UK-US-Jazz-2.png\" data-size=\"3764x2908\"><img loading=\"lazy\" src=\"https://fredvg.com/media/posts/48/gallery/UK-US-Jazz-2-thumbnail.png\" alt=\"A data visualization that shows a bunch of musicians with their primary instruments and how they are all connected and have collaborated.\" width=\"720\" height=\"556\"></a></figure>\n</div></div>\n<p>The print features a data visualization to show connections and collaborations between a bunch of musicians. I — somewhat randomly — picked 2 musicians to start from. On the UK side, I picked Shabaka Hutchins. And on the US side I started from Robert Glasper (we had recently seen him perform at the Blue Note in NYC). </p>\n<p>A few of the connections are bands, but most are individual musicians. For each musician an icon illustrates their primary instrument.</p>\n<p>This was just a fun side-project that allowed me to think creatively about data visualization.</p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Portfolio",
-                   "Dataviz"
-            ],
-            "date_published": "2026-04-08T11:20:46-04:00",
-            "date_modified": "2026-04-09T17:32:44-04:00"
         }
     ]
 }
