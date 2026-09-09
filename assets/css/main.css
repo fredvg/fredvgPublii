@@ -85,7 +85,7 @@ a {
   -webkit-transition: all 0.24s ease-out;
   transition: all 0.24s ease-out;
   text-decoration: none;
-  padding-bottom: .25rem;
+  padding-bottom: .35rem;
 }
 a:hover {
   color: var(--link-color-hover);
