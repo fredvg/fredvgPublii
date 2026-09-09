@@ -6,9 +6,11 @@
   --heading-font: var(--heading-font);
   --font-size: clamp(1rem, 1rem + (0.1 * ((100vw - 20rem) / 70)), 1.1rem);
 }
-
-a {
-  padding-bottom: .1rem;
+span.current-page {
+  font-style: normal;
+  font-weight: 600;
+  font-variation-settings: "wght" 600;
+  color: var(--highlight-color);
 }
 
 
@@ -62,6 +64,8 @@ body:not(.home-template) {
   background: none;
   width: 100%;
   justify-content: center;
+  /* clears the sticky header when the nav "filter by tag" link scrolls here */
+  scroll-margin-top: 5rem;
 }
 
 .accordion-toggle:hover,
@@ -175,14 +179,56 @@ html.hero-animate .name-text {
   animation: fadeIn 1s ease-out forwards;
 }
 
-.period {
-  color: transparent;
-  transition: color 0.3s ease;
+/* Dot drop animation — two inline-block wrappers so X and Y axes
+   can have independent easing (Figma Motion technique).
+   Outer (.dot-x) controls horizontal, inner (.dot-y) controls vertical.
+   All offsets in em so they scale with font-size. */
+.dot-x {
+  display: inline-block;
+  will-change: transform;
+  backface-visibility: hidden;
+}
+.dot-y {
+  display: inline-block;
+  color: var(--highlight-color);
+  will-change: transform;
+  backface-visibility: hidden;
 }
 
-.period.is-visible {
-  color: var(--text-color);
+/* First-visit animation — hero-animate class set by inline head script */
+html.hero-animate .dot-x {
+  /* delay matches name-text fade; fill:both parks dot off-screen during delay */
+  animation: dot-move-x 1.8s cubic-bezier(0.5, 0, 0.5, 1) 1s both;
 }
+html.hero-animate .dot-y {
+  animation: dot-move-y 1.8s cubic-bezier(0.5, 0, 0.5, 1) 1s both;
+}
+
+/* X axis: stationary during fall, then rolls off G to the right */
+@keyframes dot-move-x {
+  /* 0%    { transform: translateX(-0.50em);    animation-timing-function: cubic-bezier(0.96, 0.68, 1, 1); }
+  46.9% { transform: translateX(-0.50em);    animation-timing-function: linear; }
+  59.9% { transform: translateX(-0.49em);    animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1); }
+  60.8% { transform: translateX(-0.40em);    animation-timing-function: cubic-bezier(0, 0, 0.58, 1); }
+  68.7% { transform: translateX(-0.28em);    animation-timing-function: cubic-bezier(0, 0, 0.58, 1); }
+  76.5% { transform: translateX(-0.16em);    animation-timing-function: cubic-bezier(0, 0, 0.58, 1); }
+  84.3% { transform: translateX(-0.046em);   animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1); }
+  92.2% { transform: translateX(-0.007em);   animation-timing-function: linear; }
+  100%  { transform: translateX(0); } */
+}
+
+/* Y axis: falls onto G, pauses, then drops to baseline */
+/* @keyframes dot-move-y {
+  0%    { transform: translateY(var(--dot-start-y, -3.26em)); animation-timing-function: cubic-bezier(0.42, 0, 1, 1); }
+  46.9% { transform: translateY(-0.715em);   animation-timing-function: cubic-bezier(0, 0, 0.42, 0.42); }
+  59.9% { transform: translateY(-0.714em);   animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1); }
+  60.8% { transform: translateY(-0.712em);   animation-timing-function: cubic-bezier(0.42, 0, 1, 1); }
+  68.7% { transform: translateY(-0.698em);   animation-timing-function: cubic-bezier(0.42, 0, 1, 1); }
+  76.5% { transform: translateY(-0.653em);   animation-timing-function: cubic-bezier(0.42, 0, 1, 1); }
+  84.3% { transform: translateY(-0.302em);   animation-timing-function: cubic-bezier(0.42, 0, 0.58, 1); }
+  92.2% { transform: translateY(-0.124em);   animation-timing-function: cubic-bezier(0.42, 0, 1, 1); }
+  100%  { transform: translateY(0); }
+} */
 
 /* Intro text */
 .home-intro {
@@ -234,33 +280,41 @@ html.hero-animate .home-intro {
 
 
 /* =============================================
-   Site header — fixed bar with logo + menu toggle
+   Site header — sticky sentence nav
+   (wordmark · sentence · email, on a 3-column grid)
    ============================================= */
 
 .site-header {
+  position: sticky;
+  top: 0;
+  z-index: 200;
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-areas:
+    "logo email"
+    "nav  nav";
+  align-items: center;
+  column-gap: 1.5rem;
+  padding: 0.9rem 1.25rem 0.9rem 1.5rem;
+  background: var(--page-bg);
+}
+
+/* Homepage: hero is a fixed fullscreen layer, so the bar floats over it */
+body.home-template .site-header {
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
-  height: 4rem;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0 1.25rem 0 1.5rem;
-  background: var(--page-bg);
-  z-index: 200;
-}
-
-body.home-template .site-header {
   background: transparent;
-  justify-content: flex-end;
 }
 
 .site-logo-text {
+  grid-column: 1;
+  align-self: center;
   font-family: var(--heading-font);
   font-weight: 600;
   font-variation-settings: "wght" 600;
-  font-size: 1.25rem;
+  font-size: 1.75rem;
   color: var(--text-color);
   text-decoration: none;
   border: none;
@@ -279,144 +333,105 @@ body.home-template .site-logo-text {
 
 
 /* =============================================
-   Menu toggle button ("Menu" label + icon → ×)
+   Sentence nav — centered column, capped at entry
+   width, set as a normal left-aligned paragraph
    ============================================= */
 
-.menu-toggle {
+.site-nav {
+  /* grid-column: 2; */
+  align-self: center;
+  max-width: var(--entry-width);
+  padding-top: .5rem;
+}
+
+/* Reads as a normal paragraph; links fall back to the site's base <a> style */
+.site-nav__sentence {
+  margin: 0;
+  text-align: left;
+}
+
+/* "filter by tag" is a real <button>, but must read exactly like the inline
+   sentence links: link colour, thin bottom border, no button chrome.
+   Extra resets undo the base .btn/button rules in main.css. */
+.site-nav__sentence .site-nav__filter {
+  display: inline;
+  margin: 0;
+  padding: 0 0 0.1rem;
+  border: 0;
+  border-bottom: 1px solid var(--link-color);
+  border-radius: 0;
   background: none;
-  border: none;
-  cursor: pointer;
-  padding: 0.4rem 0.6rem;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  gap: 0.4rem;
   overflow: visible;
+  font: inherit;
+  font-variation-settings: inherit;
+  color: var(--link-color);
+  text-align: inherit;
+  vertical-align: baseline;
+  line-height: inherit;
+  cursor: pointer;
+  transition: color 0.2s ease, border-color 0.2s ease;
 }
 
-.menu-toggle:hover .menu-toggle__label,
-.menu-toggle:active .menu-toggle__label,
-.menu-toggle:focus .menu-toggle__label,
-.menu-toggle:focus-visible .menu-toggle__label {
-  color: var(--page-bg, #F3F3F3);
+.site-nav__sentence .site-nav__filter:hover,
+.site-nav__sentence .site-nav__filter:active,
+.site-nav__sentence .site-nav__filter:focus,
+.site-nav__sentence .site-nav__filter:focus-visible {
+  background: none;
+  color: var(--link-color-hover);
+  border-color: var(--link-color-hover);
 }
 
-.menu-toggle:hover .menu-toggle__bar,
-.menu-toggle:active .menu-toggle__bar,
-.menu-toggle:focus .menu-toggle__bar,
-.menu-toggle:focus-visible .menu-toggle__bar {
-  background: var(--page-bg, #F3F3F3);
-}
-
-.menu-toggle:focus {
-  background-color: var(--link-color);
-}
-
-.menu-toggle:focus-visible {
-  background-color: var(--link-color);
-  outline: 2px solid var(--text-color);
-  outline-offset: 3px;
-  border-radius: 2px;
-}
-
-.menu-toggle__label {
-  font-family: var(--heading-font);
-  font-weight: 400;
-  text-transform: uppercase;
-  font-size: 0.9rem;
-  letter-spacing: 0.05em;
-  color: var(--text-color);
-  line-height: 1;
-  padding-top: 3px;
-}
-
-.menu-toggle__icon {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  gap: 3.5px;
-  width: 16px;
-  height: 12px;
-}
-
-.menu-toggle__bar {
-  display: block;
-  height: 1.5px;
-  background: var(--text-color);
-  border-radius: 1px;
-  transition: transform 0.3s ease, opacity 0.3s ease;
-  transform-origin: center;
-}
-
-.menu-toggle[aria-expanded="true"] .menu-toggle__bar:nth-child(1) {
-  transform: translateY(5px) rotate(45deg);
-}
-.menu-toggle[aria-expanded="true"] .menu-toggle__bar:nth-child(2) {
-  opacity: 0;
-  transform: scaleX(0);
-}
-.menu-toggle[aria-expanded="true"] .menu-toggle__bar:nth-child(3) {
-  transform: translateY(-5px) rotate(-45deg);
+/* Names the current page inside the sentence — styling added later */
+.current-page {
+  font-style: inherit;
 }
 
 
 /* =============================================
-   Navigation drawer
+   Link-style button
    ============================================= */
 
-.nav-drawer {
-  position: fixed;
-  top: 0;
-  right: 0;
-  height: 100vh;
-  width: min(300px, 75vw);
-  background: var(--page-bg, #F3F3F3);
-  z-index: 199;
-  padding: 5rem 2.5rem 2.5rem;
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-  transform: translateX(100%);
-  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+.btn--link {
+  display: inline-flex;
+  padding: 12px 24px;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 2px solid var(--link-color);
 }
 
-.nav-drawer.is-open {
-  transform: translateX(0);
+.btn--link:hover {
+  border-bottom: 2px solid var(--link-color-hover);
+  color: var(--link-color-hover);
 }
 
-.nav-drawer__link {
-  font-family: var(--heading-font);
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  font-size: clamp(1rem, 5vw, 1.5rem);
-  color: var(--text-color);
-  text-decoration: none;
-  border: none;
-  padding: 0.35rem 0;
-  display: block;
-  transition: color 0.2s ease;
-  line-height: 1.15;
+
+/* =============================================
+   Email link — right column (positioning only;
+   appearance comes from .btn--link)
+   ============================================= */
+
+.site-email {
+  grid-column: 3;
+  align-self: center;
+  justify-self: end;
+  white-space: nowrap;
 }
 
-.nav-drawer__link:hover {
-  color: var(--link-color);
-  border: none;
-}
 
-.nav-drawer__overlay {
-  position: fixed;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.2);
-  z-index: 198;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.4s ease;
-}
+/* Narrow screens: wordmark + email share the top row, sentence spans below */
+@media (max-width: 42rem) {
+  .site-header {
+    grid-template-columns: auto 1fr;
+    row-gap: 0.5rem;
+  }
 
-.nav-drawer__overlay.is-visible {
-  opacity: 1;
-  pointer-events: auto;
+  .site-logo-text { grid-column: 1; }
+  .site-email { grid-column: 2; }
+
+  .site-nav {
+    grid-column: 1 / -1;
+    max-width: none;
+  }
 }
 
 
@@ -434,7 +449,7 @@ body.home-template .site-logo-text {
 }
 
 .page-content {
-  padding-top: 5rem;
+  padding-top: 1.5rem;
 }
 
 .post-header {

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/posts/new-color-palette.html",
+            "url": "https://fredvg.com/posts/new-color-palette.html",
+            "title": "New color palette",
+            "summary": "In the spirit of Kaizen, I'm always making incremental improvements to the things I design and build. Recently, that has meant an addition to the footer. And today, I'm introducing an updated color palette. It's pretty subtle, and most visible in dark mode, but the&hellip;",
+            "content_html": "<p>In the spirit of <a href=\"https://en.wikipedia.org/wiki/Kaizen\">Kaizen</a>, I'm always making incremental improvements to the things I design and build. Recently, that has meant <a href=\"https://fredvg.com/posts/fun-with-footers.html\">an addition to the footer</a>. And today, I'm introducing an updated color palette. It's pretty subtle, and most visible in dark mode, but the goal was to create a stronger brand identity.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://fredvg.com/media/posts/63/ColorPalette.png\" alt=\"5 color swatches labeled navy, pebble, pine, orange, and mauve on top of a picture with a similar color palette. The picture is of a french bakery. \" width=\"637\" height=\"842\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://fredvg.com/media/posts/63/responsive/ColorPalette-xs.png 640w ,https://fredvg.com/media/posts/63/responsive/ColorPalette-sm.png 768w ,https://fredvg.com/media/posts/63/responsive/ColorPalette-md.png 1024w ,https://fredvg.com/media/posts/63/responsive/ColorPalette-lg.png 1366w ,https://fredvg.com/media/posts/63/responsive/ColorPalette-xl.png 1600w ,https://fredvg.com/media/posts/63/responsive/ColorPalette-2xl.png 1920w\"></figure>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "UI + IxD",
+                   "Portfolio"
+            ],
+            "date_published": "2026-09-09T15:12:27-04:00",
+            "date_modified": "2026-09-09T15:13:40-04:00"
+        },
+        {
             "id": "https://fredvg.com/posts/fun-with-footers.html",
             "url": "https://fredvg.com/posts/fun-with-footers.html",
             "title": "Fun with footers?",
@@ -153,21 +169,6 @@
             ],
             "date_published": "2026-04-16T16:10:56-04:00",
             "date_modified": "2026-09-01T17:32:55-04:00"
-        },
-        {
-            "id": "https://fredvg.com/posts/mvps-the-good-the-bad-and-the-ugly.html",
-            "url": "https://fredvg.com/posts/mvps-the-good-the-bad-and-the-ugly.html",
-            "title": "MVPs. The good, the bad, and the ugly.",
-            "summary": "Some digital product design deliverables get a bad rap. Often the criticism is valid though. Take personas for example. They're often biased, disconnected from reality, not well-researched, just UX theater, etc. But, when done — and used — right, personas can be a valuable tool*.",
-            "content_html": "<p>Some digital product design deliverables get a bad rap. Often the criticism is valid though.</p>\n<p>Take personas for example. They're often biased, disconnected from reality, not well-researched, just UX theater, etc. But, when done — and used — right, personas can be a valuable tool*.  Please don't get me started on NPS (Net Promotor Score) though. As a UX professional, that number is meaningless to me.  <br><br>Let's take a look at MVPs (Minimum Viable Products, not <em>Most Valuable Players</em>). I have a love-hate relationship with MVPs. At times, they can be a great way to test a concept, get client buy-in, or scale the project to the budget**. Too often though, I see an MVP become the final product. Once you have something that actually works and looks good — even if it's by definition <em>minimally viable </em>— there's a risk you'll keep it as-is.</p>\n<p>The better we do our job as digital product designers and engineers, the stronger the MVP will be. However good it is — it might even be <em>good enough</em> — it's not as fully-featured or good as it can be<em>. </em>And that's where we get into trouble. Good enough often means the user isn't getting the experience they deserve. Features might be stripped out, corners might be cut, and findings from research might be pushed out to be dealt with later.</p>\n<p>As I said, I still see the value in creating Minimal Viable Products. But over the years, I've spent too much time, energy, and persuasive power on convincing stakeholders to keep going and take the MVP from Minimum Viable Product to <strong>Most Valuable Product</strong>.<br><br>* In the many years I've been doing this, I've seen (and helped create) great personas. But I've also seen them misused, under-used, or just straight-up forgotten about.</p>\n<p>** I know, the budget shouldn't drive what we create. But we live in the real world, and it's far from perfect out here.</p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Notes"
-            ],
-            "date_published": "2026-04-14T11:22:00-04:00",
-            "date_modified": "2026-05-05T12:00:12-04:00"
         }
     ]
 }
