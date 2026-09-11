@@ -24,7 +24,23 @@
 </url>
 <url>
 <loc>https://fredvg.com/about.html</loc>
-<lastmod>2026-06-08T15:45:53-04:00</lastmod>
+<lastmod>2026-09-11T15:28:04-04:00</lastmod>
+<image:image>
+<image:loc>https://fredvg.com/media/posts/20/FredVG.png</image:loc>
+<image:title><![CDATA[Fred's headshot. He's in his late forties. He's bald, wears glasses, has a beard, and is wearing a blue shirt. He's smiling at the camera.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fredvg.com/media/posts/20/Desktop_CMS.png</image:loc>
+<image:title><![CDATA[An illustration of a computer showing a stylized version of the State of Vermont homepage template.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fredvg.com/media/posts/20/ch-logo.png</image:loc>
+<image:title><![CDATA[The CommunicateHealth logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://fredvg.com/media/posts/20/Pillars.svg</image:loc>
+<image:title><![CDATA[A visual showing 3 concentric circles. A circle labeled &quot;accessible&quot; is nested within one labeled &quot;inclusive&quot;, which in turn is nested inside the &quot;empathetic&quot; circle. ]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://fredvg.com/resume.html</loc>
