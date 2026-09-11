@@ -13,6 +13,130 @@ span.current-page {
   color: var(--highlight-color);
 }
 
+.site-email {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  margin: 0;
+  padding: 0 !important;
+  border: none !important;
+  border-bottom: none !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  color: var(--dark);
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  box-shadow: none !important;
+}
+
+.site-email:hover,
+.site-email:focus-visible,
+.site-email:active {
+  background: transparent !important;
+  color: var(--dark);
+  border: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+.site-email__icon {
+  display: block;
+  width: 56px;
+  height: 56px;
+}
+
+.site-email__bg {
+  fill: var(--dark);
+}
+
+.site-email__fg {
+  fill: none;
+  stroke: var(--lighter);
+  stroke-width: 1.1;
+  transition: opacity 0.2s ease, stroke 0.2s ease;
+}
+
+.site-email__envelope {
+  opacity: 1;
+}
+
+.site-email__close {
+  opacity: 0;
+}
+
+.site-email.is-open .site-email__bg {
+  fill: var(--dark);
+}
+
+.site-email.is-open .site-email__fg {
+  stroke: var(--lighter);
+}
+
+.site-email.is-open .site-email__envelope {
+  opacity: 0;
+}
+
+.site-email.is-open .site-email__close {
+  opacity: 1;
+}
+
+.contact-panel {
+  position: fixed;
+  top: 5.25rem;
+  right: 1rem;
+  z-index: 2000;
+  width: min(360px, calc(100vw - 1.5rem));
+  max-width: calc(100vw - 1.5rem);
+  height: auto;
+  padding: 0;
+  background-color: var(--lighter);
+  color: var(--text-color);
+  border: 0.25px solid var(--light);
+  border-radius: .5rem;
+  box-shadow: none;
+  transform-origin: top right;
+  transform: translate(1.5rem, -1rem) scale(0.97);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: transform 0.22s ease, opacity 0.22s ease, visibility 0.22s ease;
+}
+
+.contact-panel:not([hidden]) {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+  transform: translate(0, 0) scale(1);
+}
+
+.contact-panel__inner {
+  position: relative;
+  padding: 1.25rem 1.25rem 1rem;
+  background-color: var(--lighter);
+  border-radius: .5rem;
+}
+
+.contact-panel p {
+  margin: 0;
+  font: inherit;
+  line-height: 1.6;
+}
+
+.contact-panel a {
+  color: var(--link-color);
+}
+
+@media (max-width: 37.4375em) {
+  .contact-panel {
+    right: 0.75rem;
+    top: 4.5rem;
+    width: min(360px, calc(100vw - 1rem));
+    max-width: calc(100vw - 1rem);
+  }
+}
 
 /* =============================================
    Page transitions (all browsers)

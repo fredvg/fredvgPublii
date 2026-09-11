@@ -621,6 +621,24 @@ textarea {
   max-width: 100%;
 }
 
+.email-icon {
+  --icon-bg: var(--dark);
+  --icon-fg: var(--lighter);
+  display: inline-block;
+  width: 1.25rem;
+  height: 1.25rem;
+  vertical-align: middle;
+}
+
+.email-icon__bg {
+  fill: var(--icon-bg);
+}
+
+.email-icon__fg {
+  fill: var(--icon-fg);
+  stroke: var(--icon-fg);
+}
+
 .top {
   align-items: left;
   display: flex;
