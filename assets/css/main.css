@@ -1384,7 +1384,7 @@ textarea {
   width: 1.7rem;
 }
 .feed__date {
-  color: var(--gray);
+  color: var(--highlight-color);
   font-style: italic;
 }
 .left-column .feed__date {
