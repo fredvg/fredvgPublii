@@ -1701,7 +1701,7 @@ textarea {
   }
 }
 .content__nav-link span {
-  color: var(--gray);
+  color: var(--highlight-color);
   display: block;
   font-size: 0.7724761953rem;
   font-family: var(--menu-font);
