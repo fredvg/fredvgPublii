@@ -3,7 +3,7 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-10-02T12:00:27-04:00</updated>
+    <updated>2026-10-02T12:07:49-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
@@ -51,15 +51,15 @@
         <updated>2026-09-12T11:56:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    <figure class="post__video"><video loading="lazy" width="300" height="300" controls="controls" data-mce-fragment="1">
-<source src="https://youtube.com/embed/zEigmxEIItI?si=ugZPMjb6u4PwbhLk" /></video></figure>
+                    <div style="width: 100%; max-width: 500px; margin: 0 auto;"><div class="post__iframe"><iframe loading="lazy" width="100%" style="aspect-ratio: 1/1; border: none;" src="https://youtube.com/embed/zEigmxEIItI" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen">
+  </iframe></div></div>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__video"><video loading="lazy" width="300" height="300" controls="controls" data-mce-fragment="1">
-<source src="https://youtube.com/embed/zEigmxEIItI?si=ugZPMjb6u4PwbhLk" /></video></figure>
+                <div style="width: 100%; max-width: 500px; margin: 0 auto;"><div class="post__iframe"><iframe loading="lazy" width="100%" style="aspect-ratio: 1/1; border: none;" src="https://youtube.com/embed/zEigmxEIItI" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen">
+  </iframe></div></div>
 
 <p> </p>
             ]]>
