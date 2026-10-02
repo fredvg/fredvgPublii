@@ -30,8 +30,8 @@
             "id": "https://fredvg.com/posts/deep-breath-vignette-1.html",
             "url": "https://fredvg.com/posts/deep-breath-vignette-1.html",
             "title": "Deep Breath Vignette 1",
-            "summary": "<div style=\"width: 100%; max-width: 500px; margin: 0 auto;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" style=\"aspect-ratio: 1/1; border: none;\" src=\"https://youtube.com/embed/zEigmxEIItI\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\">\n  </iframe></div></div>\n",
-            "content_html": "<div style=\"width: 100%; max-width: 500px; margin: 0 auto;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" style=\"aspect-ratio: 1/1; border: none;\" src=\"https://youtube.com/embed/zEigmxEIItI\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\">\n  </iframe></div></div>\n\n<p> </p>",
+            "summary": "<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"300\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://www.youtube.com/embed/eG-_V2rGmjc\" /></video></figure>\n",
+            "content_html": "<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"300\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://www.youtube.com/embed/eG-_V2rGmjc\" /></video></figure>\n",
             "author": {
                 "name": "Frederik Van Geloven"
             },
@@ -40,7 +40,7 @@
                    "Deep Breath Vignette"
             ],
             "date_published": "2026-09-12T11:56:00-04:00",
-            "date_modified": "2026-10-02T12:07:49-04:00"
+            "date_modified": "2026-10-02T12:18:25-04:00"
         },
         {
             "id": "https://fredvg.com/posts/new-color-palette.html",
