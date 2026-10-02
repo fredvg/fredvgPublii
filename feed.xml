@@ -3,7 +3,7 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-09-29T12:14:38-04:00</updated>
+    <updated>2026-10-02T12:00:27-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
@@ -35,6 +35,33 @@
 <figure class="post__image"><img loading="lazy"  src="https://fredvg.com/media/posts/64/Trip-2.png" alt="Two pictures of parked motorcycles. One shows 2 bikes parked in front of a tree with the Vermont State House in the background, the other shows the bikes parked in front of an old wooden church." width="948" height="479" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://fredvg.com/media/posts/64/responsive/Trip-2-xs.png 640w ,https://fredvg.com/media/posts/64/responsive/Trip-2-sm.png 768w ,https://fredvg.com/media/posts/64/responsive/Trip-2-md.png 1024w ,https://fredvg.com/media/posts/64/responsive/Trip-2-lg.png 1366w ,https://fredvg.com/media/posts/64/responsive/Trip-2-xl.png 1600w ,https://fredvg.com/media/posts/64/responsive/Trip-2-2xl.png 1920w"></figure>
 <p>I'm already thinking about what our next adventure might be.</p>
 <p>For now, it's back to work!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Deep Breath Vignette 1</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/posts/deep-breath-vignette-1.html"/>
+        <id>https://fredvg.com/posts/deep-breath-vignette-1.html</id>
+            <category term="Video"/>
+            <category term="Deep Breath Vignette"/>
+
+        <updated>2026-09-12T11:56:00-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <figure class="post__video"><video loading="lazy" width="300" height="300" controls="controls" data-mce-fragment="1">
+<source src="https://youtube.com/embed/zEigmxEIItI?si=ugZPMjb6u4PwbhLk" /></video></figure>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__video"><video loading="lazy" width="300" height="300" controls="controls" data-mce-fragment="1">
+<source src="https://youtube.com/embed/zEigmxEIItI?si=ugZPMjb6u4PwbhLk" /></video></figure>
+
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -253,31 +280,6 @@
             <![CDATA[
                 <p>30 years later, still a favorite.</p>
 <figure class="post__image"><img loading="lazy"  src="https://fredvg.com/media/posts/55/IMG_3959_1200.jpg" alt="A picture of a turntable playing DJ Shadow's Endtroducing... album. The record sleeve is sitting next to the record player." width="1200" height="900" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-xs.jpg 640w ,https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-sm.jpg 768w ,https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-md.jpg 1024w ,https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-lg.jpg 1366w ,https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-xl.jpg 1600w ,https://fredvg.com/media/posts/55/responsive/IMG_3959_1200-2xl.jpg 1920w"></figure>
-
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Playing around with Claude Design</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/posts/playing-around-with-claude-design.html"/>
-        <id>https://fredvg.com/posts/playing-around-with-claude-design.html</id>
-            <category term="UI + IxD"/>
-            <category term="Notes"/>
-
-        <updated>2026-05-22T20:03:16-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p>Playing around with Claude Design and realizing it very much behaves like an intern. I can get draft-level output from it, but need to hold its hand. There's lots of editing and re-prompting that needs to happen, but it's definitely faster than an actual human. My 2 main concerns are: how much work would it be for a developer to take this from prototype to production-ready? And, would it ever contribute cool, valuable, or surprising ideas like a good intern would?</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Playing around with Claude Design and realizing it very much behaves like an intern. I can get draft-level output from it, but need to hold its hand. There's lots of editing and re-prompting that needs to happen, but it's definitely faster than an actual human. My 2 main concerns are: how much work would it be for a developer to take this from prototype to production-ready? And, would it ever contribute cool, valuable, or surprising ideas like a good intern would?</p>
 
 <p> </p>
             ]]>

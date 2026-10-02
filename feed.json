@@ -27,6 +27,22 @@
             "date_modified": "2026-09-29T12:14:38-04:00"
         },
         {
+            "id": "https://fredvg.com/posts/deep-breath-vignette-1.html",
+            "url": "https://fredvg.com/posts/deep-breath-vignette-1.html",
+            "title": "Deep Breath Vignette 1",
+            "summary": "<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"300\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://youtube.com/embed/zEigmxEIItI?si=ugZPMjb6u4PwbhLk\" /></video></figure>\n",
+            "content_html": "<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"300\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://youtube.com/embed/zEigmxEIItI?si=ugZPMjb6u4PwbhLk\" /></video></figure>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Video",
+                   "Deep Breath Vignette"
+            ],
+            "date_published": "2026-09-12T11:56:00-04:00",
+            "date_modified": "2026-10-02T12:00:27-04:00"
+        },
+        {
             "id": "https://fredvg.com/posts/new-color-palette.html",
             "url": "https://fredvg.com/posts/new-color-palette.html",
             "title": "New color palette",
@@ -154,22 +170,6 @@
             ],
             "date_published": "2026-06-01T13:57:24-04:00",
             "date_modified": "2026-06-01T13:59:55-04:00"
-        },
-        {
-            "id": "https://fredvg.com/posts/playing-around-with-claude-design.html",
-            "url": "https://fredvg.com/posts/playing-around-with-claude-design.html",
-            "title": "Playing around with Claude Design",
-            "summary": "<p>Playing around with Claude Design and realizing it very much behaves like an intern. I can get draft-level output from it, but need to hold its hand. There's lots of editing and re-prompting that needs to happen, but it's definitely faster than an actual human. My 2 main concerns are: how much work would it be for a developer to take this from prototype to production-ready? And, would it ever contribute cool, valuable, or surprising ideas like a good intern would?</p>\n",
-            "content_html": "<p>Playing around with Claude Design and realizing it very much behaves like an intern. I can get draft-level output from it, but need to hold its hand. There's lots of editing and re-prompting that needs to happen, but it's definitely faster than an actual human. My 2 main concerns are: how much work would it be for a developer to take this from prototype to production-ready? And, would it ever contribute cool, valuable, or surprising ideas like a good intern would?</p>\n\n<p> </p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "UI + IxD",
-                   "Notes"
-            ],
-            "date_published": "2026-05-22T20:03:16-04:00",
-            "date_modified": "2026-05-22T20:04:53-04:00"
         }
     ]
 }
