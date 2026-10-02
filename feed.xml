@@ -3,7 +3,7 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-10-02T12:18:25-04:00</updated>
+    <updated>2026-10-02T12:28:12-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
@@ -51,15 +51,13 @@
         <updated>2026-09-12T11:56:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    <figure class="post__video"><video loading="lazy" width="300" height="300" controls="controls" data-mce-fragment="1">
-<source src="https://www.youtube.com/embed/eG-_V2rGmjc" /></video></figure>
+                    <div class="post__iframe"><iframe loading="lazy" width="300" height="300" src="https://www.youtube.com/embed/z8Ksr2EjvXE?si=COS6prnS6dohf8Ea" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__video"><video loading="lazy" width="300" height="300" controls="controls" data-mce-fragment="1">
-<source src="https://www.youtube.com/embed/eG-_V2rGmjc" /></video></figure>
+                <div class="post__iframe"><iframe loading="lazy" width="300" height="300" src="https://www.youtube.com/embed/z8Ksr2EjvXE?si=COS6prnS6dohf8Ea" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
 
             ]]>
         </content>

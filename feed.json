@@ -30,8 +30,8 @@
             "id": "https://fredvg.com/posts/deep-breath-vignette-1.html",
             "url": "https://fredvg.com/posts/deep-breath-vignette-1.html",
             "title": "Deep Breath Vignette 1",
-            "summary": "<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"300\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://www.youtube.com/embed/eG-_V2rGmjc\" /></video></figure>\n",
-            "content_html": "<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"300\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://www.youtube.com/embed/eG-_V2rGmjc\" /></video></figure>\n",
+            "summary": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"300\" height=\"300\" src=\"https://www.youtube.com/embed/z8Ksr2EjvXE?si=COS6prnS6dohf8Ea\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"300\" height=\"300\" src=\"https://www.youtube.com/embed/z8Ksr2EjvXE?si=COS6prnS6dohf8Ea\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n",
             "author": {
                 "name": "Frederik Van Geloven"
             },
@@ -40,7 +40,7 @@
                    "Deep Breath Vignette"
             ],
             "date_published": "2026-09-12T11:56:00-04:00",
-            "date_modified": "2026-10-02T12:18:25-04:00"
+            "date_modified": "2026-10-02T12:28:12-04:00"
         },
         {
             "id": "https://fredvg.com/posts/new-color-palette.html",
