@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/posts/whats-on-the-menu.html",
+            "url": "https://fredvg.com/posts/whats-on-the-menu.html",
+            "title": "What&#x27;s (on) the menu?",
+            "summary": "A few months ago, I shared how I love to find inspiration when I browse other digital designers' websites. Another example of this is the navigation design for this website. As the site has gone through a few iterations, the navigation had gone from non-existent&hellip;",
+            "content_html": "<p>A few months ago, I <a href=\"https://fredvg.com/posts/fun-with-footers.html\">shared how I love to find inspiration</a> when I browse other digital designers' websites. Another example of this is the navigation design for this website.</p>\n<p>As the site has gone through a few iterations, the navigation had gone from non-existent — because it was a one-page site — to a traditional menu drawer. From a UX perspective, I never loved the menu drawer. Aside from the technical and best practices issues, it mainly bothered me that it didn't spark delight.</p>\n<p>When I came across <a href=\"https://dunstanorchard.com\">Dunstan Orchard's personal website</a>, where the navigation is just one sentence with two options, I took his idea and ran with it.</p>\n<p>My version is a bit more elaborate (my website's structure is more complex), but the way it works is: the header on each page has a sentence that tells you where you are and gives you a few options of where you can go next.</p>\n<p>For example, on this page it says:</p>\n<blockquote>\n<p>\"You’re reading one of my <a href=\"https://fredvg.com/posts/\">posts</a>. <a href=\"https://fredvg.com/about.html\">Get to know me</a>, or <a href=\"https://fredvg.com/tags/portfolio/\">explore my work</a> instead.\"</p>\n</blockquote>\n<p>and on the about page, it says</p>\n<blockquote>\n<p>\"This is the <strong><span class=\"current-page\">about</span></strong> page. You can <a href=\"https://fredvg.com/resume.html\">find my resume here</a>, <a href=\"https://fredvg.com/posts/\">read my posts</a>, or <a href=\"https://fredvg.com/tags/portfolio/\">explore my work</a>.\"</p>\n</blockquote>\n<p>While I acknowledge that this technically violates <a href=\"https://lawsofux.com/jakobs-law/\">Jakob's Law</a>, the trade-off is worth it here. The navigation is simple enough so this slightly out of left field design won't be too confusing. I'd even argue that it supports the purpose of this website — to give you some insight into who I am and how I work — better than a menu drawer would.</p>\n<p>I hope you like it, and I hope Dustan doesn't mind me riffing on his idea. You should check out his work. His <a href=\"https://dunstanorchard.com/reel-to-reel-player/\">reel-to-reel player</a> is absolutely incredible. </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "UI + IxD",
+                   "Portfolio",
+                   "IA + Content Strategy"
+            ],
+            "date_published": "2026-10-14T16:31:32-04:00",
+            "date_modified": "2026-10-14T16:31:32-04:00"
+        },
+        {
             "id": "https://fredvg.com/posts/4-3-2-1-paul-auster.html",
             "url": "https://fredvg.com/posts/4-3-2-1-paul-auster.html",
             "title": "4 3 2 1 — Paul Auster",
@@ -155,21 +172,6 @@
             ],
             "date_published": "2026-07-07T19:15:20-04:00",
             "date_modified": "2026-07-07T19:15:20-04:00"
-        },
-        {
-            "id": "https://fredvg.com/posts/north-woods-daniel-mason.html",
-            "url": "https://fredvg.com/posts/north-woods-daniel-mason.html",
-            "title": "North Woods — Daniel Mason",
-            "summary": "<p><a href=\"https://www.penguinrandomhouse.com/books/726262/north-woods-by-daniel-mason/\">North Woods — Daniel Mason</a></p>\n",
-            "content_html": "<p><a href=\"https://www.penguinrandomhouse.com/books/726262/north-woods-by-daniel-mason/\">North Woods — Daniel Mason</a></p>\n\n<p> </p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Read"
-            ],
-            "date_published": "2026-06-25T19:17:00-04:00",
-            "date_modified": "2026-07-07T19:20:36-04:00"
         }
     ]
 }

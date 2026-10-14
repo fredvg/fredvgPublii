@@ -3,12 +3,48 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-10-12T16:56:02-04:00</updated>
+    <updated>2026-10-14T16:31:32-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>What&#x27;s (on) the menu?</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/posts/whats-on-the-menu.html"/>
+        <id>https://fredvg.com/posts/whats-on-the-menu.html</id>
+            <category term="UI + IxD"/>
+            <category term="Portfolio"/>
+            <category term="IA + Content Strategy"/>
+
+        <updated>2026-10-14T16:31:32-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    A few months ago, I shared how I love to find inspiration when I browse other digital designers' websites. Another example of this is the navigation design for this website. As the site has gone through a few iterations, the navigation had gone from non-existent&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A few months ago, I <a href="https://fredvg.com/posts/fun-with-footers.html">shared how I love to find inspiration</a> when I browse other digital designers' websites. Another example of this is the navigation design for this website.</p>
+<p>As the site has gone through a few iterations, the navigation had gone from non-existent — because it was a one-page site — to a traditional menu drawer. From a UX perspective, I never loved the menu drawer. Aside from the technical and best practices issues, it mainly bothered me that it didn't spark delight.</p>
+<p>When I came across <a href="https://dunstanorchard.com">Dunstan Orchard's personal website</a>, where the navigation is just one sentence with two options, I took his idea and ran with it.</p>
+<p>My version is a bit more elaborate (my website's structure is more complex), but the way it works is: the header on each page has a sentence that tells you where you are and gives you a few options of where you can go next.</p>
+<p>For example, on this page it says:</p>
+<blockquote>
+<p>"You’re reading one of my <a href="https://fredvg.com/posts/">posts</a>. <a href="https://fredvg.com/about.html">Get to know me</a>, or <a href="https://fredvg.com/tags/portfolio/">explore my work</a> instead."</p>
+</blockquote>
+<p>and on the about page, it says</p>
+<blockquote>
+<p>"This is the <strong><span class="current-page">about</span></strong> page. You can <a href="https://fredvg.com/resume.html">find my resume here</a>, <a href="https://fredvg.com/posts/">read my posts</a>, or <a href="https://fredvg.com/tags/portfolio/">explore my work</a>."</p>
+</blockquote>
+<p>While I acknowledge that this technically violates <a href="https://lawsofux.com/jakobs-law/">Jakob's Law</a>, the trade-off is worth it here. The navigation is simple enough so this slightly out of left field design won't be too confusing. I'd even argue that it supports the purpose of this website — to give you some insight into who I am and how I work — better than a menu drawer would.</p>
+<p>I hope you like it, and I hope Dustan doesn't mind me riffing on his idea. You should check out his work. His <a href="https://dunstanorchard.com/reel-to-reel-player/">reel-to-reel player</a> is absolutely incredible. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>4 3 2 1 — Paul Auster</title>
         <author>
@@ -254,30 +290,6 @@
 <p>I pivoted to a claymation style animation. That turned out to have it's own share of issues. You can <a href="https://fredvg.com/posts/a-successfully-abandoned-project.html">read more about those here</a>.</p>
 <p>Back to the drawing board I went. For now, I've settled on providing 3 versions of my resume. The first is a <a href="https://fredvg.com/html-resume.html">traditional text based resume</a>. The second is the interactive resume linked above (and below). And the third — still to be developed — will be an AI chatbot that can answer questions about me, my professional and personal history, and how we might work together.</p>
 <p>Feel free to <a href="https://fredvg.com/resume-wizard.html">play around with the wizard</a>. Any feedback is welcome — you can <a href="mailto:Fred.VG+Contact@gmail.com">email me</a>, or <a href="https://www.linkedin.com/in/fredvg">find me on LinkedIn</a> and message me there.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>North Woods — Daniel Mason</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/posts/north-woods-daniel-mason.html"/>
-        <id>https://fredvg.com/posts/north-woods-daniel-mason.html</id>
-            <category term="Read"/>
-
-        <updated>2026-06-25T19:17:00-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    <p><a href="https://www.penguinrandomhouse.com/books/726262/north-woods-by-daniel-mason/">North Woods — Daniel Mason</a></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://www.penguinrandomhouse.com/books/726262/north-woods-by-daniel-mason/">North Woods — Daniel Mason</a></p>
-
-<p> </p>
             ]]>
         </content>
     </entry>
