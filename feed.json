@@ -11,11 +11,27 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/posts/age-of-empires-dataviz.html",
+            "url": "https://fredvg.com/posts/age-of-empires-dataviz.html",
+            "title": "Age of Empires Dataviz",
+            "summary": "<p>I've <a href=\"https://fredvg.com/posts/dataviz-information-is-beautiful.html\">posted about Information is Beautiful</a> before, but this <a href=\"https://informationisbeautiful.net/visualizations/worlds-largest-empires/\">Age of Empires data visualization</a> is worth checking out.</p>\n",
+            "content_html": "<p>I've <a href=\"https://fredvg.com/posts/dataviz-information-is-beautiful.html\">posted about Information is Beautiful</a> before, but this <a href=\"https://informationisbeautiful.net/visualizations/worlds-largest-empires/\">Age of Empires data visualization</a> is worth checking out.</p>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Inspiration",
+                   "Dataviz"
+            ],
+            "date_published": "2026-10-19T11:48:00-04:00",
+            "date_modified": "2026-10-19T11:48:00-04:00"
+        },
+        {
             "id": "https://fredvg.com/posts/whats-on-the-menu.html",
             "url": "https://fredvg.com/posts/whats-on-the-menu.html",
             "title": "What&#x27;s (on) the menu?",
             "summary": "A few months ago, I shared how I love to find inspiration when I browse other digital designers' websites. Another example of this is the navigation design for this website. As the site has gone through a few iterations, the navigation had gone from non-existent&hellip;",
-            "content_html": "<p>A few months ago, I <a href=\"https://fredvg.com/posts/fun-with-footers.html\">shared how I love to find inspiration</a> when I browse other digital designers' websites. Another example of this is the navigation design for this website.</p>\n<p>As the site has gone through a few iterations, the navigation had gone from non-existent — because it was a one-page site — to a traditional menu drawer. From a UX perspective, I never loved the menu drawer. Aside from the technical and best practices issues, it mainly bothered me that it didn't spark delight.</p>\n<p>When I came across <a href=\"https://dunstanorchard.com\">Dunstan Orchard's personal website</a>, where the navigation is just one sentence with two options, I took his idea and ran with it.</p>\n<p>My version is a bit more elaborate (my website's structure is more complex), but the way it works is: the header on each page has a sentence that tells you where you are and gives you a few options of where you can go next.</p>\n<p>For example, on this page it says:</p>\n<blockquote>\n<p>\"You’re reading one of my <a href=\"https://fredvg.com/posts/\">posts</a>. <a href=\"https://fredvg.com/about.html\">Get to know me</a>, or <a href=\"https://fredvg.com/tags/portfolio/\">explore my work</a> instead.\"</p>\n</blockquote>\n<p>and on the about page, it says</p>\n<blockquote>\n<p>\"This is the <strong><span class=\"current-page\">about</span></strong> page. You can <a href=\"https://fredvg.com/resume.html\">find my resume here</a>, <a href=\"https://fredvg.com/posts/\">read my posts</a>, or <a href=\"https://fredvg.com/tags/portfolio/\">explore my work</a>.\"</p>\n</blockquote>\n<p>While I acknowledge that this technically violates <a href=\"https://lawsofux.com/jakobs-law/\">Jakob's Law</a>, the trade-off is worth it here. The navigation is simple enough so this slightly out of left field design won't be too confusing. I'd even argue that it supports the purpose of this website — to give you some insight into who I am and how I work — better than a menu drawer would.</p>\n<p>I hope you like it, and I hope Dustan doesn't mind me riffing on his idea. You should check out his work. His <a href=\"https://dunstanorchard.com/reel-to-reel-player/\">reel-to-reel player</a> is absolutely incredible. </p>",
+            "content_html": "<p>A few months ago, I <a href=\"https://fredvg.com/posts/fun-with-footers.html\">shared how I love to find inspiration</a> when I browse other digital designers' websites. Another example of this is the navigation design for this website.</p>\n<p>As the site has gone through a few iterations, the navigation had gone from non-existent — because it was a one-page site — to a traditional menu drawer. From a UX perspective, I never loved the menu drawer. Aside from the technical and best practices issues, it bothered me that it didn't spark delight.</p>\n<p>When I came across <a href=\"https://dunstanorchard.com\">Dunstan Orchard's personal website</a>, where the navigation is just one sentence with two options, I took his idea and ran with it.</p>\n<p>My version is a bit more elaborate (my website's structure is more complex), but the way it works is: the header on each page has a sentence that tells you where you are and gives you a few options of where you can go next.</p>\n<p>For example, on this page it says:</p>\n<blockquote>\n<p>\"You’re reading one of my <a href=\"https://fredvg.com/posts/\">posts</a>. <a href=\"https://fredvg.com/about.html\">Get to know me</a>, or <a href=\"https://fredvg.com/tags/portfolio/\">explore my work</a> instead.\"</p>\n</blockquote>\n<p>and on the about page, it says</p>\n<blockquote>\n<p>\"This is the <strong><span class=\"current-page\">about</span></strong> page. You can <a href=\"https://fredvg.com/resume.html\">find my resume here</a>, <a href=\"https://fredvg.com/posts/\">read my posts</a>, or <a href=\"https://fredvg.com/tags/portfolio/\">explore my work</a>.\"</p>\n</blockquote>\n<p>While I acknowledge that this technically violates <a href=\"https://lawsofux.com/jakobs-law/\">Jakob's Law</a>, the trade-off is worth it here. The navigation is simple enough so this slightly out of left field design won't be too confusing. I'd even argue that it supports the purpose of this website — to give you some insight into who I am and how I work — better than a menu drawer would.</p>\n<p>I hope you like it, and I hope Dunstan doesn't mind me riffing on his idea. You should check out his work. His <a href=\"https://dunstanorchard.com/reel-to-reel-player/\">reel-to-reel player</a> is absolutely incredible. </p>",
             "author": {
                 "name": "Frederik Van Geloven"
             },
@@ -25,7 +41,7 @@
                    "IA + Content Strategy"
             ],
             "date_published": "2026-10-14T16:31:32-04:00",
-            "date_modified": "2026-10-14T16:31:32-04:00"
+            "date_modified": "2026-10-16T13:30:25-04:00"
         },
         {
             "id": "https://fredvg.com/posts/4-3-2-1-paul-auster.html",
@@ -154,24 +170,6 @@
             ],
             "date_published": "2026-07-15T14:43:45-04:00",
             "date_modified": "2026-07-15T14:44:43-04:00"
-        },
-        {
-            "id": "https://fredvg.com/posts/interactive-resume.html",
-            "url": "https://fredvg.com/posts/interactive-resume.html",
-            "title": "Interactive Resume",
-            "summary": "I created an interactive resume. It's a choose-your-own-adventure wizard where you can learn more about me. Here's the story of how it came to be. A few weeks back, I started to create an interactive resume. The first version was a sidescrolling game. The idea&hellip;",
-            "content_html": "<p>I created an <a href=\"https://fredvg.com/resume-wizard.html\">interactive resume</a>. It's a choose-your-own-adventure wizard where you can learn more about me. Here's the story of how it came to be.</p>\n<p>A few weeks back, I started to create an interactive resume. The first version was a sidescrolling game. The idea was that you learn about me as you play. Halfway through the build process, I realized my idea wasn't the right solution for the problem.</p>\n<p>I wanted to make it easier — and more fun — for my audience to learn about me and digest the information that's otherwise locked in my resume or cover letter.</p>\n<p>The game was definitely more fun than reading boring facts about me. But as I iterated on the gameplay it became evident that there were a few flaws. My audience doesn't have much time and playing a game — even if it only takes a few minutes to complete — takes longer than scanning a resume. I also worried that the actual information could get lost as the main focus would be on playing the game. And finally, I'm not a game designer, I'm not even a gamer, so personality-wise it wasn't a great fit for a product that's all about getting to know me.</p>\n<p>I pivoted to a claymation style animation. That turned out to have it's own share of issues. You can <a href=\"https://fredvg.com/posts/a-successfully-abandoned-project.html\">read more about those here</a>.</p>\n<p>Back to the drawing board I went. For now, I've settled on providing 3 versions of my resume. The first is a <a href=\"https://fredvg.com/html-resume.html\">traditional text based resume</a>. The second is the interactive resume linked above (and below). And the third — still to be developed — will be an AI chatbot that can answer questions about me, my professional and personal history, and how we might work together.</p>\n<p>Feel free to <a href=\"https://fredvg.com/resume-wizard.html\">play around with the wizard</a>. Any feedback is welcome — you can <a href=\"mailto:Fred.VG+Contact@gmail.com\">email me</a>, or <a href=\"https://www.linkedin.com/in/fredvg\">find me on LinkedIn</a> and message me there.</p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "UI + IxD",
-                   "Portfolio",
-                   "Open-To-Work",
-                   "About"
-            ],
-            "date_published": "2026-07-07T19:15:20-04:00",
-            "date_modified": "2026-07-07T19:15:20-04:00"
         }
     ]
 }
