@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://fredvg.com/posts/deep-breath-vignette-3.html",
+            "url": "https://fredvg.com/posts/deep-breath-vignette-3.html",
+            "title": "Deep Breath Vignette 3",
+            "summary": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1rxTMijSl7I?si=nmy3m_Jj40Kqxjkx\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1rxTMijSl7I?si=nmy3m_Jj40Kqxjkx\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n\n<p> </p>",
+            "author": {
+                "name": "Frederik Van Geloven"
+            },
+            "tags": [
+                   "Video",
+                   "Deep Breath Vignette"
+            ],
+            "date_published": "2026-10-23T16:54:50-04:00",
+            "date_modified": "2026-10-23T16:54:50-04:00"
+        },
+        {
             "id": "https://fredvg.com/posts/age-of-empires-dataviz.html",
             "url": "https://fredvg.com/posts/age-of-empires-dataviz.html",
             "title": "Age of Empires Dataviz",
@@ -92,9 +108,9 @@
             "date_modified": "2026-09-29T12:14:38-04:00"
         },
         {
-            "id": "https://fredvg.com/posts/deep-breath-vignette-1.html",
-            "url": "https://fredvg.com/posts/deep-breath-vignette-1.html",
-            "title": "Deep Breath Vignette 1",
+            "id": "https://fredvg.com/posts/deep-breath-vignette-2.html",
+            "url": "https://fredvg.com/posts/deep-breath-vignette-2.html",
+            "title": "Deep Breath Vignette 2",
             "summary": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"300\" height=\"300\" src=\"https://www.youtube.com/embed/z8Ksr2EjvXE?si=COS6prnS6dohf8Ea\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n",
             "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"300\" height=\"300\" src=\"https://www.youtube.com/embed/z8Ksr2EjvXE?si=COS6prnS6dohf8Ea\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n",
             "author": {
@@ -105,7 +121,7 @@
                    "Deep Breath Vignette"
             ],
             "date_published": "2026-09-12T11:56:00-04:00",
-            "date_modified": "2026-10-02T12:28:12-04:00"
+            "date_modified": "2026-10-23T16:55:29-04:00"
         },
         {
             "id": "https://fredvg.com/posts/new-color-palette.html",
@@ -142,34 +158,20 @@
             "date_modified": "2026-09-02T17:16:54-04:00"
         },
         {
-            "id": "https://fredvg.com/posts/what-i-ate-in-one-year-stanley-tucci.html",
-            "url": "https://fredvg.com/posts/what-i-ate-in-one-year-stanley-tucci.html",
-            "title": "What I Ate in One Year — Stanley Tucci",
-            "summary": "<p><a href=\"https://www.simonandschuster.com/books/What-I-Ate-in-One-Year/Stanley-Tucci/9781668055687\">What I Ate in One Year — Stanley Tucci</a></p>\n",
-            "content_html": "<p><a href=\"https://www.simonandschuster.com/books/What-I-Ate-in-One-Year/Stanley-Tucci/9781668055687\">What I Ate in One Year — Stanley Tucci</a></p>\n\n<p> </p>",
+            "id": "https://fredvg.com/posts/deep-breath-vignette-1.html",
+            "url": "https://fredvg.com/posts/deep-breath-vignette-1.html",
+            "title": "Deep Breath Vignette 1",
+            "summary": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/d9rFM69Lcx0?si=5smoRKexcJWp9C2s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/d9rFM69Lcx0?si=5smoRKexcJWp9C2s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n\n<p> </p>",
             "author": {
                 "name": "Frederik Van Geloven"
             },
             "tags": [
-                   "Currently reading"
+                   "Video",
+                   "Deep Breath Vignette"
             ],
-            "date_published": "2026-07-24T11:09:00-04:00",
-            "date_modified": "2026-08-09T11:11:02-04:00"
-        },
-        {
-            "id": "https://fredvg.com/posts/ai-getting-worse.html",
-            "url": "https://fredvg.com/posts/ai-getting-worse.html",
-            "title": "AI getting worse?",
-            "summary": "Is it just me, or is AI already getting worse? For a while it felt like it was improving rapidly, but lately it seems to trip over itself as it overcomplicates things and tries to go about simple tasks in a roundabout way. ",
-            "content_html": "<p>Is it just me, or is AI already getting worse? For a while it felt like it was improving rapidly, but lately it seems to trip over itself as it overcomplicates things and tries to go about simple tasks in a roundabout way. </p>",
-            "author": {
-                "name": "Frederik Van Geloven"
-            },
-            "tags": [
-                   "Notes"
-            ],
-            "date_published": "2026-07-15T14:43:45-04:00",
-            "date_modified": "2026-07-15T14:44:43-04:00"
+            "date_published": "2026-08-07T16:57:00-04:00",
+            "date_modified": "2026-10-23T16:58:04-04:00"
         }
     ]
 }

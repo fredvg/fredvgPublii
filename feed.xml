@@ -3,12 +3,37 @@
     <title>Fred VG&#x27;s Feed</title>
     <link href="https://fredvg.com/feed.xml" rel="self" />
     <link href="https://fredvg.com" />
-    <updated>2026-10-19T11:48:00-04:00</updated>
+    <updated>2026-10-23T16:58:04-04:00</updated>
     <author>
         <name>Frederik Van Geloven</name>
     </author>
     <id>https://fredvg.com</id>
 
+    <entry>
+        <title>Deep Breath Vignette 3</title>
+        <author>
+            <name>Frederik Van Geloven</name>
+        </author>
+        <link href="https://fredvg.com/posts/deep-breath-vignette-3.html"/>
+        <id>https://fredvg.com/posts/deep-breath-vignette-3.html</id>
+            <category term="Video"/>
+            <category term="Deep Breath Vignette"/>
+
+        <updated>2026-10-23T16:54:50-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/1rxTMijSl7I?si=nmy3m_Jj40Kqxjkx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/1rxTMijSl7I?si=nmy3m_Jj40Kqxjkx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Age of Empires Dataviz</title>
         <author>
@@ -165,12 +190,12 @@
         </content>
     </entry>
     <entry>
-        <title>Deep Breath Vignette 1</title>
+        <title>Deep Breath Vignette 2</title>
         <author>
             <name>Frederik Van Geloven</name>
         </author>
-        <link href="https://fredvg.com/posts/deep-breath-vignette-1.html"/>
-        <id>https://fredvg.com/posts/deep-breath-vignette-1.html</id>
+        <link href="https://fredvg.com/posts/deep-breath-vignette-2.html"/>
+        <id>https://fredvg.com/posts/deep-breath-vignette-2.html</id>
             <category term="Video"/>
             <category term="Deep Breath Vignette"/>
 
@@ -244,47 +269,27 @@
         </content>
     </entry>
     <entry>
-        <title>What I Ate in One Year — Stanley Tucci</title>
+        <title>Deep Breath Vignette 1</title>
         <author>
             <name>Frederik Van Geloven</name>
         </author>
-        <link href="https://fredvg.com/posts/what-i-ate-in-one-year-stanley-tucci.html"/>
-        <id>https://fredvg.com/posts/what-i-ate-in-one-year-stanley-tucci.html</id>
-            <category term="Currently reading"/>
+        <link href="https://fredvg.com/posts/deep-breath-vignette-1.html"/>
+        <id>https://fredvg.com/posts/deep-breath-vignette-1.html</id>
+            <category term="Video"/>
+            <category term="Deep Breath Vignette"/>
 
-        <updated>2026-07-24T11:09:00-04:00</updated>
+        <updated>2026-08-07T16:57:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    <p><a href="https://www.simonandschuster.com/books/What-I-Ate-in-One-Year/Stanley-Tucci/9781668055687">What I Ate in One Year — Stanley Tucci</a></p>
+                    <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/d9rFM69Lcx0?si=5smoRKexcJWp9C2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://www.simonandschuster.com/books/What-I-Ate-in-One-Year/Stanley-Tucci/9781668055687">What I Ate in One Year — Stanley Tucci</a></p>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/d9rFM69Lcx0?si=5smoRKexcJWp9C2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
 
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>AI getting worse?</title>
-        <author>
-            <name>Frederik Van Geloven</name>
-        </author>
-        <link href="https://fredvg.com/posts/ai-getting-worse.html"/>
-        <id>https://fredvg.com/posts/ai-getting-worse.html</id>
-            <category term="Notes"/>
-
-        <updated>2026-07-15T14:43:45-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Is it just me, or is AI already getting worse? For a while it felt like it was improving rapidly, but lately it seems to trip over itself as it overcomplicates things and tries to go about simple tasks in a roundabout way. 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Is it just me, or is AI already getting worse? For a while it felt like it was improving rapidly, but lately it seems to trip over itself as it overcomplicates things and tries to go about simple tasks in a roundabout way. </p>
             ]]>
         </content>
     </entry>
